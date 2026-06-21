@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-06-02
-**Total de arquivos:** 30 (28 documentos + WORKFLOW + backlog)
+**Última atualização:** 2026-06-21
+**Total de arquivos:** 32 (29 documentos + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -86,7 +86,19 @@
 
 ---
 
-> **Nota:** Os 28 documentos acima estão prontos para upload.
-> Estrutura de subpastas reservada com `.gitkeep`.
+## 07-instrumentos-planejamento/ (1 documento)
+
+| Arquivo | Documento | Linhas |
+|---|---|---|
+| `PAS-SESDF-2026.md` | Programação Anual de Saúde 2026 — PAS SES-DF (instrumento de planejamento estratégico-orçamentário; 22 OE, 82 indicadores PDS, 8 diretrizes LOA) | ~3739 |
+
+> **Nota de numeração:** a categoria recebeu o número `07` (não `06`) para
+> reservar a posição correta na sequência resultante da futura correção da
+> inconsistência histórica das pastas `03` duplicadas. Ver SEV4 no
+> `backlog-versoes.md`.
+
+---
+
+> **Nota:** 29 documentos transcritos e publicados, organizados por categoria.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*
