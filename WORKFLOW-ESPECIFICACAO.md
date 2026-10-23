@@ -142,6 +142,18 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 **Solução:** Ver §3.1 — Protocolo de Exceção.
 **Status:** ✅ Protocolo formalizado.
 
+### P09 — Marcação de tabela feita só por sombreamento de célula
+**Sintoma:** na RENASES 2012 (Portaria GM/MS 841/2012), os critérios de acesso 1 a 6 de cada ação ou serviço são células pintadas de cinza, sem texto. A extração de texto não captura nada, e a tabela sai sem a informação principal.
+**Causa raiz:** a informação está no desenho da página (retângulos de preenchimento), não na camada de texto.
+**Solução:** ler `page.get_drawings()`. A grade são retângulos pretos finos e a marcação é o preenchimento cinza (~0,75). As bandas de linha vêm das horizontais cobertas pelo vertical da coluna de critérios. A coluna é atribuída pelo centro da célula, e cada célula marcada vira `■` no Markdown. Conferência visual obrigatória por renderização de pelo menos duas páginas. Registrar a adaptação de representação nas Observações.
+**Status:** ✅ Resolvido (22/10/2026).
+
+### P10 — Palavras quebradas sem hífen em células estreitas
+**Sintoma:** em PDF de editor de texto, palavra longa demais para a célula é partida sem hífen ("anatomopatológico" + "s", "plásticas/reparador" + "as", "(psicodiagnósticos" + ")"). Juntar sempre com espaço corrompe a palavra; juntar por heurística ampla funde palavras legítimas ("otorrinolaringologia e").
+**Causa raiz:** o editor quebra a palavra no limite da célula; não há marca de hifenização.
+**Solução:** juntar sem espaço só quando: (a) a linha anterior tem um único token encostado na borda direita da célula; e (b) a linha seguinte começa por pontuação de fechamento, ou é fragmento de uma letra, ou a junção forma palavra existente no vocabulário do próprio documento. Listar todas as junções feitas e conferir uma a uma.
+**Status:** ✅ Resolvido (22/10/2026).
+
 ---
 
 ### 3.1 — Protocolo de Exceção: Arquivo Original Inutilizável
@@ -251,6 +263,16 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | 22-23 | EU AI Act Overview 2024 (EN+PT) | ✅ v1.0 |
 | 24-25 | OECD Health Data Governance 2025 (EN+PT) | ✅ v1.0 |
 | 26-27 | PAHO 8 Principles Digital Transformation 2021 (EN+PT) | ✅ v1.0 |
+
+### Fase 4 — Base normativa da RENASES (projeto Carteira de Serviços, CICS/SES-DF)
+
+| # | Documento | Arquivo | Status |
+|---|---|---|---|
+| 30 | Decreto 7.508/2011 — Organização do SUS (texto compilado) | `01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md` | ✅ v1.0 |
+| 31 | Portaria GM/MS 841/2012 — RENASES 1ª versão (com a lista) | `03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | ✅ v1.0 (Conversão Revisada — P09, P10) |
+| 32 | Resolução CIT 2/2012 — Diretrizes da RENASES | `03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | ✅ v1.0 |
+| 33 | Informe RENASES — pauta da CIT, fev/2012 | `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | ✅ v1.0 |
+| — | Portaria de Consolidação nº 1/2017 e Resolução de Consolidação CIT nº 1/2021 (verificar se absorvem a RENASES) | — | 🔄 Pendente |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02

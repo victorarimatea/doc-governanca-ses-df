@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-06-21
-**Total de arquivos:** 32 (29 documentos + WORKFLOW + backlog + INDICE)
+**Última atualização:** 2026-10-22
+**Total de arquivos:** 36 (33 documentos + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -12,15 +12,16 @@
 |---|---|---|
 | [`README.md`](./README.md) | Apresentação do repositório | Porta de entrada |
 | [`INDICE.md`](./INDICE.md) | Este arquivo | Navegação rápida |
-| [`WORKFLOW-ESPECIFICACAO.md`](./WORKFLOW-ESPECIFICACAO.md) | Especificação técnica completa do pipeline de transcrição v1.1 — 8 problemas documentados, protocolo de exceção, critérios de auto-verificação | Para entender ou reproduzir o processo de transcrição |
+| [`WORKFLOW-ESPECIFICACAO.md`](./WORKFLOW-ESPECIFICACAO.md) | Especificação técnica completa do pipeline de transcrição — 10 problemas documentados, protocolo de exceção, critérios de auto-verificação | Para entender ou reproduzir o processo de transcrição |
 | [`backlog-versoes.md`](./backlog-versoes.md) | Histórico de versões do repositório | Rastreabilidade |
 
 ---
 
-## 01-legislacao-federal/ (5 documentos)
+## 01-legislacao-federal/ (6 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
+| `DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md` | Decreto 7.508/2011 — Regulamenta a Lei 8.080/1990: Regiões de Saúde, RENASES, RENAME, COAP (texto compilado, com alteração do Decreto 11.161/2022) | ~390 |
 | `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md` | Lei 12.965/2014 — Marco Civil da Internet | ~526 |
 | `LEI-FEDERAL-13709-2018-LGPD.md` | Lei 13.709/2018 — LGPD | ~1304 |
 | `LEI-FEDERAL-13787-2018-DIGITALIZACAO-DOCUMENTOS.md` | Lei 13.787/2018 — Digitalização de Documentos | ~100 |
@@ -39,7 +40,7 @@
 
 ---
 
-## 03-portarias-ministeriais/ (5 documentos)
+## 03-portarias-ministeriais/ (7 documentos — portarias do Ministério da Saúde e resoluções da Comissão Intergestores Tripartite)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -48,6 +49,8 @@
 | `PORTARIA-GMMS-3727-2024-INMSD.md` | Portaria GM/MS 3.727/2024 — INMSD | ~200 |
 | `PORTARIA-GMMS-7495-2025-SUS-DIGITAL-AGORA-TEM-ESPECIALISTAS.md` | Portaria GM/MS 7.495/2025 — SUS Digital Agora Tem Especialistas | ~248 |
 | `PORTARIA-SAESMS-2326-2024-TELESSAUDE-TABELA-SUS.md` | Portaria SAES/MS 2.326/2024 — Telessaúde Tabela SUS | ~302 |
+| `PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | Portaria GM/MS 841/2012 — publica a RENASES; inclui a lista completa da 1ª versão (2012), com 201 ações e serviços e os critérios de acesso 1 a 6 | ~601 |
+| `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | Resolução CIT 2/2012 — Diretrizes nacionais para a elaboração da RENASES | ~169 |
 
 ---
 
@@ -99,6 +102,16 @@
 
 ---
 
-> **Nota:** 29 documentos transcritos e publicados, organizados por categoria.
+## 08-documentos-tecnicos/ (1 documento)
+
+Documentos técnicos e de pauta, sem força normativa, guardados pelo valor histórico ou interpretativo.
+
+| Arquivo | Documento | Linhas |
+|---|---|---|
+| `INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | Informe RENASES (pauta da CIT, fev/2012) — recomendações da oficina tripartite para a 1ª versão | ~90 |
+
+---
+
+> **Nota:** 33 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*

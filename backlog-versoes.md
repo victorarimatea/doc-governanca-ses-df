@@ -2,6 +2,52 @@
 
 ---
 
+## v1.2 — 2026-10-22
+
+**Tipo de alteração:** Adição (4 documentos + nova categoria documental) + registro de soluções do pipeline
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o projeto Carteira de Serviços da CICS/SES-DF está
+produzindo um caderno didático sobre a RENASES para gestores hospitalares, e
+precisava da base normativa em texto auditável. Foram transcritos pela skill
+S05 (v1.4) o Decreto 7.508/2011 (texto compilado do Planalto, com a redação
+revogada do art. 26 tachada), a Portaria GM/MS 841/2012 com a lista completa
+da RENASES 2012 (201 ações e serviços, critérios de acesso lidos do
+sombreamento das células), a Resolução CIT 2/2012 e o informe levado à CIT em
+fevereiro de 2012. O informe não é norma e abriu a categoria `08`, de
+documentos técnicos e de pauta. A política de preservação passa a ser
+explícita: o Markdown fica aqui; o PDF original fica na pasta compartilhada de
+normas do Google Drive, com o mesmo nome-base.
+
+### Arquivos adicionados nesta versão
+- `01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md`
+- `03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md`
+- `03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md`
+- `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md`
+
+### Arquivos atualizados nesta versão
+- `README.md` — v1.1 → v1.2: estrutura com a categoria `08`; rótulos das
+  categorias `01` e `03` ampliados (decretos; resoluções da CIT); total 29 → 33;
+  nota sobre os PDFs originais no Drive
+- `INDICE.md` — novas entradas e seção `08`; total de arquivos 32 → 36
+- `WORKFLOW-ESPECIFICACAO.md` — problemas P09 (marcação por sombreamento de
+  célula) e P10 (palavras quebradas sem hífen em células estreitas); Fase 4 no §9
+
+### Achados registrados nas transcrições (fidelidade ao original)
+- A Portaria 841/2012 cita o "art. 42" do Decreto 7.508/2011; o dispositivo é
+  o art. 43 (a Resolução CIT 2/2012 cita corretamente o art. 43).
+- A página da lista de critérios da RENASES 2012 atribui a lista à "Portaria
+  nº 842"; a portaria publicada é a 841.
+
+### Pendências
+- Verificar se a Portaria de Consolidação nº 1/2017 e a Resolução de
+  Consolidação CIT nº 1/2021 absorveram a Portaria 841/2012 e a Resolução CIT
+  2/2012 (portais bloqueiam leitura automática).
+- SEV4 de numeração de pastas (v1.1) segue aberta; a categoria `08` respeita a
+  numeração reservada.
+
+---
+
 ## v1.1 — 2026-06-21
 
 **Tipo de alteração:** Adição (nova categoria documental) + registro de pendência
