@@ -11,7 +11,7 @@ status_documental: "Vigente; pendente verificar incorporação à Resolução de
 arquivo_original: "RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.pdf"
 fonte_externa: "https://www.conass.org.br/wp-content/uploads/2017/02/CIT2-2012.pdf"
 data_transcricao: "2026-10-22"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -28,13 +28,13 @@ versao_transcricao: "1.0"
 | Número de Páginas | 3 |
 | Nome do Arquivo Original | RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.pdf |
 | Link Externo de Acesso | https://www.conass.org.br/wp-content/uploads/2017/02/CIT2-2012.pdf |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
 # Observações da Conversão
 
-- **Fonte:** cópia da resolução em arquivo de editor de texto (Microsoft Word 2007, gerado em 25/01/2012), hospedada pelo CONASS. Não é o fac-símile do Diário Oficial; o texto oficial é o publicado no DOU. Original enviado por Victor como `CIT2-2012.pdf`.
+- **Fonte:** cópia da resolução em arquivo de editor de texto (Microsoft Word 2007, gerado em 25/01/2012), hospedada pelo CONASS. Não é o fac-símile do Diário Oficial; o texto oficial é o publicado no DOU. Original enviado por Victor como `CIT2-2012.pdf`. **PDF preservado (v1.1, 24/10/2026):** o Victor reenviou o mesmo arquivo `CIT2-2012.pdf`, agora guardado na pasta compartilhada de normas com o nome-base deste Markdown (SHA-256 `7bb41ccebd73efa63402e55a2fc626e720549dfb42789971d3776b6ec0862086`). Conferência palavra a palavra em 24/10/2026: 1.229 palavras nos dois, sem diferença.
 - **Data de publicação:** 18/01/2012, conforme nota do CONASEMS da mesma data (https://portal.conasems.org.br/orientacoes-tecnicas/noticias/2217_publicadas-as-resolucoes-da-rename-e-renases); não consta no próprio documento.
 - **Método:** extração por blocos com reflow e separação por marcadores jurídicos; hífen real no fim da linha mantido ("custo-efetividade").
 - **Ementa:** no original está justificada em coluna estreita, uma palavra por linha; foi reunida em um parágrafo.

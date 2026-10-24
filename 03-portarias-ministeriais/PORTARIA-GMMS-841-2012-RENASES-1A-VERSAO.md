@@ -11,7 +11,7 @@ status_documental: "Vigente; única edição localizada (atualização bienal pr
 arquivo_original: "PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.pdf"
 fonte_externa: "https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_acoes_saude.pdf"
 data_transcricao: "2026-10-22"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -28,13 +28,13 @@ versao_transcricao: "1.0"
 | Número de Páginas | 38 |
 | Nome do Arquivo Original | PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.pdf |
 | Link Externo de Acesso | https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_acoes_saude.pdf |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
 # Observações da Conversão
 
-- **Fonte:** PDF da publicação "RENASES — Relação Nacional de Ações e Serviços de Saúde, 1ª versão 2012" do Ministério da Saúde (arquivo enviado por Victor como `RENASES_2012_1a_versao_MS.pdf`). Gerado por editor de texto; sem OCR.
+- **Fonte:** PDF da publicação "RENASES — Relação Nacional de Ações e Serviços de Saúde, 1ª versão 2012" do Ministério da Saúde (arquivo enviado por Victor como `RENASES_2012_1a_versao_MS.pdf`). Gerado por editor de texto; sem OCR. **PDF preservado (v1.1, 24/10/2026):** o Victor reenviou o mesmo arquivo `RENASES_2012_1a_versao_MS.pdf`, agora guardado na pasta compartilhada de normas com o nome-base deste Markdown (SHA-256 `55b79e11116eee20da5f2eb0cb220161259f9c3fbcfbd0b044116e6e900765df`). Conferência palavra a palavra em 24/10/2026: 11.143 palavras no PDF; as 4 diferenças são as palavras partidas na célula do original ("anatomopatológico/s", "reparador/as"), já reunidas como descrito abaixo.
 - **Critérios de acesso (adaptação de representação):** no original, a marcação de cada critério (colunas 1 a 6) é uma **célula sombreada em cinza, sem texto**. Foi detectada pela geometria da página (retângulos de preenchimento cinza) e representada por `■`. Conferida visualmente nas páginas 9 e 31. Linhas de "Gestão" sem nenhuma célula sombreada aparecem sem marca, como no original.
 - **Tabelas:** cada parte e subparte tem uma tabela "Ação ou serviço × Descrição × critérios 1–6"; o cabeçalho de duas linhas do original foi unificado em uma. Tabelas que atravessam páginas foram mantidas contínuas, com `<!-- página N do PDF -->` (Estratégia D10).
 - **Quebras de palavra em células estreitas:** o editor quebrou palavras longas sem hífen na coluna "Ação ou serviço" (ex.: "anatomopatológico/s"). Foram reunidas quando a linha anterior era uma palavra única encostada na borda da célula; hífen real no fim da linha foi mantido ("pré-hospitalar").

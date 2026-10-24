@@ -2,6 +2,44 @@
 
 ---
 
+## v1.4 — 2026-10-24
+
+**Tipo de alteração:** Adição (18 documentos) + registro de PDFs preservados + correção de índice + registro de solução do pipeline
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o Victor pediu a migração das normas da pasta "04 - NORMAS E
+REFERÊNCIAS" do guia "Rotina que Gera Resultado" para a pasta compartilhada de normas,
+com transcrição das que ainda não estavam neste repositório. As transcrições do guia
+(13/10/2026) ficaram no Project do guia, fora do alcance desta sessão; por isso as 18
+normas foram transcritas de novo, dos mesmos PDFs, pela skill S05 (§SINJ). Os PDFs foram
+movidos (não copiados) no Drive para `02-legislacao-distrital/`; as 10 edições integrais
+do DODF que acompanhavam as normas foram para a subpasta `diarios-oficiais/` (só no
+Drive; servem de prova de publicação e não são transcritas). O Victor reenviou também os
+PDFs da Portaria GM/MS 841/2012 (publicação RENASES 2012, que reproduz a portaria na
+íntegra) e da Resolução CIT 2/2012, agora preservados com o nome-base das transcrições.
+
+### Arquivos adicionados nesta versão (`02-legislacao-distrital/`)
+- 17 normas do SINJ-DF (texto compilado impresso em 13/10/2026): Decretos 39.048/2018, 39.546/2018 (Regimento Interno, 313 páginas), 44.322/2023, 46.893/2025 e 48.924/2026; Portaria Conjunta SES/FEPECS 2/2023; Portarias SES-DF 386/2017, 536/2018, 1.357/2018, 1.388/2018, 570/2020 (revogada), 839/2020, 321/2023, 337/2023, 473/2023, 252/2024 e 510/2025
+- `LEI-DISTRITAL-6137-2018-TPD.md` — transcrita do fac-símile do DODF nº 25, edição extra, de 20/04/2018 (não há PDF próprio da lei; o original citado é a edição do DODF)
+
+### Conferências
+- Palavra a palavra, PDF × corpo: zero diferença em 16 das 17 normas do SINJ (o Regimento Interno tem 141.158 palavras). Na Portaria 252/2024, as diferenças de palavras vêm do PDF, que cola células vizinhas sem espaço; a contagem de caracteres confere sem diferença. Na Lei 6.137, as diferenças são as palavras reunidas na hifenização tipográfica do DODF, listadas na transcrição.
+- Anexos em imagem das Portarias 386/2017 (páginas 14 a 16) e 536/2018 (páginas 9 e 10) transcritos por leitura visual em 200 dpi: status "Conversão Revisada".
+
+### Arquivos atualizados nesta versão
+- `03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` e `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` — v1.0 → v1.1: PDF preservado registrado, com SHA-256 e conferência palavra a palavra
+- `INDICE.md` — seção 02 com 21 documentos; total 37 → 55 arquivos. **Correção:** o CNES na Portaria de Consolidação nº 1/2017 vai do art. 358 ao 390 (Título VII, Capítulo IV), e não até o 380 como dizia a v1.3; a atualização ao menos mensal é o art. 370
+- `README.md` — v1.3 → v1.4: total 34 → 52
+- `WORKFLOW-ESPECIFICACAO.md` — problema P13 (grade aninhada do SINJ); §9 com a Fase 5
+
+### Pendências
+- Os PDFs das normas do guia continuam ligados ao registro de referências do guia pelo link do Drive (o arquivo foi movido, o link não muda). A cópia das transcrições no Project do guia deve passar a apontar para este repositório.
+- PDF do Informe RENASES (CIT, fev/2012) ainda não está na pasta compartilhada.
+- Verificar se a Resolução de Consolidação CIT nº 1/2021 absorveu a Resolução CIT 2/2012.
+- Etapa 7.5 (revisão estrutural por modelo externo) não feita para as 18 normas.
+
+---
+
 ## v1.3 — 2026-10-24
 
 **Tipo de alteração:** Adição (1 documento) + correção de metadado + registro de soluções do pipeline

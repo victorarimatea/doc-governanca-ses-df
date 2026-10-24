@@ -182,6 +182,13 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 
 ---
 
+
+### P13 — Grade aninhada do SINJ-DF (cada célula é uma caixa própria)
+
+**Problema:** nas tabelas da Portaria SES/DF nº 321/2023 (páginas 20 a 23), cada célula é uma caixa desenhada à parte dentro de uma célula maior. `find_tables()` vê só a grade externa (duas colunas) e junta o texto de várias caixas numa célula, misturando horários e legendas.
+**Solução:** usar `find_tables()` só para achar a área da tabela. Cada caractere vai para a caixa formada pelas bordas desenhadas mais próximas à sua volta (linhas e retângulos finos cinzentos; os traços azuis de link e os pretos de tachado ficam de fora). As caixas são ordenadas em linhas e colunas pela posição do canto superior esquerdo. Dentro da caixa, um espaço é inserido quando há intervalo horizontal entre caracteres. Conferência: palavras e, quando o PDF cola células vizinhas sem espaço, caracteres (sem espaço e pontuação).
+**Limitação:** células mescladas e caixas de larguras diferentes são acomodadas numa grade simples; uma célula pode ficar deslocada para a coluna vizinha. O conteúdo fica completo.
+
 ## 4. Etapa de Auto-Verificação
 
 | Critério | Verificação |
@@ -286,6 +293,29 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | 33 | Informe RENASES — pauta da CIT, fev/2012 | `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | ✅ v1.0 |
 | 34 | Portaria de Consolidação GM/MS 1/2017 — organização e funcionamento do SUS (absorve a Portaria 841/2012 nos arts. 14 a 21) | `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md` | ✅ v1.0 (Conversão Completa com ressalva — Anexo XV cortado na margem do PDF de origem) |
 | — | Resolução de Consolidação CIT nº 1/2021 (verificar se absorve a Resolução CIT 2/2012) | — | 🔄 Pendente |
+
+### Fase 5 — Normas distritais do guia "Rotina que Gera Resultado" (migradas em 24/10/2026)
+
+| # | Documento | Arquivo | Status |
+|---|---|---|---|
+| 35 | Decreto 39.048/2018 | `02-legislacao-distrital/DECRETO-DISTRITAL-39048-2018-REGULAMENTA-TPD.md` | ✅ v1.0 (Conversão Completa) |
+| 36 | Decreto 39.546/2018 | `02-legislacao-distrital/DECRETO-DISTRITAL-39546-2018-REGIMENTO-INTERNO-SESDF.md` | ✅ v1.0 (Conversão Completa) |
+| 37 | Decreto 44.322/2023 | `02-legislacao-distrital/DECRETO-DISTRITAL-44322-2023-PDPAS.md` | ✅ v1.0 (Conversão Completa) |
+| 38 | Decreto 46.893/2025 | `02-legislacao-distrital/DECRETO-DISTRITAL-46893-2025-COPLANS.md` | ✅ v1.0 (Conversão Completa) |
+| 39 | Decreto 48.924/2026 | `02-legislacao-distrital/DECRETO-DISTRITAL-48924-2026-REDE-DE-INTELIGENCIA-EM-SAUDE.md` | ✅ v1.0 (Conversão Completa) |
+| 40 | Lei distrital 6.137/2018 | `02-legislacao-distrital/LEI-DISTRITAL-6137-2018-TPD.md` | ✅ v1.0 (Conversão Completa) |
+| 41 | Portaria Conjunta SES/FEPECS 2/2023 | `02-legislacao-distrital/PORTARIA-CONJUNTA-SESDF-FEPECS-2-2023-PRATICAS-CURRICULARES.md` | ✅ v1.0 (Conversão Completa) |
+| 42 | Portaria SES-DF 1.357/2018 | `02-legislacao-distrital/PORTARIA-SESDF-1357-2018-ATENCAO-HOSPITALAR.md` | ✅ v1.0 (Conversão Completa) |
+| 43 | Portaria SES-DF 1.388/2018 | `02-legislacao-distrital/PORTARIA-SESDF-1388-2018-POLITICA-DISTRITAL-DE-REGULACAO.md` | ✅ v1.0 (Conversão Completa) |
+| 44 | Portaria SES-DF 252/2024 | `02-legislacao-distrital/PORTARIA-SESDF-252-2024-ALTERA-PORTARIA-321-2023.md` | ✅ v1.0 (Conversão Completa) |
+| 45 | Portaria SES-DF 321/2023 | `02-legislacao-distrital/PORTARIA-SESDF-321-2023-HORARIOS-ESCALAS-E-FREQUENCIA.md` | ✅ v1.0 (Conversão Completa) |
+| 46 | Portaria SES-DF 337/2023 | `02-legislacao-distrital/PORTARIA-SESDF-337-2023-TPD.md` | ✅ v1.0 (Conversão Completa) |
+| 47 | Portaria SES-DF 386/2017 | `02-legislacao-distrital/PORTARIA-SESDF-386-2017-COMPONENTE-HOSPITALAR-RUE.md` | ✅ v1.0 (Conversão Revisada (anexos em imagem)) |
+| 48 | Portaria SES-DF 473/2023 | `02-legislacao-distrital/PORTARIA-SESDF-473-2023-REGULAMENTA-PDPAS.md` | ✅ v1.0 (Conversão Completa) |
+| 49 | Portaria SES-DF 510/2025 | `02-legislacao-distrital/PORTARIA-SESDF-510-2025-EGRESSOS-DE-UTI.md` | ✅ v1.0 (Conversão Completa) |
+| 50 | Portaria SES-DF 536/2018 | `02-legislacao-distrital/PORTARIA-SESDF-536-2018-URGENCIAS-EM-SAUDE-MENTAL.md` | ✅ v1.0 (Conversão Revisada (anexos em imagem)) |
+| 51 | Portaria SES-DF 570/2020 | `02-legislacao-distrital/PORTARIA-SESDF-570-2020-TRANSFERENCIAS-INTER-HOSPITALARES.md` | ✅ v1.0 (Conversão Completa) |
+| 52 | Portaria SES-DF 839/2020 | `02-legislacao-distrital/PORTARIA-SESDF-839-2020-REVOGA-PORTARIA-570-2020.md` | ✅ v1.0 (Conversão Completa) |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
