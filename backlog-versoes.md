@@ -2,6 +2,40 @@
 
 ---
 
+## v1.3 — 2026-10-24
+
+**Tipo de alteração:** Adição (1 documento) + correção de metadado + registro de soluções do pipeline
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o projeto Carteira de Serviços da CICS/SES-DF precisava
+conferir em texto integral onde a base normativa do CNES e da RENASES foi
+consolidada. Foi transcrita pela skill S05 (v1.4) a Portaria de Consolidação
+GM/MS nº 1/2017, a partir do PDF compilado do Saúde Legis (271 páginas, com
+alterações até a Portaria GM/MS nº 3.440, de 24/10/2018). A pendência aberta na
+v1.2 sobre a Portaria 841/2012 fica resolvida: ela está consolidada nos arts. 14
+a 21 (Título II, Capítulo II). O CNES está nos arts. 358 a 380 (Título VII,
+Capítulo IV), com origem nas Portarias 1.646/2015, 2.022/2017 e 1.321/2016.
+
+### Arquivos adicionados nesta versão
+- `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md`
+
+### Arquivos atualizados nesta versão
+- `01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md` — v1.0 → v1.1: registra que o PDF preservado na pasta compartilhada é outra impressão da mesma página do Planalto (20/10/2026, 8 páginas), com texto conferido palavra a palavra
+- `README.md` — v1.2 → v1.3: total 33 → 34
+- `INDICE.md` — nova entrada; total de arquivos 36 → 37
+- `WORKFLOW-ESPECIFICACAO.md` — problemas P11 (tabela sem espaços entre palavras) e P12 (remissão de origem quebrada); §9 atualizado
+
+### Achados registrados na transcrição (fidelidade ao original)
+- Páginas 198, 199, 200 e 201 do PDF (Anexo XV, tipificação de estabelecimentos): texto da coluna da direita cortado na margem do próprio PDF.
+- O PDF reflete alterações até outubro de 2018; alterações posteriores não estão no texto.
+
+### Pendências
+- Verificar se a Resolução de Consolidação CIT nº 1/2021 absorveu a Resolução CIT 2/2012.
+- Texto completo do Anexo XV: buscar a Portaria GM/MS nº 2.022/2017 e a redação publicada no DOU de 26/07/2018, seção 1, página 66.
+- Etapa 7.5 (revisão estrutural por modelo externo) não feita para este documento; as conferências programáticas estão no Controle de Integridade.
+
+---
+
 ## v1.2 — 2026-10-22
 
 **Tipo de alteração:** Adição (4 documentos + nova categoria documental) + registro de soluções do pipeline

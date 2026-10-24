@@ -11,7 +11,7 @@ status_documental: "Vigente (texto compilado com a alteração do Decreto nº 11
 arquivo_original: "DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.pdf"
 fonte_externa: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7508.htm"
 data_transcricao: "2026-10-22"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -25,16 +25,16 @@ versao_transcricao: "1.0"
 | Data de Publicação | 2011-06-29 |
 | Data de Transcrição | 2026-10-22 |
 | Idioma | Português (Brasil) |
-| Número de Páginas | 10 |
+| Número de Páginas | 10 (PDF usado na transcrição); 8 (PDF preservado, ver Observações) |
 | Nome do Arquivo Original | DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.pdf |
 | Link Externo de Acesso | https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7508.htm |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
 # Observações da Conversão
 
-- **Fonte:** texto compilado do portal do Planalto, salvo em PDF pelo navegador Safari (iOS) em 22/10/2026 e enviado por Victor. Por ser página HTML impressa, o hífen no fim da linha é real e foi mantido (mesma regra do §SINJ, item 3).
+- **Fonte:** texto compilado do portal do Planalto, salvo em PDF pelo navegador Safari (iOS) em 22/10/2026 e enviado por Victor. **PDF preservado (v1.1, 24/10/2026):** o PDF de 10 páginas usado na transcrição não foi guardado. O arquivo preservado na pasta compartilhada de normas, com o nome-base deste Markdown, é outra impressão da mesma página do Planalto, salva pelo Chrome em 20/10/2026 (8 páginas, SHA-256 `c4986260f07140e2a23eb8320535514fcc5171dfbe86e4a984d9aa76629e98ef`). Conferência palavra a palavra em 24/10/2026: 3.389 palavras nos dois; as únicas diferenças são a advertência final e a marcação da imagem do cabeçalho, já tratadas nestas Observações. Por ser página HTML impressa, o hífen no fim da linha é real e foi mantido (mesma regra do §SINJ, item 3).
 - **Método:** `get_text("rawdict")` caractere a caractere; cada bloco do PDF corresponde a um parágrafo da norma; parágrafos que continuam na página seguinte foram reunidos.
 - **Redação revogada (Estratégia D9):** o parágrafo único original do art. 26 aparece riscado no Planalto e foi marcado com `~~ ~~`, seguido da redação dada pelo Decreto nº 11.161/2022, como na fonte.
 - **Notas do Planalto:** "(Redação dada pelo…)", "(Incluído pelo…)" e "Vigência" são remissões do texto compilado e foram mantidas. Os sublinhados azuis de link não foram transcritos como formatação.

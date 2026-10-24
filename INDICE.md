@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-10-22
-**Total de arquivos:** 36 (33 documentos + WORKFLOW + backlog + INDICE)
+**Última atualização:** 2026-10-24
+**Total de arquivos:** 37 (34 documentos + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 03-portarias-ministeriais/ (7 documentos — portarias do Ministério da Saúde e resoluções da Comissão Intergestores Tripartite)
+## 03-portarias-ministeriais/ (8 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -51,6 +51,7 @@
 | `PORTARIA-SAESMS-2326-2024-TELESSAUDE-TABELA-SUS.md` | Portaria SAES/MS 2.326/2024 — Telessaúde Tabela SUS | ~302 |
 | `PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | Portaria GM/MS 841/2012 — publica a RENASES; inclui a lista completa da 1ª versão (2012), com 201 ações e serviços e os critérios de acesso 1 a 6 | ~601 |
 | `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | Resolução CIT 2/2012 — Diretrizes nacionais para a elaboração da RENASES | ~169 |
+| `PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md` | Portaria de Consolidação GM/MS 1/2017 — direitos e deveres dos usuários. organização e funcionamento do SUS (561 artigos e 37 anexos; texto compilado do Saúde Legis com alterações até 24/10/2018). Inclui a RENASES (arts. 14 a 21) e o CNES (arts. 358 a 380) | ~9.388 |
 
 ---
 
@@ -112,6 +113,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 33 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 34 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*

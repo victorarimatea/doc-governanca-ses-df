@@ -154,6 +154,18 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 **Solução:** juntar sem espaço só quando: (a) a linha anterior tem um único token encostado na borda direita da célula; e (b) a linha seguinte começa por pontuação de fechamento, ou é fragmento de uma letra, ou a junção forma palavra existente no vocabulário do próprio documento. Listar todas as junções feitas e conferir uma a uma.
 **Status:** ✅ Resolvido (22/10/2026).
 
+### P11 — Tabela de PDF de editor de texto sem espaços entre palavras
+**Sintoma:** na Portaria de Consolidação nº 1/2017 (PDF do Saúde Legis gerado pelo Word), `find_tables().extract()` devolve o texto das células sem espaços ("TABELADEREFERÊNCIADECORESCMYK").
+**Causa raiz:** o PDF posiciona as palavras sem caractere de espaço; a extração por célula concatena os glifos.
+**Solução:** montar o texto de cada célula pelas palavras de `page.get_text("words")` cujo centro cai na célula, na ordem de bloco, linha e palavra. Quando o detector deixa colunas inteiras de fora (palavras alinhadas às linhas da tabela, mas fora da sua caixa), acrescentar essas colunas pelas faixas verticais de cada linha. Conferência palavra a palavra obrigatória.
+**Status:** ✅ Resolvido (24/10/2026).
+
+### P12 — Remissão de origem quebrada em parágrafo à parte
+**Sintoma:** em texto compilado do Saúde Legis, a remissão "(Origem: PRT MS/GM 1646/2015, Art. 2º)" quebra antes de "Art." e o reflow abre parágrafo novo, como se fosse um artigo ("Art. 2º)").
+**Causa raiz:** a linha de continuação começa por "Art.", que é marcador jurídico.
+**Solução:** depois do reflow, reunir ao parágrafo anterior o parágrafo curto que fecha um parêntese deixado aberto, descontando o ")" dos marcadores de alínea ("a)") na contagem. Conferir que nenhum parágrafo termina com parêntese aberto e que a numeração dos artigos não tem repetição.
+**Status:** ✅ Resolvido (24/10/2026).
+
 ---
 
 ### 3.1 — Protocolo de Exceção: Arquivo Original Inutilizável
@@ -268,11 +280,12 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 
 | # | Documento | Arquivo | Status |
 |---|---|---|---|
-| 30 | Decreto 7.508/2011 — Organização do SUS (texto compilado) | `01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md` | ✅ v1.0 |
+| 30 | Decreto 7.508/2011 — Organização do SUS (texto compilado) | `01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md` | ✅ v1.1 (PDF preservado registrado) |
 | 31 | Portaria GM/MS 841/2012 — RENASES 1ª versão (com a lista) | `03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | ✅ v1.0 (Conversão Revisada — P09, P10) |
 | 32 | Resolução CIT 2/2012 — Diretrizes da RENASES | `03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | ✅ v1.0 |
 | 33 | Informe RENASES — pauta da CIT, fev/2012 | `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | ✅ v1.0 |
-| — | Portaria de Consolidação nº 1/2017 e Resolução de Consolidação CIT nº 1/2021 (verificar se absorvem a RENASES) | — | 🔄 Pendente |
+| 34 | Portaria de Consolidação GM/MS 1/2017 — organização e funcionamento do SUS (absorve a Portaria 841/2012 nos arts. 14 a 21) | `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md` | ✅ v1.0 (Conversão Completa com ressalva — Anexo XV cortado na margem do PDF de origem) |
+| — | Resolução de Consolidação CIT nº 1/2021 (verificar se absorve a Resolução CIT 2/2012) | — | 🔄 Pendente |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
