@@ -11,7 +11,7 @@ status_documental: "Documento histórico de pauta (não normativo)"
 arquivo_original: "INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.pdf"
 fonte_externa: "https://www.gov.br/saude/pt-br/acesso-a-informacao/gestao-do-sus/articulacao-interfederativa/cit/pautas-de-reunioes-e-resumos/2012/fevereiro/4-b-renases-cit-fevereiro-2012.pdf"
 data_transcricao: "2026-10-22"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -28,14 +28,14 @@ versao_transcricao: "1.0"
 | Número de Páginas | 1 |
 | Nome do Arquivo Original | INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.pdf |
 | Link Externo de Acesso | https://www.gov.br/saude/pt-br/acesso-a-informacao/gestao-do-sus/articulacao-interfederativa/cit/pautas-de-reunioes-e-resumos/2012/fevereiro/4-b-renases-cit-fevereiro-2012.pdf |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
 # Observações da Conversão
 
-- **Identificação:** o arquivo foi recebido como `file.pdf`, nome que o portal gov.br dá aos downloads. Pelo conteúdo e pela página de pautas da CIT, corresponde ao item "4-b RENASES" da reunião da CIT de fevereiro de 2012. A associação ao endereço acima é **provável**, não conferida byte a byte.
-- **Não é a Resolução CIT nº 2/2012:** este documento é um informe de andamento anterior à pactuação de março de 2012; a resolução segue pendente de obtenção.
+- **Identificação:** o arquivo foi recebido como `file.pdf`, nome que o portal gov.br dá aos downloads. Pelo conteúdo e pela página de pautas da CIT, corresponde ao item "4-b RENASES" da reunião da CIT de fevereiro de 2012. **Conferido em 24/10/2026 (v1.1):** o Victor enviou também a cópia com o nome do arquivo do portal (`4-b-renases-cit-fevereiro-2012.pdf`); os dois arquivos são idênticos byte a byte (SHA-256 `727979d22f33f1cfbfb4c6f6513663a72c9c570857b1eba05c35542098ac7b7e`, 69.351 bytes). O PDF está preservado na pasta compartilhada de normas com o nome-base deste Markdown. Conferência palavra a palavra: 301 palavras nos dois, sem diferença.
+- **Não é a Resolução CIT nº 2/2012:** este documento é um informe de andamento da construção da lista; a resolução está transcrita à parte (`03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md`).
 - **Metadados do arquivo:** criado em Microsoft Word 2010, autor "Maria do Carmo", data do arquivo 05/06/2015 (data da geração do PDF, não do documento).
 - Extração por blocos com reflow; 1 página, sem imagens ou tabelas.
 

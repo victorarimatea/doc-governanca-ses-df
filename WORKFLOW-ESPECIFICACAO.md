@@ -289,10 +289,10 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 |---|---|---|---|
 | 30 | Decreto 7.508/2011 — Organização do SUS (texto compilado) | `01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md` | ✅ v1.1 (PDF preservado registrado) |
 | 31 | Portaria GM/MS 841/2012 — RENASES 1ª versão (com a lista) | `03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | ✅ v1.0 (Conversão Revisada — P09, P10) |
-| 32 | Resolução CIT 2/2012 — Diretrizes da RENASES | `03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | ✅ v1.0 |
-| 33 | Informe RENASES — pauta da CIT, fev/2012 | `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | ✅ v1.0 |
+| 32 | Resolução CIT 2/2012 — Diretrizes da RENASES (revogada por consolidação; texto nos arts. 26 a 46 da Res. Consolidação CIT 1/2021) | `03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | ✅ v1.2 |
+| 33 | Informe RENASES — pauta da CIT, fev/2012 | `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | ✅ v1.1 (PDF preservado) |
 | 34 | Portaria de Consolidação GM/MS 1/2017 — organização e funcionamento do SUS (absorve a Portaria 841/2012 nos arts. 14 a 21) | `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md` | ✅ v1.0 (Conversão Completa com ressalva — Anexo XV cortado na margem do PDF de origem) |
-| — | Resolução de Consolidação CIT nº 1/2021 (verificar se absorve a Resolução CIT 2/2012) | — | 🔄 Pendente |
+| — | Resolução de Consolidação CIT nº 1/2021 — absorve a Resolução CIT 2/2012 nos arts. 26 a 46 e a revoga (art. 122, IV); conferido em 24/10/2026 | — | 🔄 Texto ainda não transcrito |
 
 ### Fase 5 — Normas distritais do guia "Rotina que Gera Resultado" (migradas em 24/10/2026)
 

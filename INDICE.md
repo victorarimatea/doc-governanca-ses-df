@@ -70,7 +70,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `PORTARIA-GMMS-7495-2025-SUS-DIGITAL-AGORA-TEM-ESPECIALISTAS.md` | Portaria GM/MS 7.495/2025 — SUS Digital Agora Tem Especialistas | ~248 |
 | `PORTARIA-SAESMS-2326-2024-TELESSAUDE-TABELA-SUS.md` | Portaria SAES/MS 2.326/2024 — Telessaúde Tabela SUS | ~302 |
 | `PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | Portaria GM/MS 841/2012 — publica a RENASES; inclui a lista completa da 1ª versão (2012), com 201 ações e serviços e os critérios de acesso 1 a 6 | ~601 |
-| `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | Resolução CIT 2/2012 — Diretrizes nacionais para a elaboração da RENASES | ~169 |
+| `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | Resolução CIT 2/2012 — Diretrizes nacionais para a elaboração da RENASES (revogada por consolidação; texto nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021) | ~169 |
 | `PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md` | Portaria de Consolidação GM/MS 1/2017 — direitos e deveres dos usuários. organização e funcionamento do SUS (561 artigos e 37 anexos; texto compilado do Saúde Legis com alterações até 24/10/2018). Inclui a RENASES (arts. 14 a 21) e o CNES (arts. 358 a 390) | ~9.388 |
 
 ---

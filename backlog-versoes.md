@@ -2,6 +2,23 @@
 
 ---
 
+## v1.4.1 — 2026-10-24
+
+**Tipo de alteração:** Atualização de metadados (2 documentos)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** fechar as duas pendências restantes da base normativa da RENASES.
+
+### Arquivos atualizados nesta versão
+- `08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` — v1.0 → v1.1: o Victor enviou duas cópias do PDF (uma com o nome do arquivo do portal gov.br); são idênticas byte a byte e iguais à fonte da transcrição (301 palavras, sem diferença). A associação ao endereço do portal passa de provável a conferida. PDF preservado na pasta compartilhada.
+- `03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` — v1.1 → v1.2: a Resolução de Consolidação CIT nº 1/2021 reproduz os 21 artigos desta resolução nos arts. 26 a 46 (Título I, Capítulo VI) e a revoga por consolidação (art. 122, IV). Conferido no PDF do Ministério da Saúde em 24/10/2026.
+- `INDICE.md`, `WORKFLOW-ESPECIFICACAO.md` (§9) — situação das duas normas.
+
+### Pendências
+- Transcrever a Resolução de Consolidação CIT nº 1/2021 (58 páginas), quando o PDF estiver na pasta compartilhada.
+
+---
+
 ## v1.4 — 2026-10-24
 
 **Tipo de alteração:** Adição (18 documentos) + registro de PDFs preservados + correção de índice + registro de solução do pipeline
