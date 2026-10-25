@@ -195,6 +195,12 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 **Solução (aprovada pelo Victor em 25/10/2026):** um par PDF + Markdown para cada redação, com o mesmo nome-base e os sufixos `-ORIGINAL` e `-REPUBLICADA` (ex.: `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` e `...-REPUBLICADA.md`). Cada transcrição diz, nas Observações, qual redação é, a publicação de cada uma (DOU, data, seção, página), que a republicada é a que vale para o conteúdo, onde está a outra e quais são as diferenças. Nenhuma combina dispositivos das duas. O `status_documental` da original diz que foi substituída pela republicação. Vale também para retificação publicada como novo texto integral.
 **Limitação:** a retificação publicada só como errata (trecho corrigido, sem texto integral) não gera par; registra-se nas Observações da transcrição do ato.
 
+### P15 — Página da internet impressa em PDF pelo navegador (DOU no in.gov.br, Saúde Legis)
+
+**Problema:** a Portaria de Consolidação SAES/MS nº 1/2022 e a Resolução de Consolidação CIT nº 1/2021 chegaram como páginas de portal salvas em PDF pelo navegador, não como fac-símile do diário. A regra do DOU (desfazer o hífen do fim da linha) apagaria hífens reais (216 casos na consolidação SAES); cada página traz cabeçalho ou rodapé de impressão; na continuação de tabelas entre páginas, palavras da primeira linha ficavam fora das células detectadas.
+**Solução (aprovada pelo Victor em 25/10/2026, skill v1.6, §WEB):** hífen do fim da linha mantido; cabeçalho e rodapé de impressão retirados linha a linha (data e hora, título da página, endereço, "n/N"); metadados do DOU da primeira página levados para a ficha; data de impressão registrada como data do texto; palavras órfãs devolvidas à célula pela linha e pela coluna; remissões "Art. N," reunidas ao parágrafo anterior; títulos de anexo reunidos antes de "(Origem: …)". Conferência palavra a palavra sem diferença nos dois documentos.
+**Limitação:** tabelas quebradas entre páginas ficam como uma tabela por página.
+
 ## 4. Etapa de Auto-Verificação
 
 | Critério | Verificação |
