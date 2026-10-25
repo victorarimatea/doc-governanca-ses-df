@@ -2,6 +2,26 @@
 
 ---
 
+## v1.6 — 2026-10-25
+
+**Tipo de alteração:** Adição (1 documento) + registro de solução do pipeline
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** reunir as normas transcritas no padrão para que qualquer projeto consulte o texto sem nova pesquisa em PDF (orientação do Victor de 25/10/2026). A Portaria de Consolidação SAES/MS nº 1/2022 apareceu na conferência da Portaria SAS/MS 118/2014 e reúne boa parte das normas da atenção especializada e dos sistemas de informação.
+
+### Arquivo adicionado (`03-portarias-ministeriais/`)
+- `PORTARIA-CONSOLIDACAO-SAESMS-1-2022-ATENCAO-ESPECIALIZADA.md` — 315 páginas (página do DOU de 31/03/2022 impressa pelo navegador, cópia da SES-MG); 433 artigos, 61 anexos, 132 tabelas; 137.490 palavras sem diferença na conferência; Anexos XLIX e LVII (imagens) transcritos por leitura visual. PDF guardado na pasta compartilhada.
+
+### Arquivos atualizados
+- As duas transcrições da Portaria SAS/MS 118/2014 (v1.1): apontam para a consolidação transcrita.
+- `WORKFLOW-ESPECIFICACAO.md`: P14 (duas redações do mesmo ato, sufixos -ORIGINAL e -REPUBLICADA, aprovado pelo Victor) e §9.
+- `INDICE.md`, `README.md`.
+
+### Pendências
+- Conferir as portarias da SAES que alteraram a consolidação depois de 31/03/2022.
+
+---
+
 ## v1.5 — 2026-10-25
 
 **Tipo de alteração:** Adição (2 documentos)

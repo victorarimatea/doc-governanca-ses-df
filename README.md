@@ -28,7 +28,7 @@ governanca-ses-df/
 ├── WORKFLOW-ESPECIFICACAO.md          Especificação técnica do pipeline de transcrição (v1.1)
 ├── 01-legislacao-federal/             Leis e decretos federais (6 documentos)
 ├── 02-legislacao-distrital/           Legislação e portarias distritais (21 documentos)
-├── 03-portarias-ministeriais/         Portarias GM/MS e SAES/MS, portarias de consolidação e resoluções da CIT (10 documentos)
+├── 03-portarias-ministeriais/         Portarias GM/MS e SAES/MS, portarias de consolidação e resoluções da CIT (11 documentos)
 ├── 03-resolucoes-cfm/                 Resoluções CFM (3 documentos)
 ├── 04-resolucoes-anvisa/              Resoluções ANVISA/RDC (1 documento)
 ├── 05-referencias-internacionais/     Referências internacionais bilíngues EN+PT (10 documentos)
@@ -44,7 +44,7 @@ governanca-ses-df/
 > está registrada como pendência SEV4 no `backlog-versoes.md`, para sessão
 > dedicada.
 
-**Total:** 54 documentos transcritos | Fase 1 (18 nacionais) + Fase 2 Tier 1 (10 internacionais) + Instrumentos de planejamento (1) + Base normativa da RENASES (4) + Portaria de Consolidação nº 1/2017 (1) + Normas distritais do guia "Rotina que Gera Resultado" (18) + Base normativa do CNES (2: Portaria SAS/MS 118/2014, redações original e republicada)
+**Total:** 55 documentos transcritos | Fase 1 (18 nacionais) + Fase 2 Tier 1 (10 internacionais) + Instrumentos de planejamento (1) + Base normativa da RENASES (4) + Portaria de Consolidação nº 1/2017 (1) + Normas distritais do guia "Rotina que Gera Resultado" (18) + Base normativa do CNES (3: Portaria SAS/MS 118/2014, redações original e republicada; Portaria de Consolidação SAES/MS 1/2022)
 
 **PDFs originais:** ficam na pasta compartilhada de normas do Google Drive (preservação para auditoria), com o mesmo nome-base de cada Markdown deste repositório.
 

@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-10-25
-**Total de arquivos:** 57 (54 documentos + WORKFLOW + backlog + INDICE)
+**Total de arquivos:** 58 (55 documentos + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -60,7 +60,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 03-portarias-ministeriais/ (10 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
+## 03-portarias-ministeriais/ (11 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -72,6 +72,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md` | Portaria GM/MS 841/2012 — publica a RENASES; inclui a lista completa da 1ª versão (2012), com 201 ações e serviços e os critérios de acesso 1 a 6 | ~601 |
 | `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` | Resolução CIT 2/2012 — Diretrizes nacionais para a elaboração da RENASES (revogada por consolidação; texto nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021) | ~169 |
 | `PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md` | Portaria de Consolidação GM/MS 1/2017 — direitos e deveres dos usuários. organização e funcionamento do SUS (561 artigos e 37 anexos; texto compilado do Saúde Legis com alterações até 24/10/2018). Inclui a RENASES (arts. 14 a 21) e o CNES (arts. 358 a 390) | ~9.388 |
+| `PORTARIA-CONSOLIDACAO-SAESMS-1-2022-ATENCAO-ESPECIALIZADA.md` | Portaria de Consolidação SAES/MS 1/2022 — normas sobre atenção especializada (4 títulos, 433 artigos e 61 anexos; redação do DOU de 31/03/2022). Inclui habilitações e critérios de alta complexidade, TFD, centrais de regulação, sistemas de informação (SCNES, SIA, SIH, CIHA, BPA, AIH) e o CNES (arts. 217 a 290); o art. 432 lista as normas revogadas por consolidação | ~13.528 |
 | `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md` | Portaria SAS/MS 118/2014, redação republicada (DOU de 16/06/2014) — desativa no CNES o estabelecimento sem atualização por mais de seis meses e lista os impedimentos (revogada por consolidação; texto nos arts. 227 a 230 da Portaria de Consolidação SAES/MS nº 1/2022). Fonte em imagem, transcrita por leitura visual | ~124 |
 | `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` | Portaria SAS/MS 118/2014, redação original (DOU de 19/02/2014), substituída pela republicação; guardada como registro histórico | ~102 |
 

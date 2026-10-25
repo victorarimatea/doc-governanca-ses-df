@@ -189,6 +189,12 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 **Solução:** usar `find_tables()` só para achar a área da tabela. Cada caractere vai para a caixa formada pelas bordas desenhadas mais próximas à sua volta (linhas e retângulos finos cinzentos; os traços azuis de link e os pretos de tachado ficam de fora). As caixas são ordenadas em linhas e colunas pela posição do canto superior esquerdo. Dentro da caixa, um espaço é inserido quando há intervalo horizontal entre caracteres. Conferência: palavras e, quando o PDF cola células vizinhas sem espaço, caracteres (sem espaço e pontuação).
 **Limitação:** células mescladas e caixas de larguras diferentes são acomodadas numa grade simples; uma célula pode ficar deslocada para a coluna vizinha. O conteúdo fica completo.
 
+### P14 — Duas redações do mesmo ato (original e republicada)
+
+**Problema:** a Portaria SAS/MS nº 118/2014 foi republicada no DOU "por ter saído com incorreção no original", com diferenças de conteúdo. Uma transcrição só, ou a mistura das duas, apaga a diferença; dois nomes sem relação entre si parecem dois atos.
+**Solução (aprovada pelo Victor em 25/10/2026):** um par PDF + Markdown para cada redação, com o mesmo nome-base e os sufixos `-ORIGINAL` e `-REPUBLICADA` (ex.: `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` e `...-REPUBLICADA.md`). Cada transcrição diz, nas Observações, qual redação é, a publicação de cada uma (DOU, data, seção, página), que a republicada é a que vale para o conteúdo, onde está a outra e quais são as diferenças. Nenhuma combina dispositivos das duas. O `status_documental` da original diz que foi substituída pela republicação. Vale também para retificação publicada como novo texto integral.
+**Limitação:** a retificação publicada só como errata (trecho corrigido, sem texto integral) não gera par; registra-se nas Observações da transcrição do ato.
+
 ## 4. Etapa de Auto-Verificação
 
 | Critério | Verificação |
@@ -323,7 +329,7 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 |---|---|---|---|
 | 53 | Portaria SAS/MS 118/2014 — redação republicada (DOU de 16/06/2014); revogada por consolidação, texto nos arts. 227 a 230 da Portaria de Consolidação SAES/MS nº 1/2022 | `03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md` | ✅ v1.0 (Conversão Revisada — fonte em imagem, leitura visual conferida com OCR e com a consolidação) |
 | 54 | Portaria SAS/MS 118/2014 — redação original (DOU de 19/02/2014) | `03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` | ✅ v1.0 (Conversão Completa) |
-| — | Portaria de Consolidação SAES/MS nº 1/2022 — atenção especializada; o CNES está no Título III, Capítulo III, arts. 217 a 290; absorve a Portaria SAS/MS 118/2014 e a revoga (art. 432, LXIV); conferido em 25/10/2026 | — | 🔄 Texto ainda não transcrito |
+| 55 | Portaria de Consolidação SAES/MS nº 1/2022 — atenção especializada (433 artigos, 61 anexos); o CNES está no Título III, Capítulo III, arts. 217 a 290; absorve a Portaria SAS/MS 118/2014 e a revoga (art. 432, LXIV) | `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-SAESMS-1-2022-ATENCAO-ESPECIALIZADA.md` | ✅ v1.0 (Conversão Revisada — dois anexos em imagem, leitura visual) |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
