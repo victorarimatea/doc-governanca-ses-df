@@ -2,6 +2,25 @@
 
 ---
 
+## v1.7 — 2026-10-25
+
+**Tipo de alteração:** Adição (1 documento)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** pendência da base normativa da RENASES: transcrever a consolidação que absorveu a Resolução CIT 2/2012. Download autorizado pelo Victor em 25/10/2026.
+
+### Arquivo adicionado (`03-portarias-ministeriais/`)
+- `RESOLUCAO-CONSOLIDACAO-CIT-1-2021-RESOLUCOES-DA-CIT.md` — PDF do Ministério da Saúde (texto do Saúde Legis impresso em 25/10/2022), 58 páginas; 3 títulos, 123 artigos, 11 anexos, 18 tabelas; 38.055 palavras sem diferença na conferência. O art. 122 revoga por consolidação 58 resoluções da CIT. PDF guardado na pasta compartilhada.
+
+### Arquivos atualizados
+- `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md` (v1.3): aponta para a consolidação transcrita.
+- `INDICE.md`, `README.md`, `WORKFLOW-ESPECIFICACAO.md` (§9).
+
+### Pendências
+- Conferir resoluções de consolidação ou alterações posteriores a 2022.
+
+---
+
 ## v1.6 — 2026-10-25
 
 **Tipo de alteração:** Adição (1 documento) + registro de solução do pipeline
