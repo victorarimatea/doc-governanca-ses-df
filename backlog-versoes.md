@@ -2,6 +2,29 @@
 
 ---
 
+## v1.5 — 2026-10-25
+
+**Tipo de alteração:** Adição (2 documentos)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** a Portaria SAS/MS nº 118/2014 aparecia no caderno de CNES com "vigência a conferir". O Victor localizou, em pesquisa própria de 25/10/2026, as duas redações do ato (original e republicada por incorreção) e enviou os PDFs com o relatório da pesquisa. Os dois PDFs foram guardados na pasta compartilhada de normas com o nome-base das transcrições.
+
+### Arquivos adicionados nesta versão (`03-portarias-ministeriais/`)
+- `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md` — redação republicada (DOU nº 113, de 16/06/2014, Seção 1, p. 91), a que vale para o conteúdo. Fonte em imagem (anexo de matéria legislativa da Câmara Municipal de Foz do Iguaçu), transcrita por leitura visual e conferida com OCR e com os arts. 227 a 230 da Portaria de Consolidação SAES/MS nº 1/2022.
+- `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` — redação original (DOU nº 35, de 19/02/2014, Seção 1, p. 73), cópia da SES-MT com texto extraível; 513 palavras, sem diferença na conferência.
+
+### Achado de vigência
+- A Portaria de Consolidação SAES/MS nº 1, de 22/02/2022 (DOU de 31/03/2022, Seção 1, p. 206), reproduz a portaria no Título III, Capítulo III ("Do Cadastro Nacional de Estabelecimentos de Saúde"), Seção II, arts. 227 a 230, e a revoga por consolidação no art. 432, LXIV. Conferido na cópia da página do DOU guardada pela SES-MG, lida em 25/10/2026.
+
+### Arquivos atualizados
+- `INDICE.md`, `README.md`, `WORKFLOW-ESPECIFICACAO.md` (§9, Fase 6).
+
+### Pendências
+- Transcrever a Portaria de Consolidação SAES/MS nº 1/2022 (315 páginas; ao menos o Capítulo III do Título III, arts. 217 a 290, sobre o CNES), quando o PDF estiver na pasta compartilhada.
+- Conferir a redação republicada com a página da BVS/MS, que recusou a leitura nesta sessão.
+
+---
+
 ## v1.4.1 — 2026-10-24
 
 **Tipo de alteração:** Atualização de metadados (2 documentos)

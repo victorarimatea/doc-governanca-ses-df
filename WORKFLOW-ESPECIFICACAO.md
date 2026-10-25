@@ -317,6 +317,14 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | 51 | Portaria SES-DF 570/2020 | `02-legislacao-distrital/PORTARIA-SESDF-570-2020-TRANSFERENCIAS-INTER-HOSPITALARES.md` | ✅ v1.0 (Conversão Completa) |
 | 52 | Portaria SES-DF 839/2020 | `02-legislacao-distrital/PORTARIA-SESDF-839-2020-REVOGA-PORTARIA-570-2020.md` | ✅ v1.0 (Conversão Completa) |
 
+### Fase 6 — Base normativa do CNES (projeto Carteira de Serviços, CICS/SES-DF)
+
+| # | Documento | Arquivo | Status |
+|---|---|---|---|
+| 53 | Portaria SAS/MS 118/2014 — redação republicada (DOU de 16/06/2014); revogada por consolidação, texto nos arts. 227 a 230 da Portaria de Consolidação SAES/MS nº 1/2022 | `03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md` | ✅ v1.0 (Conversão Revisada — fonte em imagem, leitura visual conferida com OCR e com a consolidação) |
+| 54 | Portaria SAS/MS 118/2014 — redação original (DOU de 19/02/2014) | `03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` | ✅ v1.0 (Conversão Completa) |
+| — | Portaria de Consolidação SAES/MS nº 1/2022 — atenção especializada; o CNES está no Título III, Capítulo III, arts. 217 a 290; absorve a Portaria SAS/MS 118/2014 e a revoga (art. 432, LXIV); conferido em 25/10/2026 | — | 🔄 Texto ainda não transcrito |
+
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
 🔄 Upload dos 28 arquivos .md — pendente
