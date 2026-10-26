@@ -2,7 +2,7 @@
 
 **Tipo:** D — Documento
 **ID:** D01
-**Versão:** v1.4 — 2026-10-24
+**Versão:** v1.8 — 2026-10-26
 **Visibilidade:** Público
 **Mantenedor:** victorarimatea
 
