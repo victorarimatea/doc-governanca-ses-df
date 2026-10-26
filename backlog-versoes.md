@@ -2,6 +2,26 @@
 
 ---
 
+## v1.8 — 2026-10-26
+
+**Tipo de alteração:** Adição (3 documentos)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o Victor pediu as portarias de origem do CNES, para o caderno trazer o problema que cada uma enfrentou (os considerandos não estão nas consolidações).
+
+### Arquivos adicionados (`03-portarias-ministeriais/`)
+- `PORTARIA-GMMS-1646-2015-INSTITUI-O-CNES.md` — cópia da ANS (gov.br), 9 páginas, 2.465 palavras sem diferença; redação original, anterior à alteração do prazo do art. 23 pela Portaria GM/MS 760/2017.
+- `PORTARIA-GMMS-2022-2017-TIPO-DE-ESTABELECIMENTO-CNES.md` — redação republicada, Saúde Legis impresso (cópia da Prefeitura de Jacareí), 5 páginas, 3.530 palavras sem diferença; anexo com a justificativa, a terminologia de atividades e a tabela de tipos.
+- `PORTARIA-SASMS-511-2000-FICHA-CADASTRAL-CNES.md` — cópia da SES-AM, 4 páginas, 1.192 palavras sem diferença; sem os anexos; não consta das listas de revogação das consolidações de 2017 e 2022.
+
+### Arquivos atualizados
+- `INDICE.md`, `README.md`, `WORKFLOW-ESPECIFICACAO.md` (§9).
+
+### Pendências
+- Portaria GM/MS 1.321/2016 (formas de contratação): sem cópia institucional localizada; a BVS está fora do ar.
+
+---
+
 ## v1.7 — 2026-10-25
 
 **Tipo de alteração:** Adição (1 documento)

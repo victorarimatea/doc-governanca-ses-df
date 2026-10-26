@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-10-25
-**Total de arquivos:** 59 (56 documentos + WORKFLOW + backlog + INDICE)
+**Última atualização:** 2026-10-26
+**Total de arquivos:** 62 (59 documentos + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -60,7 +60,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 03-portarias-ministeriais/ (12 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
+## 03-portarias-ministeriais/ (15 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -76,6 +76,9 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `PORTARIA-CONSOLIDACAO-SAESMS-1-2022-ATENCAO-ESPECIALIZADA.md` | Portaria de Consolidação SAES/MS 1/2022 — normas sobre atenção especializada (4 títulos, 433 artigos e 61 anexos; redação do DOU de 31/03/2022). Inclui habilitações e critérios de alta complexidade, TFD, centrais de regulação, sistemas de informação (SCNES, SIA, SIH, CIHA, BPA, AIH) e o CNES (arts. 217 a 290); o art. 432 lista as normas revogadas por consolidação | ~13.528 |
 | `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md` | Portaria SAS/MS 118/2014, redação republicada (DOU de 16/06/2014) — desativa no CNES o estabelecimento sem atualização por mais de seis meses e lista os impedimentos (revogada por consolidação; texto nos arts. 227 a 230 da Portaria de Consolidação SAES/MS nº 1/2022). Fonte em imagem, transcrita por leitura visual | ~124 |
 | `PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` | Portaria SAS/MS 118/2014, redação original (DOU de 19/02/2014), substituída pela republicação; guardada como registro histórico | ~102 |
+| `PORTARIA-SASMS-511-2000-FICHA-CADASTRAL-CNES.md` | Portaria SAS/MS 511/2000 — Ficha Cadastral dos Estabelecimentos de Saúde e Banco de Dados Nacional: origem do cadastro atual (sem os Anexos I a III; vigência não conferida) | ~160 |
+| `PORTARIA-GMMS-1646-2015-INSTITUI-O-CNES.md` | Portaria GM/MS 1.646/2015 — institui o CNES na forma atual, com os considerandos (revogada por consolidação; texto nos arts. 358 a 373 e 384 a 390 da Portaria de Consolidação GM/MS 1/2017) | ~301 |
+| `PORTARIA-GMMS-2022-2017-TIPO-DE-ESTABELECIMENTO-CNES.md` | Portaria GM/MS 2.022/2017, redação republicada — tipo de estabelecimento classificado pelas atividades; anexo com a justificativa, a terminologia de atividades e a tabela de tipos (revogada por consolidação; texto nos arts. 374 a 378 e no Anexo XV da Portaria de Consolidação GM/MS 1/2017) | ~221 |
 
 ---
 

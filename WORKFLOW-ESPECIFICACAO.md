@@ -336,6 +336,10 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | 53 | Portaria SAS/MS 118/2014 — redação republicada (DOU de 16/06/2014); revogada por consolidação, texto nos arts. 227 a 230 da Portaria de Consolidação SAES/MS nº 1/2022 | `03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md` | ✅ v1.0 (Conversão Revisada — fonte em imagem, leitura visual conferida com OCR e com a consolidação) |
 | 54 | Portaria SAS/MS 118/2014 — redação original (DOU de 19/02/2014) | `03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md` | ✅ v1.0 (Conversão Completa) |
 | 55 | Portaria de Consolidação SAES/MS nº 1/2022 — atenção especializada (433 artigos, 61 anexos); o CNES está no Título III, Capítulo III, arts. 217 a 290; absorve a Portaria SAS/MS 118/2014 e a revoga (art. 432, LXIV) | `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-SAESMS-1-2022-ATENCAO-ESPECIALIZADA.md` | ✅ v1.0 (Conversão Revisada — dois anexos em imagem, leitura visual) |
+| 57 | Portaria GM/MS 1.646/2015 — institui o CNES (cópia da ANS) | `03-portarias-ministeriais/PORTARIA-GMMS-1646-2015-INSTITUI-O-CNES.md` | ✅ v1.0 (Conversão Completa) |
+| 58 | Portaria GM/MS 2.022/2017, republicada — tipo de estabelecimento (Saúde Legis impresso, cópia da Prefeitura de Jacareí) | `03-portarias-ministeriais/PORTARIA-GMMS-2022-2017-TIPO-DE-ESTABELECIMENTO-CNES.md` | ✅ v1.0 (Conversão Completa) |
+| 59 | Portaria SAS/MS 511/2000 — ficha cadastral (cópia da SES-AM, sem anexos) | `03-portarias-ministeriais/PORTARIA-SASMS-511-2000-FICHA-CADASTRAL-CNES.md` | ✅ v1.0 (Conversão Completa) |
+| — | Portaria GM/MS 1.321/2016 — formas de contratação dos profissionais | — | 🔄 Sem cópia institucional localizada em 26/10/2026 (BVS fora do ar) |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
