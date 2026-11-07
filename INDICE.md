@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-06
-**Total de arquivos:** 65 (61 documentos + 1 nota comparativa + WORKFLOW + backlog + INDICE)
+**Total de arquivos:** 65 (60 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -143,6 +143,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 61 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 60 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*

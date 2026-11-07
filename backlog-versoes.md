@@ -2,6 +2,28 @@
 
 ---
 
+## v1.10.2 — 2026-11-06
+
+**Tipo de alteração:** Correção pontual (OP-E)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** na conferência da atualização do ecossistema, a contagem de documentos não bateu com os arquivos do repositório.
+
+### Achado
+- A contagem estava uma unidade acima do real desde antes da v1.9: o README e o INDICE davam 59 documentos na v1.8, mas havia 58.
+- Origem: o README atribuía 18 documentos à Fase 1, mas a tabela da Fase 1 no §9 do WORKFLOW tem 17, e são 17 os arquivos no repositório.
+- O total de arquivos do INDICE estava certo (o README entrava na conta), mas o texto o rotulava como documento.
+
+### Arquivos atualizados
+- `README.md`: v1.10.1 → v1.10.2; total de 61 para 60 documentos e 1 nota comparativa; Fase 1 de 18 para 17.
+- `INDICE.md`: rótulo do total de arquivos (65 = 60 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog) e nota final com 60 documentos.
+- Os registros das v1.9 e v1.10 continuam como foram escritos; os números certos são os desta versão.
+
+### Pendências
+- O §9 do WORKFLOW ainda marca como "Pendente" os itens 10 a 17 da Fase 1, embora os arquivos estejam no repositório. É preciso conferir se a marca indica uma revisão que ainda falta ou só uma tabela desatualizada.
+
+---
+
 ## v1.10.1 — 2026-11-06
 
 **Tipo de alteração:** Atualização (nota comparativa)
