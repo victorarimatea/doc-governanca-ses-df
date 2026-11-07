@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-10-26
-**Total de arquivos:** 62 (59 documentos + WORKFLOW + backlog + INDICE)
+**Última atualização:** 2026-11-06
+**Total de arquivos:** 63 (60 documentos + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -117,11 +117,12 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 07-instrumentos-planejamento/ (1 documento)
+## 07-instrumentos-planejamento/ (2 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
 | `PAS-SESDF-2026.md` | Programação Anual de Saúde 2026 — PAS SES-DF (instrumento de planejamento estratégico-orçamentário; 22 OE, 82 indicadores PDS, 8 diretrizes LOA) | ~3739 |
+| `PDS-SESDF-2024-2027-REVISADO-2025.md` | Plano Distrital de Saúde 2024-2027, versão atualizada 2025 (v2.0 do plano, 230 páginas): análise situacional, eixos, diretrizes, objetivos, metas e indicadores (capítulo V), gestão do plano; Anexo I (4 indicadores incluídos na aprovação pelo CSDF, Resolução nº 608/2024) e Anexo II (revisão de indicadores para 2025 a 2027) | ~6939 |
 
 > **Nota de numeração:** a categoria recebeu o número `07` (não `06`) para
 > reservar a posição correta na sequência resultante da futura correção da
@@ -140,6 +141,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 34 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 60 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*

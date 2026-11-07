@@ -201,6 +201,12 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 **Solução (aprovada pelo Victor em 25/10/2026, skill v1.6, §WEB):** hífen do fim da linha mantido; cabeçalho e rodapé de impressão retirados linha a linha (data e hora, título da página, endereço, "n/N"); metadados do DOU da primeira página levados para a ficha; data de impressão registrada como data do texto; palavras órfãs devolvidas à célula pela linha e pela coluna; remissões "Art. N," reunidas ao parágrafo anterior; títulos de anexo reunidos antes de "(Origem: …)". Conferência palavra a palavra sem diferença nos dois documentos.
 **Limitação:** tabelas quebradas entre páginas ficam como uma tabela por página.
 
+### P16 — Tabelas de documento diagramado (InDesign/Word) com grade desenhada
+
+**Problema:** no PDS 2024-2027 (versão atualizada 2025), o `find_tables` juntou numa grade só tabelas empilhadas com colunas diferentes (capítulo V), cortou a última linha de tabelas, partiu células altas em várias linhas e não viu tabelas sem moldura externa. O texto extraído pela grade também perdia espaços e trocava a ordem de vírgulas decimais.
+**Solução (06/11/2026):** montar a tabela pelos fios desenhados. Cada faixa entre fios horizontais é uma linha; os fios verticais que cruzam a faixa definem as células; cada caractere vai para a célula que contém o seu centro (intervalo semiaberto, para não duplicar). Célula sem fio superior continua a de cima (mesclagem vertical); célula mesclada na horizontal ocupa a primeira coluna e deixa as demais vazias; faixa sem fio vertical separa tabelas empilhadas; a área cresce enquanto houver fios verticais saindo dela. O `find_tables` fica como reserva para tabelas sem fios. Validado nas 156 tabelas do PDS, com conferência palavra a palavra sem diferença.
+**Limitação:** linhas sem fio próprio entre si precisam de separador informado à mão (Tabela 1, p. 61), e quadros de uma coluna só precisam ser liberados por página.
+
 ## 4. Etapa de Auto-Verificação
 
 | Critério | Verificação |
@@ -340,6 +346,12 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | 58 | Portaria GM/MS 2.022/2017, republicada — tipo de estabelecimento (Saúde Legis impresso, cópia da Prefeitura de Jacareí) | `03-portarias-ministeriais/PORTARIA-GMMS-2022-2017-TIPO-DE-ESTABELECIMENTO-CNES.md` | ✅ v1.0 (Conversão Completa) |
 | 59 | Portaria SAS/MS 511/2000 — ficha cadastral (cópia da SES-AM, sem anexos) | `03-portarias-ministeriais/PORTARIA-SASMS-511-2000-FICHA-CADASTRAL-CNES.md` | ✅ v1.0 (Conversão Completa) |
 | — | Portaria GM/MS 1.321/2016 — formas de contratação dos profissionais | — | 🔄 Sem cópia institucional localizada em 26/10/2026 (BVS fora do ar) |
+
+### Fase 7 — Instrumentos de planejamento
+
+| # | Documento | Arquivo | Status |
+|---|---|---|---|
+| 60 | Plano Distrital de Saúde 2024-2027, versão atualizada 2025 (v2.0 do plano, 230 páginas) | `07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISADO-2025.md` | ✅ v1.0 (Conversão Revisada — imagens com texto lidas visualmente; P16) |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02

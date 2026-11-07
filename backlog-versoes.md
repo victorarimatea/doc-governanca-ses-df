@@ -2,6 +2,40 @@
 
 ---
 
+## v1.9 — 2026-11-06
+
+**Tipo de alteração:** Adição (1 documento) + registro de solução do pipeline
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o Victor pediu a transcrição da versão vigente do Plano Distrital de Saúde 2024-2027. Ele confirmou que a vigente é a versão atualizada de 2025 (arquivo "PDS SES-DF - REVISADO - 2025 03 MAR.pdf"), e não a versão 1.0 de fevereiro de 2024.
+
+### Arquivo adicionado (`07-instrumentos-planejamento/`)
+- `PDS-SESDF-2024-2027-REVISADO-2025.md` — PDF de 230 páginas.
+  - **Conferência:** 91.852 palavras, sem diferença na conferência palavra a palavra.
+  - **Estrutura:** 160 tabelas montadas pelos fios desenhados (P16); 15 imagens com texto transcritas por leitura visual; 55 gráficos, mapas e fotografias como placeholder com legenda; Sumário com âncoras (100%).
+  - **Status:** Conversão Revisada.
+  - **Revisão estrutural (ETAPA 7.5):** feita por agente separado; os 9 erros de extração apontados foram corrigidos.
+  - **PDF:** guardado na pasta compartilhada de normas do Drive, em `07-instrumentos-planejamento/`, com o mesmo nome-base. A subpasta foi criada nesta versão.
+
+### Achado sobre o documento
+- A versão 2.0 é a versão 1.0 com páginas trocadas e acrescentadas: capa, p. 21, 23 e 27, Anexos I e II (p. 223 a 229) e contracapa.
+- No controle de versões (p. 229), a versão 2.0 está sem decisão da SES/DF e do CSDF.
+
+### Arquivos atualizados
+- `INDICE.md`:
+  - seção 07 com 2 documentos;
+  - total de 62 para 63 arquivos;
+  - correção: a nota final dizia "34 documentos" e passa a dizer 60.
+- `README.md`: v1.8 → v1.9; total de 59 para 60 documentos.
+- `WORKFLOW-ESPECIFICACAO.md`: problema P16 (tabelas de documento diagramado com grade desenhada) e §9 com a Fase 7.
+
+### Pendências
+- Em 06/11/2026 não foi localizada na internet a publicação oficial do PDF da versão 2.0. A Agência Brasília (14/03/2025) noticiou a aprovação da revisão pelo Colegiado de Gestão em 12/03/2025.
+- Em 06/11/2026 aparece em info.saude.df.gov.br um "Catálogo de Indicadores PDS – Revisão 2026" (27/12/2025). É preciso conferir se existe uma versão do PDS posterior a março de 2025.
+- Valores dos gráficos (imagens) não transcritos.
+
+---
+
 ## v1.8 — 2026-10-26
 
 **Tipo de alteração:** Adição (3 documentos)
