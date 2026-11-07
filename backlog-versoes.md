@@ -2,6 +2,49 @@
 
 ---
 
+## v1.10 — 2026-11-06
+
+**Tipo de alteração:** Adição (1 transcrição + 1 nota comparativa) + substituição de versão + registro de solução do pipeline
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o Victor pediu que se investigasse se havia revisão do PDS 2024-2027 mais nova que a de março de 2025, para complementar a transcrição com as divergências. Foram achadas a "Revisão 2/2025" (InfoSaúde, agosto de 2025) e o "Catálogo de Indicadores PDS – Revisão 2026" (27/12/2025). O Victor enviou os dois PDFs.
+
+### Arquivos adicionados (`07-instrumentos-planejamento/`)
+- `PDS-SESDF-2024-2027-REVISAO-2-2025.md` — Revisão 2/2025 (v3.0 do controle de versões), PDF de 231 páginas.
+  - **Conferência:** 92.952 palavras, sem diferença na conferência palavra a palavra.
+  - **Estrutura:** 159 tabelas; 14 imagens com texto transcritas por leitura visual; 56 placeholders de imagem; Sumário com âncoras (100%).
+  - **Revisão estrutural (ETAPA 7.5):** feita por agente separado. Erros de extração corrigidos:
+    - cerca de 55 parágrafos partidos;
+    - anos em branco dos cabeçalhos descartados como número de página;
+    - título "LISTA DE SIGLAS" dentro da tabela;
+    - número 3.3.7 separado do título;
+    - linha de metas promovida a título (p. 224);
+    - última linha da Tabela 74 fora da tabela;
+    - ficha catalográfica partida;
+    - citação do controle de versões ("Aguarda", não "Aguardando").
+  - Inconsistências do próprio PDF foram registradas nas Observações: Lista de Gráficos desatualizada, Figura 1 × capítulo V e seção da FEPECS repetida no Anexo II.
+- `PDS-SESDF-2024-2027-COMPARATIVO-VERSOES.md` — nota comparativa (não é transcrição):
+  - versões e aprovações;
+  - resumo das divergências entre março de 2025 e a Revisão 2/2025, com apêndice de 79 diferenças de texto;
+  - propostas do Catálogo de Indicadores – Revisão 2026, com transcrição do trecho das p. 263 a 277.
+
+### Arquivo substituído
+- `PDS-SESDF-2024-2027-REVISADO-2025.md` (rascunho de março de 2025): status "SUBSTITUÍDO", versão da transcrição 1.1, com nota no topo das Observações. Fica no repositório como registro da versão 2.0.
+
+### Arquivos atualizados
+- `INDICE.md`: seção 07 com 3 documentos e 1 nota; total de 63 para 65 arquivos; nota final com 61 documentos.
+- `README.md`: v1.9 → v1.10; total de 60 para 61 documentos.
+- `WORKFLOW-ESPECIFICACAO.md`: problema P17 (nova versão do mesmo documento com fontes trocadas pela regravação do PDF) e §9 com as linhas 60 e 61.
+
+### Pendências
+- **PDF da Revisão 2/2025:** não foi guardado na pasta de normas do Drive, porque o conector não envia arquivos de 10 MB. Guardar manualmente em `07-instrumentos-planejamento/` como `PDS-SESDF-2024-2027-REVISAO-2-2025.pdf`.
+- **Revisão de maio de 2025:** o InfoSaúde também lista uma "Revisão 2025" de maio, que não foi comparada.
+- **Resolução CSDF nº 652/2025:** o texto não foi conferido (o nome do arquivo cita a PAS 2025).
+- **Revisão 2026:** não foi localizado PDS consolidado com a revisão para 2026 aprovada pela Deliberação nº 02, de 13/02/2026. As propostas do Catálogo precisam ser conferidas com o que a deliberação aprovou.
+- **Gráficos:** valores dos gráficos (imagens) não transcritos.
+
+---
+
 ## v1.9 — 2026-11-06
 
 **Tipo de alteração:** Adição (1 documento) + registro de solução do pipeline

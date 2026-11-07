@@ -207,6 +207,24 @@ Cada documento transcrito deve satisfazer **todos** os critérios abaixo. Este �
 **Solução (06/11/2026):** montar a tabela pelos fios desenhados. Cada faixa entre fios horizontais é uma linha; os fios verticais que cruzam a faixa definem as células; cada caractere vai para a célula que contém o seu centro (intervalo semiaberto, para não duplicar). Célula sem fio superior continua a de cima (mesclagem vertical); célula mesclada na horizontal ocupa a primeira coluna e deixa as demais vazias; faixa sem fio vertical separa tabelas empilhadas; a área cresce enquanto houver fios verticais saindo dela. O `find_tables` fica como reserva para tabelas sem fios. Validado nas 156 tabelas do PDS, com conferência palavra a palavra sem diferença.
 **Limitação:** linhas sem fio próprio entre si precisam de separador informado à mão (Tabela 1, p. 61), e quadros de uma coluna só precisam ser liberados por página.
 
+### P17 — PDF regravado (Word → PDF, iLovePDF) com fontes trocadas e texto perdido
+
+**Problema:** a Revisão 2/2025 do PDS foi regravada com outras fontes (Microsoft Sans Serif, Arial Black, Verdana) e outros tamanhos. Isso trouxe quatro efeitos:
+- a detecção de títulos pela fonte deixou de funcionar;
+- algumas palavras ficaram partidas por espaço ("def inição");
+- o título corrido do rodapé apareceu partido em palavras e fora da base da página;
+- linhas do meio do parágrafo ganharam pequenos recuos, blocos de texto diferentes e travessões em corpo maior, o que partia parágrafos;
+- os anos do cabeçalho de cerca de 45 tabelas são texto branco, como o número de página, e a regra de rodapé os descartava.
+
+**Solução (06/11/2026):**
+- **Títulos:** reconhecidos por texto, usando como gabarito os títulos da transcrição anterior do mesmo documento, com tolerância de uma página, mais regras de fonte da nova versão. O Sumário confere 100%.
+- **Rodapé:** o título corrido é filtrado por conteúdo e corpo (≤ 5,5 pt), não por posição. O número de página em branco só é retirado na base da página (ou, com até 3 dígitos, abaixo de y = 700), para não levar junto os anos em branco dos cabeçalhos.
+- **Parágrafos:** a quebra considera só o recuo de primeira linha acima de um x mínimo (`INDENT_MIN_X`) e o corpo predominante da linha, não o do primeiro trecho; a troca de bloco deixa de quebrar (`BLOCK_SPLIT = False`). Parágrafos que continuam na página seguinte são juntados quando a linha anterior chega à margem e não termina em pontuação (`XPAGE_JOIN`).
+- **Lição:** a conferência palavra a palavra usa o mesmo filtro de rodapé da extração; um filtro largo demais apaga texto dos dois lados e passa despercebido. A revisão independente (ETAPA 7.5) achou o erro.
+- **Palavras partidas:** mantidas como no PDF.
+
+**Limitação:** o gabarito depende de existir uma transcrição anterior do mesmo documento; sem ela, as regras de fonte precisam ser refeitas.
+
 ## 4. Etapa de Auto-Verificação
 
 | Critério | Verificação |
@@ -351,7 +369,8 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 
 | # | Documento | Arquivo | Status |
 |---|---|---|---|
-| 60 | Plano Distrital de Saúde 2024-2027, versão atualizada 2025 (v2.0 do plano, 230 páginas) | `07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISADO-2025.md` | ✅ v1.0 (Conversão Revisada — imagens com texto lidas visualmente; P16) |
+| 60 | Plano Distrital de Saúde 2024-2027, rascunho de março de 2025 da versão 2.0 (230 páginas) — substituído | `07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISADO-2025.md` | ✅ v1.1 (Conversão Revisada; marcada como substituída) |
+| 61 | Plano Distrital de Saúde 2024-2027 — Revisão 2/2025 (versão vigente publicada, 231 páginas) | `07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISAO-2-2025.md` | ✅ v1.0 (Conversão Revisada — títulos por gabarito de texto, parágrafos e rodapé ajustados à regravação; P16, P17) |
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02

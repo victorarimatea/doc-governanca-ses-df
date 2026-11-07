@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-06
-**Total de arquivos:** 63 (60 documentos + WORKFLOW + backlog + INDICE)
+**Total de arquivos:** 65 (61 documentos + 1 nota comparativa + WORKFLOW + backlog + INDICE)
 
 ---
 
@@ -117,12 +117,14 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 07-instrumentos-planejamento/ (2 documentos)
+## 07-instrumentos-planejamento/ (3 documentos + 1 nota comparativa)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
 | `PAS-SESDF-2026.md` | Programação Anual de Saúde 2026 — PAS SES-DF (instrumento de planejamento estratégico-orçamentário; 22 OE, 82 indicadores PDS, 8 diretrizes LOA) | ~3739 |
-| `PDS-SESDF-2024-2027-REVISADO-2025.md` | Plano Distrital de Saúde 2024-2027, versão atualizada 2025 (v2.0 do plano, 230 páginas): análise situacional, eixos, diretrizes, objetivos, metas e indicadores (capítulo V), gestão do plano; Anexo I (4 indicadores incluídos na aprovação pelo CSDF, Resolução nº 608/2024) e Anexo II (revisão de indicadores para 2025 a 2027) | ~6939 |
+| `PDS-SESDF-2024-2027-REVISAO-2-2025.md` | **Plano Distrital de Saúde 2024-2027 — Revisão 2/2025 (versão vigente publicada, v3.0 do controle de versões, 231 páginas)**: análise situacional, eixos, diretrizes, objetivos, metas e indicadores (capítulo V), gestão do plano; Anexos I (inclusões de 2024), II (revisão de 17 indicadores para 2025) e III (2 indicadores novos do "Agora Tem Especialistas"). Não inclui a revisão para 2026 (Deliberação nº 02/2026) | ~6900 |
+| `PDS-SESDF-2024-2027-REVISADO-2025.md` | PDS 2024-2027, rascunho de março de 2025 da versão 2.0 (230 páginas). **Substituído** pela Revisão 2/2025; guardado como registro histórico | ~6950 |
+| `PDS-SESDF-2024-2027-COMPARATIVO-VERSOES.md` | Nota comparativa (não é transcrição): versões e aprovações do PDS 2024-2027, divergências entre o rascunho de março de 2025 e a Revisão 2/2025 e alterações propostas para 2026 no Catálogo de Indicadores PDS (dez/2025), com a transcrição do trecho do Catálogo | ~340 |
 
 > **Nota de numeração:** a categoria recebeu o número `07` (não `06`) para
 > reservar a posição correta na sequência resultante da futura correção da
@@ -141,6 +143,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 60 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 61 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*

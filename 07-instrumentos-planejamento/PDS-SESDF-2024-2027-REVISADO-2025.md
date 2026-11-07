@@ -7,11 +7,11 @@ autor: "SES-DF/SUPLANS/CPLAN (equipe organizadora e elaboradora, p. 3 e 4); revi
 data_criacao: "2024 (versão 1.0, © 2024); versão 2.0 em 2025"
 data_publicacao: "Versão 1.0: Deliberação SES/DF nº 01, de 02/01/2024, e Resolução CSDF nº 608, de 21/05/2024 (controle de versões, p. 229). Versão 2.0: campo de decisão vazio no documento"
 idioma: "pt-BR"
-status_documental: "Versão 2.0 (selo 'Versão atualizada 2025' na capa): revisão de 17 indicadores e inclusão de 4 indicadores (Anexos I e II). Vigência do plano: 2024 a 2027"
+status_documental: "Rascunho de março de 2025 da versão 2.0 (selo 'Versão atualizada 2025'), anterior à publicação. SUBSTITUÍDO: a versão publicada vigente é a Revisão 2/2025 — ver PDS-SESDF-2024-2027-REVISAO-2-2025.md e PDS-SESDF-2024-2027-COMPARATIVO-VERSOES.md"
 arquivo_original: "PDS-SESDF-2024-2027-REVISADO-2025.pdf (recebido como 'PDS SES-DF - REVISADO - 2025 03 MAR.pdf')"
 fonte_externa: "Campo não encontrado no documento — o PDF não traz endereço de publicação. PDF preservado na pasta compartilhada de normas do Google Drive: 07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISADO-2025.pdf (https://drive.google.com/file/d/1nFzXQPx4axP6XdVIuBA6VKfIFUY9ft6V/view)"
 data_transcricao: "2026-11-06"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 
 # Plano Distrital de Saúde – PDS 2024-2027 (versão atualizada 2025)
@@ -31,9 +31,11 @@ versao_transcricao: "1.0"
 | Número de Páginas | 230 |
 | Nome do Arquivo Original | PDS-SESDF-2024-2027-REVISADO-2025.pdf (recebido como "PDS SES-DF - REVISADO - 2025 03 MAR.pdf") |
 | Link Externo de Acesso | Campo não encontrado no documento. PDF preservado na pasta compartilhada de normas: [07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISADO-2025.pdf](https://drive.google.com/file/d/1nFzXQPx4axP6XdVIuBA6VKfIFUY9ft6V/view) |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ## Observações da Conversão
+
+> **Versão substituída (registro de 06/11/2026, transcrição v1.1).** Este PDF é um rascunho de março de 2025, anterior à publicação da revisão. A versão publicada vigente do PDS 2024-2027 é a **Revisão 2/2025** (InfoSaúde, agosto de 2025), transcrita em `PDS-SESDF-2024-2027-REVISAO-2-2025.md`. As divergências entre as duas e as alterações propostas para 2026 estão em `PDS-SESDF-2024-2027-COMPARATIVO-VERSOES.md`. Esta transcrição fica como registro histórico.
 
 **Fonte.** PDF de 230 páginas e 8.349.048 bytes (SHA-256 `b84c769fa3c4080a9c4a321c45c2bafd0fe238b2172c84fe84c475478f79e21e`), enviado por Victor em 06/11/2026 como a versão vigente do plano e guardado com o nome-base desta transcrição na pasta compartilhada de normas do Drive (`07-instrumentos-planejamento/`). Os metadados internos do PDF estão vazios.
 
