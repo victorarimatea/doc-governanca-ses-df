@@ -1,6 +1,6 @@
 ---
 id_documento: "PDS-SESDF-2024-2027-COMPARATIVO-VERSOES"
-titulo: "PDS 2024-2027 — versões, aprovações e divergências entre o rascunho de março de 2025, a Revisão 2/2025 e as alterações propostas para 2026"
+titulo: "PDS 2024-2027 — versões, aprovações e divergências entre o rascunho de março de 2025, a versão de maio de 2025, a Revisão 2/2025 e as alterações propostas para 2026"
 tipo_documental: "Nota técnica comparativa (camada de análise; não é transcrição)"
 instituicao_origem: "Elaborado no ecossistema DTD/SETIS/SES-DF a partir de documentos da SES-DF/SUPLANS"
 autor: "Victor Leonardo Arimatea Queiroz, com apoio de Claude"
@@ -20,9 +20,44 @@ Esta nota acompanha as transcrições do Plano Distrital de Saúde 2024-2027 em 
 |---|---|---|---|---|
 | 1.0 (fev/2024) | Plano original, 223 páginas | Deliberação do Colegiado de Gestão nº 01, de 02/01/2024; Resolução CSDF nº 608, de 21/05/2024 | [InfoSaúde](https://info.saude.df.gov.br/wp-content/uploads/2024/05/PDS-2024-2027.pdf) | Não transcrita |
 | 2.0, rascunho (mar/2025) | Versão 1.0 com nota da versão, Anexos I e II e páginas refeitas; controle de versões sem decisão para a 2.0 | Revisão aprovada pela Deliberação nº 13, de 13/03/2025, aprovação que o rascunho ainda não registra | Drive de Victor ("PDS SES-DF - REVISADO - 2025 03 MAR.pdf") | `PDS-SESDF-2024-2027-REVISADO-2025.md` |
-| Revisão 2025 (mai/2025) | "Versão atualizada pós-aprovação do CG", publicada no InfoSaúde | Deliberação nº 13, de 13/03/2025 | [InfoSaúde](https://info.saude.df.gov.br/wp-content/uploads/2025/05/PDS_2024_2027___VERSAO_ATUALIZADA_POS_APROVACAO_DO_CG.pdf) | Não transcrita nem comparada |
-| Revisão 2/2025 (ago/2025), versão 3.0 | Versão vigente publicada; 231 páginas; Anexo III novo | Controle de versões: 2.0 pela Deliberação nº 13/2025; 3.0 "aguardando deliberação do Colegiado de Gestão". O InfoSaúde associa a Deliberação nº 38, de 14/08/2025, e a Resolução CSDF nº 652, de 18/09/2025 (o arquivo desta tem no nome "Aprovar a Programação Anual de Saúde – PAS 2025"; texto não conferido) | [InfoSaúde](https://info.saude.df.gov.br/wp-content/uploads/2025/08/PDS-2024-2027-Revisao-2-2025.pdf) | `PDS-SESDF-2024-2027-REVISAO-2-2025.md` |
+| Revisão 2025 (publicada em mai/2025) | "Versão atualizada pós-aprovação do CG"; 230 páginas; versão intermediária: corpo da Revisão 2/2025 com a nota e os anexos do rascunho de março (seção 1.1) | Deliberação nº 13, de 13/03/2025 (o controle de versões do PDF ainda não a registra) | [InfoSaúde](https://info.saude.df.gov.br/wp-content/uploads/2025/05/PDS_2024_2027___VERSAO_ATUALIZADA_POS_APROVACAO_DO_CG.pdf) | Não transcrita: todo o texto está em uma das duas transcrições (seção 1.1) |
+| Revisão 2/2025 (ago/2025), versão 3.0 | Versão vigente publicada; 231 páginas; Anexo III novo | Controle de versões: 2.0 pela Deliberação nº 13/2025; 3.0 "Aguarda deliberação do Colegiado de Gestão da SES-DF.". O InfoSaúde associa a Deliberação nº 38, de 14/08/2025, e a Resolução CSDF nº 652, de 18/09/2025 (o arquivo desta tem no nome "Aprovar a Programação Anual de Saúde – PAS 2025"; texto não conferido) | [InfoSaúde](https://info.saude.df.gov.br/wp-content/uploads/2025/08/PDS-2024-2027-Revisao-2-2025.pdf) | `PDS-SESDF-2024-2027-REVISAO-2-2025.md` |
 | Revisão para a vigência 2026 | Revisão de metas e indicadores para 2026 | Deliberação do Colegiado de Gestão nº 02, de 13/02/2026 (DODF nº 31, de 18/02/2026) | Plano consolidado não localizado em 06/11/2026; as propostas estão no Catálogo de Indicadores PDS — Revisão 2026, de 27/12/2025 (seção 3 desta nota) | Só o trecho de alterações do Catálogo (seção 3) |
+
+### 1.1 A versão de maio de 2025 ("pós-aprovação do CG")
+
+**Arquivo comparado.** "PDS_2024_2027___VERSAO_ATUALIZADA_POS_APROVACAO_DO_CG.pdf", publicado no InfoSaúde em maio de 2025: 230 páginas, 8.731.814 bytes (SHA-256 `7ea2b017e5e4f51b39c45a1863c41d21db79bab39691a583a030ad8caa831df7`). Metadados internos: gerado com PyPDF2 em 01/04/2025, o que indica páginas montadas a partir de outros PDFs. Enviado por Victor em 06/11/2026.
+
+**Método.** O texto de cada página foi comparado palavra por palavra com o PDF do rascunho de março e com o da Revisão 2/2025.
+
+**Composição.** Não há nenhum trecho próprio. Cada página repete uma das outras duas versões:
+
+| Páginas (maio) | Igual a | Observação |
+|---|---|---|
+| 1 a 4 | Revisão 2/2025, p. 1 a 4 | Capa "Brasília, setembro de 2023"; créditos já com "Revisão Versão 1.1" |
+| 5 | Revisão 2/2025, p. 5, sem a nota | Só a ficha catalográfica ("2ª Edição", "230 p.") |
+| 6 a 22 e 24 a 223 | Revisão 2/2025, mesmas páginas | Palavra por palavra, inclusive as mesmas fontes e as mesmas palavras partidas ("def inição", "2O2O") |
+| 23 | Revisão 2/2025, p. 23, mais a nota do rascunho de março | A "Nota da versão atualizada." continua na p. 23, com os 5 critérios de março (sem o critério do "Agora Tem Especialistas") e sem infográfico |
+| 224 a 230 | Rascunho de março, p. 223 a 229 | Anexos I e II na forma de março e controle de versões com a 2.0 sem decisão; única diferença: "(2024)" → "(2024)." na p. 224 |
+
+Não há contracapa nem Anexo III.
+
+**Consequências para a leitura desta nota**
+
+- Quase tudo o que a seção 2 atribui à Revisão 2/2025 já estava na versão de maio:
+  - as mudanças do corpo do texto (p. 6 a 223): subseção de hemoterapia e novo Gráfico 47, tabela da FHB no capítulo V, metas de citopatologia, diabetes e dengue, trechos retirados e correções;
+  - os créditos e a ficha catalográfica.
+  
+  Essas mudanças são da versão 2.0 aprovada pelo Colegiado de Gestão (Deliberação nº 13/2025), não da 3.0. O rascunho de março é anterior a elas.
+- Só a Revisão 2/2025 traz:
+  - a nota na p. 5, com o sexto critério e o infográfico;
+  - o Anexo II reorganizado, com a nova redação do item 14;
+  - o Anexo III;
+  - o controle de versões com a Deliberação nº 13/2025 e a linha da versão 3.0.
+- O "230 p." da ficha catalográfica corresponde à versão de maio, que tem 230 páginas. A Revisão 2/2025 tem 231 páginas e manteve a ficha.
+- O apêndice 2.2 indica, em cada diferença, se ela já aparece na versão de maio.
+
+**Conclusão.** A versão de maio é um elo intermediário. Ela importa para datar as mudanças, mas não pede transcrição própria, porque todo o seu texto já está transcrito.
 
 ## 2. Rascunho de março de 2025 × Revisão 2/2025
 
@@ -56,7 +91,7 @@ Esta nota acompanha as transcrições do Plano Distrital de Saúde 2024-2027 em 
   - exames na atenção especializada ambulatorial: ampliar 12% ao ano.
 - Controle de versões (p. 231):
   - versão 2.0: Deliberação nº 13/2025 e "Aguarda deliberação do CSDF";
-  - versão 3.0: "Aguardando deliberação do Colegiado de Gestão".
+  - versão 3.0: "Aguarda deliberação do Colegiado de Gestão da SES-DF.".
 
 **Metas e responsáveis alterados no capítulo V (p. 206)**
 
@@ -100,87 +135,87 @@ Comparação palavra a palavra entre as duas transcrições, da p. 22 em diante.
 - diferenças só de quebra de linha, de página ou de palavra partida pela regravação;
 - os marcadores das transcrições visuais.
 
-| # | Página mar/2025 | Página Rev. 2/2025 | Contexto (texto anterior ao trecho) | Rascunho de março de 2025 | Revisão 2/2025 |
-|---|---|---|---|---|---|
-| 1 | 22 | 22 | … alinhada com as demais iniciativas e instrumentos governamentais, | tal | tais |
-| 2 | 23 | 23 | … de saúde da população adscrita e dispõe sobre | a Rede | as Redes |
-| 3 | 23 | 23 | … adscrita e dispõe sobre a Rede de Atenção | m | à |
-| 4 | 23 | 23 | … e, o sexto, discorre sobre os elementos necessários | m | à |
-| 5 | 23 | 23 | … ampliar e qualificar o acesso aos bens e | serviço | serviços |
-| 6 | 23 | 24 | … qualidade de vida da população do Distrito Federal. | Nota da versão atualizada A revisão de indicadores do Plano Distrital de Saúde (PDS 2024-2027) foi realizada pela Gerência de Monitoramento e Avaliação dos Instrumentos de Planejamento em Saúde (GEMAP/DIMOAS/CPLAN/SUPLANS) junto às áreas técnicas da SES/DF, em atenção à apuração dos resultados do 1º e 2º quadrimestres de 2024 (Relatório Detalhado do Quadrimestre Anterior - RDQA). Desta forma, e considerando que o planejamento em saúde é um processo contínuo e dinâmico que busca entender mudanças sociodemográficas e epidemiológicas, assim como responder eficazmente aos desafios emergentes e (…) | — |
-| 7 | 27 | 27 | … – 2027, os objetivos do Mapa Estratégico visando | m | à |
-| 8 | 27 | 27 | … Atenção Especializada Ambulatorial e Hospitalar \| Redes de | Atenção em | atenção à |
-| 9 | 27 | 27 | … por doenças imunopreveníveis e por arboviroses \| Vigilância | em | à |
-| 10 | 27 | 27 | … \| \| Processos \| Ampliar e qualificar a | — | atenção primária à saúde \| |
-| 11 | 27 | 27 | … a Atenção Primária à Saúde \| Atenção Primária | em Saúde \| Atenção Prmária | — |
-| 12 | 27 | 27 | … força de trabalho, de forma regionalizada \| Vigilância | em | à |
-| 13 | 27 | 27 | … \| Promover e aprimorar as ações de vigilância | à | em |
-| 14 | 29 | 29 | … a elaboração dos instrumentos de planejamento para o | quadriénio | quadriênio |
-| 15 | 29 | 29 | … último ao que coube a pasta saúde. Durante | deste | este |
-| 16 | 37 | 37 | … Administração Central (ADMC), Superintendências de Regiões de Saúde | (RS), | (SRS), |
-| 17 | 42 | 42 | … Domicílios (PDAD), 2021. Elaborado por: SES/SUPLANS/CCONS/DGIE/GAOIR, 2023. 3.3.1 | Pirâmides Etárias | Pirâmide Etária |
-| 18 | 42 | 42 | … 2023. 3.3.1 Pirâmides Etárias do Distrito Federal entre | 2020 | 2O2O |
-| 19 | 42 | 42 | … Pirâmides Etárias do Distrito Federal entre 2020 e | 2030 | 2O3O |
-| 20 | 43 | 43 | … Projeções da Dinâmica Etária do Distrito Federal até | 2030. | 2O3O |
-| 21 | 48 | 48 | … deve ser avaliada conforme o contexto sócio-histórico específico. | Específica A RA com mais alta renda – Lago Sul – é também aquela com o maior número de residentes acima de 25 anos com ensino superior (gráfico 12). No outro extremo dessa desigualdade educacional, no SCIA/ Estrutural somente 4,6% possuem um diploma universitário. Sua população não alfabetizada de cerca de 8,1% só é menor que os 9% do Recanto das Emas. | — |
-| 22 | 49 | 49 | … Tratamento de Água, Esgotamento Sanitário, Coleta e Tratamento | do | de |
-| 23 | 59 | 59 | … refere à prática da vigilância em saúde. Tem | proposito | propósito |
-| 24 | 65 | 65 | … 2023, sujeitos à alteração. Elaborado por: SES/SUPLANS/CPLAN/DIPLAN/GMOAS, 2023. | Doença Crônica | Doenças Crônicas |
-| 25 | 65 | 65 | … SES/SUPLANS/CPLAN/DIPLAN/GMOAS, 2023. Doença Crônica Não Transmissíveis (DCNT) As | DCNTs | DCNT |
-| 26 | 67 | 67 | … a alterações. Elaborado por SES/SUPLANS/CPLAN/ DIPLAN/GMOAS, 2023. b. | Doenças | Doença |
-| 27 | 67 | 67 | … doenças do aparelho respiratório (DAR), expressas no Capítulo | IX | X |
-| 28 | 95 | 95 | … em UBS por Regiões de Saúde conforme figura | abaixo: | a seguir: |
-| 29 | 98 | 98 | … Federal (IPEDF). Dados fornecidos pela SES/SAIS/COAPS/DESF. Extraído do | SSESPLAN, | SESPlan, |
-| 30 | 130 | 130 | … população usuária do SUS no Distrito Federal. 3.6.2 | Habitações | Habilitações |
-| 31 | 134 | 134 | … neonatal Tipo II, totalizando 18 leitos habilitados no | HHRSM. | HRSM. |
-| 32 | 134 | 134 | … sendo estabelecida pelo complexo regulador e suas unidades | operacionais. A regulação médica, exerce autoridade sanitária para a garantia do acesso baseada em protocolos, classificação de risco e demais critérios de priorização. | operacionais |
-| 33 | 135 | 135 | … com perspectiva de potencializar a implementação e fortalecer | da | a |
-| 34 | 141 | 141 | … esses processos vêm sendo reestruturados de forma a | garantia de | garantir o |
-| 35 | 142 | 142 | … gestão, buscam garantir a integralidade do cuidado, coordenado | — | pela |
-| 36 | 143 | 143 | … promoção da saúde. No Distrito Federal foram implementadas | cinco | seis |
-| 37 | 143 | 143 | … de Saúde, 1 Centro de Parto Normal peri-hospitalar, | 11 | 10 |
-| 38 | 143 | 143 | … 11 hospitais que prestam assistência ao Parto e | Nascimento; | Nascimento e |
-| 39 | 145 | 145 | … aos gestores das Regiões de Saúde, foram elencados | necessidade | necessidades |
-| 40 | 145 | 145 | … elencados necessidade de saúde e problemas por eixos | temático, | temáticos, |
-| 41 | 149 | 149 | … da RAPS. O direcionamento para o próximo quadriênio | — | são |
-| 42 | 153 | 153 | … endemias, violência e agravos à saúde. Sendo assim | às | as |
-| 43 | 159 | 159 | … já implantados atendem ainda os municípios da RIDE. | Em | Um |
-| 44 | 161 | 160 | … PDS se refere ao monitoramento de sua execução. | — | Atenção hemoterápica e hematológica Conforme a Portaria SES-DF nº 54/2011, é responsabilidade da Fundação Hemocentro de Brasília (FHB), fundação pública vinculada à SES-DF, elaborar e implementar o Sistema de Sangue, Componentes e Hemoderivados – SSCH, como órgão gestor dessa política no Distrito Federal. Além disso, de acordo com a Portaria n° 725/2018, a FHB atua como Centro de Referência de Tratamento de Coagulopatias Hereditárias, coordenando e regulando a atenção integral aos pacientes com essas condições. Ainda, no contexto da atenção hematológica, a FHB coordena a política da atenção (…) |
-| 45 | 162 | 163 | … pandemia referente a COVID- 19. As carreiras referentes | — | a |
-| 46 | 163 | 164 | … A diminuição da força de trabalho se deve | as | às |
-| 47 | 169 | 170 | … 6 \| 6 \| \| Med.Resid. - Cirurgia | Toraxica | Torácica |
-| 48 | 175 | 176 | … DE INFORMAÇÃO E COMUNICAÇÃO 4.2.1 Gestão da Tecnologia | de | da |
-| 49 | 187 | 188 | … dos Contratos celebrados com o ICIPE. 4.3.2 Contratos | Assistenciais | Assistênciais |
-| 50 | 189 | 190 | … Tesouro do GDF, conforme configuração a seguir: Gráfico | 47. | 48. |
-| 51 | 190 | 191 | … proposta ao PLOA 2024, uma dotação inicial de: | — | Gráfico 49. Evolução do aporte do IPREV para custeio da folha de aposentados e pensionistas |
-| 52 | 205 | 206 | … acesso aos exames de citopatologia na razão de | 0,24. | 0,26 |
-| 53 | 205 | 206 | … e na população da mesma faixa etária. \| | 0,16 | 0,22 (2023) |
-| 54 | 205 | 206 | … etária. \| 0,16 \| Razão \| Maior-Melhor \| | 0,18 \| 0,20 \| 0,22 | 0,23 |
-| 55 | 205 | 206 | … \| 0,18 \| 0,20 \| 0,22 \| 0,24 | — | \| 0,25 \| 0,26 |
-| 56 | 205 | 206 | … Internações por Diabetes Mellitus e suas complicações até | 2023. | 2027. |
-| 57 | 205 | 206 | … \| \| \| \| \| \| Objetivo \| | 1.3.1. | — |
-| 58 | 205 | 206 | … <300 \| <300 \| PPA (meta) PDS \| | SES/SVS/DIVEP/GVDT | SES/SVS/AMISPE |
-| 59 | 205 | 206 | … \| 90% \| 100% \| PDS \| SES/SVS/DIVEP/GEVITHA | — | \| Nota: Área técnica corresponsável pelo alcance da meta. \| Objetivo \| Estruturar e reorganizar a Atenção Especializada Ambulatorial e Hospitalar, com foco na qualificação da carteira de serviços \| \| \| \| \| \| \| \| \| \| \| Metas \| Indicadores \| Indice de Referência \| Unidade de Medida \| Polaridade \| 2024 \| 2025 \| 2026 \| 2027 \| Instrumento \| Responsável \| \| Alcançar a proporção de 94% de pacientes com hemofilia grave em adesão ao protocolo de realização de exames laboratoriais do ministério da saúde. \| Proporção de pacientes com hemofilia grave em adesão ao protocolo de (…) |
-| 60 | 214 | 215 | … saúde do DF, com apoio e grande interface | do | com o |
-| 61 | 214 | 215 | … ressalta a construção coletiva e articulada com as | com participação as | — |
-| 62 | 214 | 215 | … com participação as sete Regiões de Saúde e | das 03 | as três |
-| 63 | 214 | 215 | … Macrorregiões de Saúde. Cabe ainda apontar a integração | e grande interface | — |
-| 64 | 224 | 225 | … 93% (2026); 94% (2027). II. Revisão de Indicadores | para o | do |
-| 65 | 224 | 225 | … (2027). II. Revisão de Indicadores para o PDS | 2025 a 2027 | 2024-2027 (vigência 2025) por ocasião da aprovação pelo Colegiado de Gestão da Secretaria de Estado de Saúde do Distrito Federal - Deliberação do Colegiado de Gestão Nº 13, de 13 de março de 2025. |
-| 66 | 224 | 225 | … 2026 foram ajustados para garantir a progressão adequada. | B. Subsecretaria de Atenção Integral à Saúde (SAIS) | — |
-| 67 | 226 | 227 | … Metas anuais: 3 (2025); 6 (2026); 9 (2027). | C. | B. |
-| 68 | 226 | 227 | … Metas anuais: 12% (2025); 48% (2026); 100% (2027). | D. | C. |
-| 69 | 226 | 227 | … 672.177.026,04 (2025); R$ 681.262.864,01 (2026); R$ 690.348.702,16 (2027). | E. | D. |
-| 70 | 227 | 228 | … Metas anuais: 10 (2025); 8,5 (2026); 7 (2027). | F. | E. |
-| 71 | 227 | 228 | … Indicador: sem alteração. . Metas anuais: sem alteração. | G. | F. |
-| 72 | 227 | 228 | … cada Região de Saúde, até 2027. . Indicador: | Realizar pelo menos uma capacitação em transparência e controle social anualmente em cada Região | Número de Regiões |
-| 73 | 227 | 228 | … controle social anualmente em cada Região de Saúde | até 2027. | capacitadas em Transparência e Controle Social. |
-| 74 | 228 | 229 | … Metas anuais: 7 (2025); 7 (2026); 7 (2027). | H. | G. |
-| 75 | 228 | 229 | … Metas anuais: 70% (2025); 75% (2026); 80% (2027). | I. | H. |
-| 76 | 228 | 229 | … Metas anuais: 52.303 (2025); 54.918 (2026); 57.664 (2027). | J. | I. |
-| 77 | 229 | 231 | … Metas anuais: 204 (2025); 234 (2026); 264 (2027). | — | III. Inclusão de novos Indicadores no PDS 2024-2027 (vigência 2025) A. Subsecretaria de Atenção Integral à Saúde (SAIS) 1. CONSULTAS NA ATENÇÃO ESPECIALIZADA AMBULATORIAL - Inclusão: o indicador expressa a quantificação dos atendimentos ambulatoriais realizados no âmbito do Sistema Único de Saúde (SUS) do Distrito Federal e foi incluído no Plano Distrital de Saúde para reforçar o compromisso da SES-DF com o “Programa Agora tem Especialistas”, iniciativa do Ministério da Saúde e do Governo Federal que tem como foco dar maior agilidade aos atendimentos no Sistema Único de Saúde – SUS para os (…) |
-| 78 | 229 | 231 | … Saúde (GPLAN/DIPLAN/CPLAN/SUPLANS) \| Criação do documento \| Deliberação | — | do Colegiado de Gestão da SES-DF |
-| 79 | 229 | 231 | … de Metas e Indicadores, conforme apuração realizada pela | GMAP/DIMOAS/CPLAN/SUPLANS | GEMAP/DIMOAS/CPLAN/SUPLANS \| Deliberação do Colegiado de Gestão da SES-DF Nº 13, de 13 de março de 2025. \| Aguarda deliberação do CSDF \| \| 3.0 \| Gerência de Planejamento e Programação em Saúde (GPLAN/DIPLAN/CPLAN/SUPLANS) \| Atualização de Metas e Indicadores, conforme apuração realizada pela GEMAP/DIMOAS/CPLAN/SUPLANS \| Aguarda deliberação do Colegiado de Gestão da SES-DF. |
+| # | Página mar/2025 | Página Rev. 2/2025 | Contexto (texto anterior ao trecho) | Rascunho de março de 2025 | Revisão 2/2025 | Já em mai/2025? |
+|---|---|---|---|---|---|---|
+| 1 | 22 | 22 | … alinhada com as demais iniciativas e instrumentos governamentais, | tal | tais | Sim |
+| 2 | 23 | 23 | … de saúde da população adscrita e dispõe sobre | a Rede | as Redes | Sim |
+| 3 | 23 | 23 | … adscrita e dispõe sobre a Rede de Atenção | m | à | Sim |
+| 4 | 23 | 23 | … e, o sexto, discorre sobre os elementos necessários | m | à | Sim |
+| 5 | 23 | 23 | … ampliar e qualificar o acesso aos bens e | serviço | serviços | Sim |
+| 6 | 23 | 24 | … qualidade de vida da população do Distrito Federal. | Nota da versão atualizada A revisão de indicadores do Plano Distrital de Saúde (PDS 2024-2027) foi realizada pela Gerência de Monitoramento e Avaliação dos Instrumentos de Planejamento em Saúde (GEMAP/DIMOAS/CPLAN/SUPLANS) junto às áreas técnicas da SES/DF, em atenção à apuração dos resultados do 1º e 2º quadrimestres de 2024 (Relatório Detalhado do Quadrimestre Anterior - RDQA). Desta forma, e considerando que o planejamento em saúde é um processo contínuo e dinâmico que busca entender mudanças sociodemográficas e epidemiológicas, assim como responder eficazmente aos desafios emergentes e (…) | — | Não |
+| 7 | 27 | 27 | … – 2027, os objetivos do Mapa Estratégico visando | m | à | Sim |
+| 8 | 27 | 27 | … Atenção Especializada Ambulatorial e Hospitalar \| Redes de | Atenção em | atenção à | Sim |
+| 9 | 27 | 27 | … por doenças imunopreveníveis e por arboviroses \| Vigilância | em | à | Sim |
+| 10 | 27 | 27 | … \| \| Processos \| Ampliar e qualificar a | — | atenção primária à saúde \| | Sim |
+| 11 | 27 | 27 | … a Atenção Primária à Saúde \| Atenção Primária | em Saúde \| Atenção Prmária | — | Sim |
+| 12 | 27 | 27 | … força de trabalho, de forma regionalizada \| Vigilância | em | à | Sim |
+| 13 | 27 | 27 | … \| Promover e aprimorar as ações de vigilância | à | em | Sim |
+| 14 | 29 | 29 | … a elaboração dos instrumentos de planejamento para o | quadriénio | quadriênio | Sim |
+| 15 | 29 | 29 | … último ao que coube a pasta saúde. Durante | deste | este | Sim |
+| 16 | 37 | 37 | … Administração Central (ADMC), Superintendências de Regiões de Saúde | (RS), | (SRS), | Sim |
+| 17 | 42 | 42 | … Domicílios (PDAD), 2021. Elaborado por: SES/SUPLANS/CCONS/DGIE/GAOIR, 2023. 3.3.1 | Pirâmides Etárias | Pirâmide Etária | Sim |
+| 18 | 42 | 42 | … 2023. 3.3.1 Pirâmides Etárias do Distrito Federal entre | 2020 | 2O2O | Sim |
+| 19 | 42 | 42 | … Pirâmides Etárias do Distrito Federal entre 2020 e | 2030 | 2O3O | Sim |
+| 20 | 43 | 43 | … Projeções da Dinâmica Etária do Distrito Federal até | 2030. | 2O3O | Sim |
+| 21 | 48 | 48 | … deve ser avaliada conforme o contexto sócio-histórico específico. | Específica A RA com mais alta renda – Lago Sul – é também aquela com o maior número de residentes acima de 25 anos com ensino superior (gráfico 12). No outro extremo dessa desigualdade educacional, no SCIA/ Estrutural somente 4,6% possuem um diploma universitário. Sua população não alfabetizada de cerca de 8,1% só é menor que os 9% do Recanto das Emas. | — | Sim |
+| 22 | 49 | 49 | … Tratamento de Água, Esgotamento Sanitário, Coleta e Tratamento | do | de | Sim |
+| 23 | 59 | 59 | … refere à prática da vigilância em saúde. Tem | proposito | propósito | Sim |
+| 24 | 65 | 65 | … 2023, sujeitos à alteração. Elaborado por: SES/SUPLANS/CPLAN/DIPLAN/GMOAS, 2023. | Doença Crônica | Doenças Crônicas | Sim |
+| 25 | 65 | 65 | … SES/SUPLANS/CPLAN/DIPLAN/GMOAS, 2023. Doença Crônica Não Transmissíveis (DCNT) As | DCNTs | DCNT | Sim |
+| 26 | 67 | 67 | … a alterações. Elaborado por SES/SUPLANS/CPLAN/ DIPLAN/GMOAS, 2023. b. | Doenças | Doença | Sim |
+| 27 | 67 | 67 | … doenças do aparelho respiratório (DAR), expressas no Capítulo | IX | X | Sim |
+| 28 | 95 | 95 | … em UBS por Regiões de Saúde conforme figura | abaixo: | a seguir: | Sim |
+| 29 | 98 | 98 | … Federal (IPEDF). Dados fornecidos pela SES/SAIS/COAPS/DESF. Extraído do | SSESPLAN, | SESPlan, | Sim |
+| 30 | 130 | 130 | … população usuária do SUS no Distrito Federal. 3.6.2 | Habitações | Habilitações | Sim |
+| 31 | 134 | 134 | … neonatal Tipo II, totalizando 18 leitos habilitados no | HHRSM. | HRSM. | Sim |
+| 32 | 134 | 134 | … sendo estabelecida pelo complexo regulador e suas unidades | operacionais. A regulação médica, exerce autoridade sanitária para a garantia do acesso baseada em protocolos, classificação de risco e demais critérios de priorização. | operacionais | Sim |
+| 33 | 135 | 135 | … com perspectiva de potencializar a implementação e fortalecer | da | a | Sim |
+| 34 | 141 | 141 | … esses processos vêm sendo reestruturados de forma a | garantia de | garantir o | Sim |
+| 35 | 142 | 142 | … gestão, buscam garantir a integralidade do cuidado, coordenado | — | pela | Sim |
+| 36 | 143 | 143 | … promoção da saúde. No Distrito Federal foram implementadas | cinco | seis | Sim |
+| 37 | 143 | 143 | … de Saúde, 1 Centro de Parto Normal peri-hospitalar, | 11 | 10 | Sim |
+| 38 | 143 | 143 | … 11 hospitais que prestam assistência ao Parto e | Nascimento; | Nascimento e | Sim |
+| 39 | 145 | 145 | … aos gestores das Regiões de Saúde, foram elencados | necessidade | necessidades | Sim |
+| 40 | 145 | 145 | … elencados necessidade de saúde e problemas por eixos | temático, | temáticos, | Sim |
+| 41 | 149 | 149 | … da RAPS. O direcionamento para o próximo quadriênio | — | são | Sim |
+| 42 | 153 | 153 | … endemias, violência e agravos à saúde. Sendo assim | às | as | Sim |
+| 43 | 159 | 159 | … já implantados atendem ainda os municípios da RIDE. | Em | Um | Sim |
+| 44 | 161 | 160 | … PDS se refere ao monitoramento de sua execução. | — | Atenção hemoterápica e hematológica Conforme a Portaria SES-DF nº 54/2011, é responsabilidade da Fundação Hemocentro de Brasília (FHB), fundação pública vinculada à SES-DF, elaborar e implementar o Sistema de Sangue, Componentes e Hemoderivados – SSCH, como órgão gestor dessa política no Distrito Federal. Além disso, de acordo com a Portaria n° 725/2018, a FHB atua como Centro de Referência de Tratamento de Coagulopatias Hereditárias, coordenando e regulando a atenção integral aos pacientes com essas condições. Ainda, no contexto da atenção hematológica, a FHB coordena a política da atenção (…) | Sim |
+| 45 | 162 | 163 | … pandemia referente a COVID- 19. As carreiras referentes | — | a | Sim |
+| 46 | 163 | 164 | … A diminuição da força de trabalho se deve | as | às | Sim |
+| 47 | 169 | 170 | … 6 \| 6 \| \| Med.Resid. - Cirurgia | Toraxica | Torácica | Sim |
+| 48 | 175 | 176 | … DE INFORMAÇÃO E COMUNICAÇÃO 4.2.1 Gestão da Tecnologia | de | da | Sim |
+| 49 | 187 | 188 | … dos Contratos celebrados com o ICIPE. 4.3.2 Contratos | Assistenciais | Assistênciais | Sim |
+| 50 | 189 | 190 | … Tesouro do GDF, conforme configuração a seguir: Gráfico | 47. | 48. | Sim |
+| 51 | 190 | 191 | … proposta ao PLOA 2024, uma dotação inicial de: | — | Gráfico 49. Evolução do aporte do IPREV para custeio da folha de aposentados e pensionistas | Sim |
+| 52 | 205 | 206 | … acesso aos exames de citopatologia na razão de | 0,24. | 0,26 | Sim |
+| 53 | 205 | 206 | … e na população da mesma faixa etária. \| | 0,16 | 0,22 (2023) | Sim |
+| 54 | 205 | 206 | … etária. \| 0,16 \| Razão \| Maior-Melhor \| | 0,18 \| 0,20 \| 0,22 | 0,23 | Sim |
+| 55 | 205 | 206 | … \| 0,18 \| 0,20 \| 0,22 \| 0,24 | — | \| 0,25 \| 0,26 | Sim |
+| 56 | 205 | 206 | … Internações por Diabetes Mellitus e suas complicações até | 2023. | 2027. | Sim |
+| 57 | 205 | 206 | … \| \| \| \| \| \| Objetivo \| | 1.3.1. | — | Sim |
+| 58 | 205 | 206 | … <300 \| <300 \| PPA (meta) PDS \| | SES/SVS/DIVEP/GVDT | SES/SVS/AMISPE | Sim |
+| 59 | 205 | 206 | … \| 90% \| 100% \| PDS \| SES/SVS/DIVEP/GEVITHA | — | \| Nota: Área técnica corresponsável pelo alcance da meta. \| Objetivo \| Estruturar e reorganizar a Atenção Especializada Ambulatorial e Hospitalar, com foco na qualificação da carteira de serviços \| \| \| \| \| \| \| \| \| \| \| Metas \| Indicadores \| Indice de Referência \| Unidade de Medida \| Polaridade \| 2024 \| 2025 \| 2026 \| 2027 \| Instrumento \| Responsável \| \| Alcançar a proporção de 94% de pacientes com hemofilia grave em adesão ao protocolo de realização de exames laboratoriais do ministério da saúde. \| Proporção de pacientes com hemofilia grave em adesão ao protocolo de (…) | Sim |
+| 60 | 214 | 215 | … saúde do DF, com apoio e grande interface | do | com o | Sim |
+| 61 | 214 | 215 | … ressalta a construção coletiva e articulada com as | com participação as | — | Sim |
+| 62 | 214 | 215 | … com participação as sete Regiões de Saúde e | das 03 | as três | Sim |
+| 63 | 214 | 215 | … Macrorregiões de Saúde. Cabe ainda apontar a integração | e grande interface | — | Sim |
+| 64 | 224 | 225 | … 93% (2026); 94% (2027). II. Revisão de Indicadores | para o | do | Não |
+| 65 | 224 | 225 | … (2027). II. Revisão de Indicadores para o PDS | 2025 a 2027 | 2024-2027 (vigência 2025) por ocasião da aprovação pelo Colegiado de Gestão da Secretaria de Estado de Saúde do Distrito Federal - Deliberação do Colegiado de Gestão Nº 13, de 13 de março de 2025. | Não |
+| 66 | 224 | 225 | … 2026 foram ajustados para garantir a progressão adequada. | B. Subsecretaria de Atenção Integral à Saúde (SAIS) | — | Não |
+| 67 | 226 | 227 | … Metas anuais: 3 (2025); 6 (2026); 9 (2027). | C. | B. | Não |
+| 68 | 226 | 227 | … Metas anuais: 12% (2025); 48% (2026); 100% (2027). | D. | C. | Não |
+| 69 | 226 | 227 | … 672.177.026,04 (2025); R$ 681.262.864,01 (2026); R$ 690.348.702,16 (2027). | E. | D. | Não |
+| 70 | 227 | 228 | … Metas anuais: 10 (2025); 8,5 (2026); 7 (2027). | F. | E. | Não |
+| 71 | 227 | 228 | … Indicador: sem alteração. . Metas anuais: sem alteração. | G. | F. | Não |
+| 72 | 227 | 228 | … cada Região de Saúde, até 2027. . Indicador: | Realizar pelo menos uma capacitação em transparência e controle social anualmente em cada Região | Número de Regiões | Não |
+| 73 | 227 | 228 | … controle social anualmente em cada Região de Saúde | até 2027. | capacitadas em Transparência e Controle Social. | Não |
+| 74 | 228 | 229 | … Metas anuais: 7 (2025); 7 (2026); 7 (2027). | H. | G. | Não |
+| 75 | 228 | 229 | … Metas anuais: 70% (2025); 75% (2026); 80% (2027). | I. | H. | Não |
+| 76 | 228 | 229 | … Metas anuais: 52.303 (2025); 54.918 (2026); 57.664 (2027). | J. | I. | Não |
+| 77 | 229 | 231 | … Metas anuais: 204 (2025); 234 (2026); 264 (2027). | — | III. Inclusão de novos Indicadores no PDS 2024-2027 (vigência 2025) A. Subsecretaria de Atenção Integral à Saúde (SAIS) 1. CONSULTAS NA ATENÇÃO ESPECIALIZADA AMBULATORIAL - Inclusão: o indicador expressa a quantificação dos atendimentos ambulatoriais realizados no âmbito do Sistema Único de Saúde (SUS) do Distrito Federal e foi incluído no Plano Distrital de Saúde para reforçar o compromisso da SES-DF com o “Programa Agora tem Especialistas”, iniciativa do Ministério da Saúde e do Governo Federal que tem como foco dar maior agilidade aos atendimentos no Sistema Único de Saúde – SUS para os (…) | Não |
+| 78 | 229 | 231 | … Saúde (GPLAN/DIPLAN/CPLAN/SUPLANS) \| Criação do documento \| Deliberação | — | do Colegiado de Gestão da SES-DF | Não |
+| 79 | 229 | 231 | … de Metas e Indicadores, conforme apuração realizada pela | GMAP/DIMOAS/CPLAN/SUPLANS | GEMAP/DIMOAS/CPLAN/SUPLANS \| Deliberação do Colegiado de Gestão da SES-DF Nº 13, de 13 de março de 2025. \| Aguarda deliberação do CSDF \| \| 3.0 \| Gerência de Planejamento e Programação em Saúde (GPLAN/DIPLAN/CPLAN/SUPLANS) \| Atualização de Metas e Indicadores, conforme apuração realizada pela GEMAP/DIMOAS/CPLAN/SUPLANS \| Aguarda deliberação do Colegiado de Gestão da SES-DF. | Não |
 
 ## 3. Alterações propostas para a vigência 2026 (Catálogo de Indicadores PDS — Revisão 2026)
 

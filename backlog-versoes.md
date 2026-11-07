@@ -2,6 +2,34 @@
 
 ---
 
+## v1.10.1 — 2026-11-06
+
+**Tipo de alteração:** Atualização (nota comparativa)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o Victor enviou o PDF da versão de maio de 2025 ("PDS_2024_2027___VERSAO_ATUALIZADA_POS_APROVACAO_DO_CG.pdf") para saber se ela merecia consideração. Isso resolve a pendência da v1.10.
+
+### Achado
+- Versão intermediária de 230 páginas, montada com PyPDF2 em 01/04/2025.
+- **P. 1 a 223:** iguais palavra por palavra à Revisão 2/2025, exceto a p. 5, que tem só a ficha catalográfica, e a p. 23, que traz a nota da versão de março com 5 critérios.
+- **P. 224 a 230:** iguais aos Anexos I e II e ao controle de versões do rascunho de março.
+- Não há texto próprio, por isso não foi transcrita.
+- As mudanças do corpo atribuídas à Revisão 2/2025 já existiam na versão 2.0 pós-aprovação do Colegiado de Gestão. Só a nota da p. 5, o Anexo II reorganizado, o Anexo III e o controle de versões são da 3.0.
+
+### Arquivos atualizados
+- `07-instrumentos-planejamento/PDS-SESDF-2024-2027-COMPARATIVO-VERSOES.md` (v1.1):
+  - nova seção 1.1 com o mapa de páginas da versão de maio;
+  - linha da tabela de versões atualizada;
+  - coluna "Já em mai/2025?" no apêndice: 62 diferenças sim, 17 não;
+  - citação do controle de versões corrigida para "Aguarda".
+- `INDICE.md`: descrição e tamanho do comparativo.
+- `README.md`: v1.10 → v1.10.1.
+
+### Pendências
+- O PDF de maio não foi guardado no Drive de normas. Opcional: só serve como registro histórico.
+
+---
+
 ## v1.10 — 2026-11-06
 
 **Tipo de alteração:** Adição (1 transcrição + 1 nota comparativa) + substituição de versão + registro de solução do pipeline
