@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 82 (77 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 83 (78 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -87,7 +87,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 03-resolucoes-cfm/ (10 documentos)
+## 03-resolucoes-cfm/ (11 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -95,6 +95,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `RESOLUCAO-CFM-1779-2005-DECLARACAO-DE-OBITO.md` | Resolução CFM 1.779/2005 — Responsabilidade médica no fornecimento da Declaração de Óbito (morte natural com e sem assistência, morte fetal, mortes violentas) | ~157 |
 | `RESOLUCAO-CFM-1821-2007-PRONTUARIO-ELETRONICO.md` | Resolução CFM 1.821/2007 — Digitalização e sistemas informatizados para o prontuário (NGS1 e NGS2, guarda permanente, 20 anos para o papel); art. 10 revogado pela Res. 2.218/2018 | ~249 |
 | `RESOLUCAO-CFM-2077-2014-SERVICOS-HOSPITALARES-DE-URGENCIA-E-EMERGENCIA.md` | Resolução CFM 2.077/2014 — Serviços hospitalares de urgência e emergência (ACCR obrigatório, permanência máxima de 24 h, passagem de plantão, vaga zero, dimensionamento da equipe) | ~311 |
+| `RESOLUCAO-CFM-2217-2018-CODIGO-DE-ETICA-MEDICA.md` | Código de Ética Médica — Res. CFM 2.217/2018, com as Res. 2.222/2018 e 2.226/2019 (edição de bolso de 2019, com índice remissivo e composição das comissões) | ~2332 |
 | `RESOLUCAO-CFM-2218-2018-REVOGA-ART-10-RES-1821-2007.md` | Resolução CFM 2.218/2018 — Revoga o art. 10 da Res. 1.821/2007 (selo SBIS-CFM) | ~107 |
 | `RESOLUCAO-CFM-2381-2024-DOCUMENTOS-MEDICOS.md` | Resolução CFM 2.381/2024 — Emissão de documentos médicos (conteúdo mínimo, art. 3º com a redação da Res. 2.418/2024) | ~215 |
 | `RESOLUCAO-CFM-2382-2024-ATESTADOS-MEDICOS-ATESTA-CFM.md` | Resolução CFM 2.382/2024 — Atestados médicos e plataforma Atesta CFM (suspensa por decisão judicial) | ~341 |
