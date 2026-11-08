@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 70 (65 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 71 (66 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 02-legislacao-distrital/ (25 documentos)
+## 02-legislacao-distrital/ (26 documentos)
 
 Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Resultado" entraram na v1.4 (24/10/2026). Os PDFs ficam na pasta compartilhada de normas do Drive, subpasta de mesmo nome; as edições integrais do DODF usadas como prova de publicação ficam na subpasta `diarios-oficiais` (só no Drive, não transcritas).
 
@@ -48,6 +48,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `LEI-DISTRITAL-6137-2018-TPD.md` | Lei distrital 6.137/2018 — Trabalho em Período Definido (TPD) e jornada de 18 horas (texto original do DODF) | ~123 |
 | `ORDEM-SERVICO-CONJUNTA-SESDF-1-2021-CADASTRO-SCNES-E-TRAKCARE.md` | Ordem de Serviço Conjunta CETIS/SUGEP/SUPLANS 1/2021 — Cadastro e atualização no SCNES e no TrakCare (prontuário eletrônico da SES-DF); perfil de acesso definido pela chefia imediata e solicitado ao NTINF; texto do SINJ-DF, sem os anexos I a III (fluxogramas) | ~195 |
 | `PORTARIA-CONJUNTA-SESDF-FEPECS-2-2023-PRATICAS-CURRICULARES.md` | Portaria Conjunta SES/FEPECS 2/2023 — Atividades práticas curriculares obrigatórias na SES-DF | ~2047 |
+| `PORTARIA-SESDF-117-2026-PRESCRICAO-E-DISPENSACAO-FARMACIAS-AMBULATORIAIS.md` | Portaria SES-DF 117/2026 — Prescrição, fornecimento e dispensação de medicamentos, produtos para a saúde e alimentos nas farmácias ambulatoriais (prescrição consoante a REME-DF, requisitos e validade da receita); texto republicado no DODF nº 177/2026, do SINJ-DF; revoga a Portaria 250/2014 | ~636 |
 | `PORTARIA-SESDF-1357-2018-ATENCAO-HOSPITALAR.md` | Portaria SES-DF 1.357/2018 — Organização da Atenção Hospitalar na SES-DF | ~406 |
 | `PORTARIA-SESDF-1388-2018-POLITICA-DISTRITAL-DE-REGULACAO.md` | Portaria SES-DF 1.388/2018 — Política Distrital de Regulação | ~204 |
 | `PORTARIA-SESDF-252-2024-ALTERA-PORTARIA-321-2023.md` | Portaria SES-DF 252/2024 — Altera a Portaria 321/2023 (horários, escalas e frequência) | ~619 |
