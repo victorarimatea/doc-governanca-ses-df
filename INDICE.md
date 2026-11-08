@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 68 (63 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 69 (64 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -95,10 +95,11 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 04-resolucoes-anvisa/ (1 documento)
+## 04-resolucoes-anvisa/ (2 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
+| `RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` | RDC ANVISA 1.028/2026 — altera os arts. 5º e 16 da RDC 1.000/2025 (SNCR disponível até 30/09/2026) | ~92 |
 | `RDC-ANVISA-657-2022-SAMD.md` | RDC ANVISA 657/2022 — SaMD | ~315 |
 
 ---
@@ -146,6 +147,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 63 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 64 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*
