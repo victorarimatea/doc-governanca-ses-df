@@ -7,11 +7,11 @@ autor: "Diretoria Colegiada da ANVISA (Diretor-Presidente Leandro Pinheiro Safat
 data_criacao: "2026-10-29"
 data_publicacao: "2026-11-03"
 idioma: "Português (Brasil)"
-status_documental: "Vigente desde a publicação (art. 2º); texto da página do DOU impressa em 08/11/2026, 11:08; dá nova redação ao art. 18 da RDC nº 1.000/2025 (receituários eletrônicos sem numeração do SNCR até 03/03/2027)"
+status_documental: "Vigente desde a publicação (art. 2º); texto da página do DOU impressa em 08/11/2026, 11:08, conferido com o fac-símile da página 244 do DOU nº 206 (versão certificada); dá nova redação ao art. 18 da RDC nº 1.000/2025 (receituários eletrônicos sem numeração do SNCR até 03/03/2027)"
 arquivo_original: "RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.pdf"
 fonte_externa: "https://www.in.gov.br/en/web/dou/-/resolucao-da-diretoria-colegiada-anvisa-n-1.046-de-29-de-outubro-de-2026-741186261"
 data_transcricao: "2026-11-08"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -28,7 +28,7 @@ versao_transcricao: "1.0"
 | Número de Páginas | 1 |
 | Nome do Arquivo Original | RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.pdf |
 | Link Externo de Acesso | https://www.in.gov.br/en/web/dou/-/resolucao-da-diretoria-colegiada-anvisa-n-1.046-de-29-de-outubro-de-2026-741186261 |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
@@ -39,6 +39,8 @@ versao_transcricao: "1.0"
 - **Metadados de publicação (§WEB):** o cabeçalho da página ("DIÁRIO OFICIAL DA UNIÃO"; "Publicado em: 03/11/2026 | Edição: 206 | Seção: 1 | Página: 244"; "Órgão: Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Diretoria Colegiada"), a advertência "Este conteúdo não substitui o publicado na versão certificada." e o rodapé de impressão (endereço, data e hora, "Página 1 de 1") saíram do corpo e estão registrados aqui.
 - **Método:** extração com `pdftotext` (Poppler 24.02); novo parágrafo na epígrafe, na ementa, no preâmbulo, em cada artigo e parágrafo, na assinatura e no cargo; demais linhas unidas com espaço. Removidos dois caracteres soltos ("o" e ":") que a impressão do Safari deixou na camada de texto, fora do corpo do ato. Nenhuma palavra dividida em fim de linha.
 - **Imagem:** um ícone azul sobreposto (botão flutuante da interface) cobre, na imagem da página, parte de "Controle Especial" e de "SNCR" no novo art. 18; a camada de texto do PDF está íntegra e foi a usada.
+- **Conferência com a versão certificada (v1.1):** o Victor salvou em PDF, pelo Safari do iOS em 08/11/2026, às 11:49, a página 244 do DOU nº 206, Seção 1, de 03/11/2026, no visualizador da Imprensa Nacional (2 páginas impressas, a segunda em branco; SHA-256 `4a0a1097e9d81fdaa312a8e60fd65338794ef59213f5e6c62803427bc3c86e47`), guardada na mesma subpasta com o nome-base deste Markdown e o sufixo `-DOU-PAGINA-244`. A resolução ocupa o fim da coluna 1 e o início da coluna 2 da página; o rodapé informa a verificação em http://www.in.gov.br/autenticidade.html, pelo código 05152026110300244. As 314 palavras do trecho conferem com o corpo, sem nenhuma faltando ou sobrando, e o ícone sobreposto da impressão da página web não existe no fac-símile.
+- **Segunda impressão da página web:** o Victor salvou de novo a página do ato às 11:49 (SHA-256 `07eacf24b61459f0a53c8f3a60da3f0b17d9eb118a7a25b01f39d5b57c227450`); o texto é igual ao da primeira impressão, só muda a hora no rodapé, e o ícone sobreposto continua lá. Não foi guardada.
 - **Grafia do original preservada:** espaço antes da vírgula em "pág. 174 ,"; "Resolução de Diretoria Colegiada" e "Resolução da Diretoria Colegiada" conforme cada ocorrência; a marca "(NR)" no fim do novo art. 18.
 - **Relação com outros atos:** a RDC nº 1.028/2026 (mesma pasta) deu nova redação ao art. 5º, I, e ao art. 16 da RDC nº 1.000/2025 (SNCR disponível até 30/09/2026). Esta resolução altera o art. 18 da mesma RDC.
 
@@ -80,6 +82,7 @@ Diretor-Presidente
 - Falhas de leitura: Não
 - Conteúdo parcialmente recuperado: Não
 - Conferência palavra a palavra (PDF sem cabeçalho do DOU, advertência, rodapé de impressão e caracteres soltos × corpo): PDF 314 · MD 314 · faltando 0 · sobrando 0 · caracteres faltando 0 · sobrando 0
+- Conferência com o fac-símile da página 244 do DOU nº 206/2026 (versão certificada; trecho da resolução nas colunas 1 e 2 × corpo): DOU 314 · MD 314 · faltando 0 · sobrando 0
 
 ## Status da Conversão
 
