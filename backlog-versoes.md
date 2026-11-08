@@ -11,13 +11,14 @@
 
 ### Documentos incluídos
 - `02-legislacao-distrital/DECRETO-DISTRITAL-48925-2026-REDE-DISTRITAL-DE-HOSPITAIS-PUBLICOS.md` — Decreto nº 48.925/2026 (RDHP/SES-DF), transcrito do fac-símile do DODF nº 124, de 09/07/2026, p. 3 e 4. O texto compilado no SINJ-DF não foi localizado. O fac-símile foi guardado no Drive como `02-legislacao-distrital/diarios-oficiais/DODF-GDF-124-2026-INTEGRA-2026-07-09.pdf`. Conferência palavra a palavra: 1.428 palavras, nenhuma faltando ou sobrando.
+- `02-legislacao-distrital/PORTARIA-SESDF-434-2024-ACOLHIMENTO-E-CLASSIFICACAO-DE-RISCO.md` — Portaria SES-DF nº 434/2024, transcrita do fac-símile do DODF nº 180, de 19/09/2024, p. 5, e conferida por leitura com a página da norma no SINJ-DF (HTML salvo em 08/11/2026, sem alterações anotadas). O fac-símile foi guardado no Drive como `02-legislacao-distrital/diarios-oficiais/DODF-GDF-180-2024-INTEGRA-2024-09-19.pdf`. Conferência palavra a palavra com o DODF: 878 palavras, nenhuma faltando ou sobrando. A ementa diz "Altera a Portaria nº 55/2024", mas o art. 9º a revoga.
 
 ### Observação de método
 - Extração com `pdftotext` (Poppler 24.02), porque o PyMuPDF não pôde ser instalado na sessão. Para fac-símile do DODF em duas colunas, a ordem de leitura saiu correta.
 
 ### Arquivos atualizados
-- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 22 documentos; total de 61 documentos.
-- `INDICE.md`: nova linha em 02-legislacao-distrital; total de arquivos 66.
+- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 23 documentos; total de 62 documentos.
+- `INDICE.md`: novas linhas em 02-legislacao-distrital; total de arquivos 67.
 
 ---
 

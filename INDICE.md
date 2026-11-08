@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 66 (61 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 67 (62 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 02-legislacao-distrital/ (22 documentos)
+## 02-legislacao-distrital/ (23 documentos)
 
 Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Resultado" entraram na v1.4 (24/10/2026). Os PDFs ficam na pasta compartilhada de normas do Drive, subpasta de mesmo nome; as edições integrais do DODF usadas como prova de publicação ficam na subpasta `diarios-oficiais` (só no Drive, não transcritas).
 
@@ -53,6 +53,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `PORTARIA-SESDF-321-2023-HORARIOS-ESCALAS-E-FREQUENCIA.md` | Portaria SES-DF 321/2023 — Horários, escalas, carga horária e frequência (texto compilado com a Portaria 252/2024) | ~1413 |
 | `PORTARIA-SESDF-337-2023-TPD.md` | Portaria SES-DF 337/2023 — Prestação de TPD na SES-DF | ~479 |
 | `PORTARIA-SESDF-386-2017-COMPONENTE-HOSPITALAR-RUE.md` | Portaria SES-DF 386/2017 — Componente hospitalar da Rede de Atenção às Urgências (anexos em imagem lidos visualmente) | ~767 |
+| `PORTARIA-SESDF-434-2024-ACOLHIMENTO-E-CLASSIFICACAO-DE-RISCO.md` | Portaria SES-DF 434/2024 — Protocolos de Acolhimento e Classificação de Risco nas portas fixas de urgência e emergência; revoga a Portaria 55/2024 (art. 9º); transcrita do DODF nº 180 e conferida com o SINJ-DF | ~125 |
 | `PORTARIA-SESDF-473-2023-REGULAMENTA-PDPAS.md` | Portaria SES-DF 473/2023 — Regulamenta o PDPAS (texto compilado) | ~481 |
 | `PORTARIA-SESDF-510-2025-EGRESSOS-DE-UTI.md` | Portaria SES-DF 510/2025 — Fluxo de pacientes egressos de UTI | ~204 |
 | `PORTARIA-SESDF-536-2018-URGENCIAS-EM-SAUDE-MENTAL.md` | Portaria SES-DF 536/2018 — Urgências e emergências em saúde mental (anexos em imagem lidos visualmente) | ~472 |
@@ -144,6 +145,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 61 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 62 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*
