@@ -30,7 +30,7 @@ governanca-ses-df/
 ├── 02-legislacao-distrital/           Legislação e portarias distritais (26 documentos)
 ├── 03-portarias-ministeriais/         Portarias GM/MS e SAES/MS, portarias de consolidação e resoluções da CIT (15 documentos)
 ├── 03-resolucoes-cfm/                 Resoluções CFM (3 documentos)
-├── 04-resolucoes-anvisa/              Resoluções ANVISA/RDC (4 documentos)
+├── 04-resolucoes-anvisa/              Resoluções ANVISA/RDC (5 documentos)
 ├── 05-referencias-internacionais/     Referências internacionais bilíngues EN+PT (10 documentos)
 ├── 07-instrumentos-planejamento/      Instrumentos de planejamento estratégico-orçamentário (3 documentos + 1 nota comparativa)
 └── 08-documentos-tecnicos/            Documentos técnicos e de pauta, não normativos (1 documento)
@@ -44,7 +44,7 @@ governanca-ses-df/
 > está registrada como pendência SEV4 no `backlog-versoes.md`, para sessão
 > dedicada.
 
-**Total:** 68 documentos transcritos + 1 nota comparativa | Fase 1 (17 nacionais) + Fase 2 Tier 1 (10 internacionais) + Instrumentos de planejamento (3: PAS 2026; PDS 2024-2027 Revisão 2/2025, vigente; PDS 2024-2027 rascunho de mar/2025, substituído) + Base normativa da RENASES (5, com a Resolução de Consolidação CIT 1/2021) + Portaria de Consolidação nº 1/2017 (1) + Normas distritais do guia "Rotina que Gera Resultado" (18) + Normas do guia "Cuidar, Decidir, Conduzir" (8, em andamento) + Base normativa do CNES (6: Portaria SAS/MS 118/2014, redações original e republicada; Portaria de Consolidação SAES/MS 1/2022; Portarias de origem GM/MS 1.646/2015, GM/MS 2.022/2017 e SAS/MS 511/2000)
+**Total:** 69 documentos transcritos + 1 nota comparativa | Fase 1 (17 nacionais) + Fase 2 Tier 1 (10 internacionais) + Instrumentos de planejamento (3: PAS 2026; PDS 2024-2027 Revisão 2/2025, vigente; PDS 2024-2027 rascunho de mar/2025, substituído) + Base normativa da RENASES (5, com a Resolução de Consolidação CIT 1/2021) + Portaria de Consolidação nº 1/2017 (1) + Normas distritais do guia "Rotina que Gera Resultado" (18) + Normas do guia "Cuidar, Decidir, Conduzir" (9, em andamento) + Base normativa do CNES (6: Portaria SAS/MS 118/2014, redações original e republicada; Portaria de Consolidação SAES/MS 1/2022; Portarias de origem GM/MS 1.646/2015, GM/MS 2.022/2017 e SAS/MS 511/2000)
 
 **PDFs originais:** ficam na pasta compartilhada de normas do Google Drive (preservação para auditoria), com o mesmo nome-base de cada Markdown deste repositório.
 
