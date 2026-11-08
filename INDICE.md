@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-11-06
-**Total de arquivos:** 65 (60 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Última atualização:** 2026-11-08
+**Total de arquivos:** 66 (61 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 02-legislacao-distrital/ (21 documentos)
+## 02-legislacao-distrital/ (22 documentos)
 
 Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Resultado" entraram na v1.4 (24/10/2026). Os PDFs ficam na pasta compartilhada de normas do Drive, subpasta de mesmo nome; as edições integrais do DODF usadas como prova de publicação ficam na subpasta `diarios-oficiais` (só no Drive, não transcritas).
 
@@ -44,6 +44,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `DECRETO-DISTRITAL-44322-2023-PDPAS.md` | Decreto 44.322/2023 — Programa de Descentralização Progressiva de Ações de Saúde (PDPAS) (texto compilado) | ~207 |
 | `DECRETO-DISTRITAL-46893-2025-COPLANS.md` | Decreto 46.893/2025 — Estrutura administrativa do Comitê de Planejamento da Saúde do DF (COPLANS) | ~94 |
 | `DECRETO-DISTRITAL-48924-2026-REDE-DE-INTELIGENCIA-EM-SAUDE.md` | Decreto 48.924/2026 — Rede de Inteligência em Saúde do DF (RIS-DF) | ~266 |
+| `DECRETO-DISTRITAL-48925-2026-REDE-DISTRITAL-DE-HOSPITAIS-PUBLICOS.md` | Decreto 48.925/2026 — Rede Distrital de Hospitais Públicos (RDHP/SES-DF); transcrito do DODF nº 124 (fac-símile em `diarios-oficiais`) | ~183 |
 | `LEI-DISTRITAL-6137-2018-TPD.md` | Lei distrital 6.137/2018 — Trabalho em Período Definido (TPD) e jornada de 18 horas (texto original do DODF) | ~123 |
 | `PORTARIA-CONJUNTA-SESDF-FEPECS-2-2023-PRATICAS-CURRICULARES.md` | Portaria Conjunta SES/FEPECS 2/2023 — Atividades práticas curriculares obrigatórias na SES-DF | ~2047 |
 | `PORTARIA-SESDF-1357-2018-ATENCAO-HOSPITALAR.md` | Portaria SES-DF 1.357/2018 — Organização da Atenção Hospitalar na SES-DF | ~406 |
@@ -143,6 +144,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 60 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 61 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*

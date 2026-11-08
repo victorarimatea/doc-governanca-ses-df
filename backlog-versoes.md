@@ -2,6 +2,25 @@
 
 ---
 
+## v1.11.0 — 2026-11-08
+
+**Tipo de alteração:** Inclusão de documentos (lote em andamento)
+**Autorizado por:** victorarimatea
+**Status:** em andamento
+**Exposição de motivos:** o guia prático "Cuidar, Decidir, Conduzir" (projeto `prj-guia-cuidar-decidir-conduzir`, sessão S007) precisa de leitura direta das normas que cita para dar o grau CONFIRMADO às referências. A lista de normas a obter está no documento "CUIDAR, DECIDIR, CONDUZIR - E2 - NORMAS A OBTER E TRANSCREVER - 2026 11 NOV", no Drive do projeto. As transcrições entram uma a uma, conforme o Victor baixa os arquivos.
+
+### Documentos incluídos
+- `02-legislacao-distrital/DECRETO-DISTRITAL-48925-2026-REDE-DISTRITAL-DE-HOSPITAIS-PUBLICOS.md` — Decreto nº 48.925/2026 (RDHP/SES-DF), transcrito do fac-símile do DODF nº 124, de 09/07/2026, p. 3 e 4. O texto compilado no SINJ-DF não foi localizado. O fac-símile foi guardado no Drive como `02-legislacao-distrital/diarios-oficiais/DODF-GDF-124-2026-INTEGRA-2026-07-09.pdf`. Conferência palavra a palavra: 1.428 palavras, nenhuma faltando ou sobrando.
+
+### Observação de método
+- Extração com `pdftotext` (Poppler 24.02), porque o PyMuPDF não pôde ser instalado na sessão. Para fac-símile do DODF em duas colunas, a ordem de leitura saiu correta.
+
+### Arquivos atualizados
+- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 22 documentos; total de 61 documentos.
+- `INDICE.md`: nova linha em 02-legislacao-distrital; total de arquivos 66.
+
+---
+
 ## v1.10.2 — 2026-11-06
 
 **Tipo de alteração:** Correção pontual (OP-E)
