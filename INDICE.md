@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 74 (69 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 76 (71 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -87,17 +87,18 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 03-resolucoes-cfm/ (3 documentos)
+## 03-resolucoes-cfm/ (4 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
+| `RESOLUCAO-CFM-1638-2002-PRONTUARIO-MEDICO.md` | Resolução CFM 1.638/2002 — Define prontuário médico, responsabilidade pelo prontuário e Comissão de Revisão de Prontuários (itens obrigatórios do prontuário) | ~140 |
 | `RESOLUCAO-CFM-2227-2018-TELEMEDICINA.md` | Resolução CFM 2.227/2018 — Telemedicina | ~336 |
 | `RESOLUCAO-CFM-2314-2022-TELEMEDICINA.md` | Resolução CFM 2.314/2022 — Telemedicina | ~306 |
 | `RESOLUCAO-CFM-2454-2026-INTELIGENCIA-ARTIFICIAL.md` | Resolução CFM 2.454/2026 — Normatiza IA | ~353 |
 
 ---
 
-## 04-resolucoes-anvisa/ (5 documentos)
+## 04-resolucoes-anvisa/ (6 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -105,6 +106,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` | RDC ANVISA 1.028/2026 — altera os arts. 5º e 16 da RDC 1.000/2025 (SNCR disponível até 30/09/2026) | ~92 |
 | `RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.md` | RDC ANVISA 1.046/2026 — nova redação do art. 18 da RDC 1.000/2025 (receitas de controle especial e sujeitas à retenção sem numeração do SNCR até 03/03/2027; numeração obrigatória a partir de 04/03/2027) | ~86 |
 | `RDC-ANVISA-36-2013-SEGURANCA-DO-PACIENTE.md` | RDC ANVISA 36/2013 — Ações para a segurança do paciente em serviços de saúde: Núcleo de Segurança do Paciente (NSP), Plano de Segurança do Paciente (PSP) e notificação de eventos adversos (óbito em até 72 horas); texto original do Saúde Legis, sem a alteração do art. 12 pela RDC 53/2013 | ~237 |
+| `RDC-ANVISA-53-2013-ALTERA-RDC-36-2013-PRAZOS-NSP.md` | RDC ANVISA 53/2013 — Nova redação do art. 12 da RDC 36/2013 (180 dias para NSP e PSP; 210 dias para a notificação mensal de eventos adversos) | ~80 |
 | `RDC-ANVISA-657-2022-SAMD.md` | RDC ANVISA 657/2022 — SaMD | ~315 |
 
 ---

@@ -7,11 +7,11 @@ autor: "Diretoria Colegiada da ANVISA (Diretor-Presidente Dirceu Brás Aparecido
 data_criacao: "2013-07-25"
 data_publicacao: "2013-07-26"
 idioma: "Português (Brasil)"
-status_documental: "Vigente (art. 14: vigência na data da publicação); texto original do Saúde Legis, impresso em 08/11/2026, 12:37; o art. 12 recebeu nova redação da RDC nº 53, de 14 de novembro de 2013, que a página não mostra e que ainda não foi obtida"
+status_documental: "Vigente (art. 14: vigência na data da publicação); texto original do Saúde Legis, impresso em 08/11/2026, 12:37; o art. 12 tem nova redação dada pela RDC nº 53, de 14 de novembro de 2013 (180 e 210 dias), que a página não mostra; ver RDC-ANVISA-53-2013-ALTERA-RDC-36-2013-PRAZOS-NSP.md"
 arquivo_original: "RDC-ANVISA-36-2013-SEGURANCA-DO-PACIENTE.pdf"
 fonte_externa: "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2013/rdc0036_25_07_2013.html"
 data_transcricao: "2026-11-08"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -28,7 +28,7 @@ versao_transcricao: "1.0"
 | Número de Páginas | 4 |
 | Nome do Arquivo Original | RDC-ANVISA-36-2013-SEGURANCA-DO-PACIENTE.pdf |
 | Link Externo de Acesso | https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2013/rdc0036_25_07_2013.html |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
@@ -36,7 +36,7 @@ versao_transcricao: "1.0"
 
 - **Fonte:** página do ato no Saúde Legis (Biblioteca Virtual em Saúde do Ministério da Saúde), salva em PDF pelo Safari do iOS em 08/11/2026, às 12:37, pelo Victor (4 páginas A4; SHA-256 `630c202fdf7f2f3184ff7a195235289264adf1b5b0582244e2fbebc5c81bcc58`). A mesma página salva como HTML às 11:37 fica ao lado, com o mesmo nome-base e a extensão `.html`. O endereço vem do nome do arquivo HTML e do padrão do Saúde Legis.
 - **Publicação:** a página não informa a publicação. O DOU nº 143, de 26/07/2013, Seção 1, p. 32, vem do cabeçalho de uma cópia da norma publicada pela Secretaria Municipal de Saúde de Campinas, encontrada na pesquisa; não foi conferido no DOU.
-- **Alteração não mostrada (atenção):** a RDC nº 53, de 14 de novembro de 2013, deu nova redação ao art. 12 (prazos para estruturar o NSP, elaborar o PSP e iniciar a notificação). O Saúde Legis mostra só a redação original, sem nota. A RDC nº 53/2013 ainda não foi obtida; até lá, o art. 12 desta transcrição não deve ser citado como texto vigente.
+- **Alteração não mostrada (atenção):** a RDC nº 53, de 14 de novembro de 2013, deu nova redação ao art. 12 (prazos para estruturar o NSP, elaborar o PSP e iniciar a notificação). O Saúde Legis mostra só a redação original, sem nota. Na v1.1 (08/11/2026) a RDC nº 53/2013 foi transcrita na mesma pasta: o art. 12 vigente fixa 180 dias para estruturar o NSP e elaborar o PSP e 210 dias para iniciar a notificação mensal dos eventos adversos. O art. 12 deste corpo é a redação original e não deve ser citado como texto vigente. O corpo não mudou na v1.1.
 - **Elementos da página fora do corpo (§WEB):** a advertência "ADVERTÊNCIA / Este texto n�o substitui o publicado no Diário Oficial da União", a legenda "Minist�rio da Sa�de / Agência Nacional de Vigilância Sanitária", o rodapé "Sa�de Legis - Sistema de Legisla��o da Sa�de" e as linhas com um só ":" que o Safari insere nas quebras de página. O caractere "�" aparece só nesses elementos: a página é servida em ISO-8859-1 e o navegador não decodificou os acentos escritos sem entidade HTML; o corpo do ato usa entidades e saiu correto.
 - **Imagem:** o brasão da República no cabeçalho da página 1 (não transcrito).
 - **Método:** extração com `pdftotext` (Poppler 24.02), página a página. Novo parágrafo no título, na ementa, no preâmbulo, em cada artigo, parágrafo, inciso e rótulo de capítulo ou seção, e na assinatura; demais linhas unidas com espaço. Nenhuma palavra dividida em fim de linha (conferido na lista de palavras com posição do `pdftotext`). As quatro páginas começam em início de parágrafo.
