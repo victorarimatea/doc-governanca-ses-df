@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 84 (79 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 85 (80 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -65,7 +65,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 03-portarias-ministeriais/ (15 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
+## 03-portarias-ministeriais/ (16 documentos — portarias do Ministério da Saúde, inclusive portarias de consolidação, e resoluções da Comissão Intergestores Tripartite)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -84,6 +84,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `PORTARIA-SASMS-511-2000-FICHA-CADASTRAL-CNES.md` | Portaria SAS/MS 511/2000 — Ficha Cadastral dos Estabelecimentos de Saúde e Banco de Dados Nacional: origem do cadastro atual (sem os Anexos I a III; vigência não conferida) | ~160 |
 | `PORTARIA-GMMS-1646-2015-INSTITUI-O-CNES.md` | Portaria GM/MS 1.646/2015 — institui o CNES na forma atual, com os considerandos (revogada por consolidação; texto nos arts. 358 a 373 e 384 a 390 da Portaria de Consolidação GM/MS 1/2017) | ~301 |
 | `PORTARIA-GMMS-2022-2017-TIPO-DE-ESTABELECIMENTO-CNES.md` | Portaria GM/MS 2.022/2017, redação republicada — tipo de estabelecimento classificado pelas atividades; anexo com a justificativa, a terminologia de atividades e a tabela de tipos (revogada por consolidação; texto nos arts. 374 a 378 e no Anexo XV da Portaria de Consolidação GM/MS 1/2017) | ~221 |
+| `PORTARIA-GMMS-11211-2026-LISTA-NOTIFICACAO-COMPULSORIA.md` | Portaria GM/MS 11.211/2026 — Lista Nacional de Notificação Compulsória (nova redação do Anexo 1 do Anexo V da PRC GM/MS 4/2017, 66 itens: inclui caxumba e febre do Oropouche, retira a covid-19) e vigilância sentinela (Anexo XLIII da PRC GM/MS 5/2017). Art. 2º, I (caxumba imediata) diverge do Anexo I (semanal) | ~275 |
 
 ---
 

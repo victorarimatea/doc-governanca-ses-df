@@ -32,12 +32,13 @@
 - `04-resolucoes-anvisa/RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.md` — versão da transcrição 1.0 → 1.1: texto conferido com o fac-símile da página 244 do DOU nº 206, de 03/11/2026 (versão certificada), sem nenhuma diferença nas 314 palavras; o fac-símile foi guardado no Drive como `04-resolucoes-anvisa/RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR-DOU-PAGINA-244.pdf`.
 - `04-resolucoes-anvisa/RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` — versão da transcrição 1.0 → 1.1: só o `status_documental`, atualizado depois da leitura das RDC nº 1.000/2025 e nº 1.046/2026.
 
+- `03-portarias-ministeriais/PORTARIA-GMMS-11211-2026-LISTA-NOTIFICACAO-COMPULSORIA.md` — Portaria GM/MS nº 11.211/2026 (DOU nº 89, de 14/05/2026, Seção 1, p. 1120), que dá nova redação ao Anexo 1 do Anexo V da Portaria de Consolidação GM/MS nº 4/2017 (Lista Nacional de Notificação Compulsória, 66 itens) e ao Anexo XLIII da Portaria de Consolidação GM/MS nº 5/2017 (vigilância sentinela). Fonte: página do DOU no portal da Imprensa Nacional salva em PDF pelo Safari do iOS em 08/11/2026 (sessão S008 do guia). Conferência palavra a palavra: 1.789 palavras, nenhuma faltando ou sobrando; posições das marcas "X" conferidas com a grade e com a imagem. Achados nas Observações: o art. 2º, I, dá a caxumba como de notificação imediata e o Anexo I a marca como semanal; o art. 8º remete ao "Anexo X" em vez do Anexo V; o art. 5º, II, b, não nomeia o tétano neonatal.
 ### Observação de método
 - Extração com `pdftotext` (Poppler 24.02), porque o PyMuPDF não pôde ser instalado na sessão. Para fac-símile do DODF em duas colunas, a ordem de leitura saiu correta.
 
 ### Arquivos atualizados
-- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 26 documentos; 03-resolucoes-cfm de 3 para 7; 04-resolucoes-anvisa de 1 para 6; total de 74 documentos.
-- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 79.
+- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 26 documentos; 03-portarias-ministeriais de 15 para 16; 03-resolucoes-cfm de 3 para 12; 04-resolucoes-anvisa de 1 para 6; total de 80 documentos.
+- `INDICE.md`: novas linhas em 02-legislacao-distrital, 03-portarias-ministeriais, 03-resolucoes-cfm e 04-resolucoes-anvisa; total de arquivos 85.
 
 ---
 
