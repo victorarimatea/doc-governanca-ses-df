@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 83 (78 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 84 (79 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -87,7 +87,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 03-resolucoes-cfm/ (11 documentos)
+## 03-resolucoes-cfm/ (12 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
@@ -101,6 +101,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `RESOLUCAO-CFM-2382-2024-ATESTADOS-MEDICOS-ATESTA-CFM.md` | Resolução CFM 2.382/2024 — Atestados médicos e plataforma Atesta CFM (suspensa por decisão judicial) | ~341 |
 | `RESOLUCAO-CFM-2227-2018-TELEMEDICINA.md` | Resolução CFM 2.227/2018 — Telemedicina | ~336 |
 | `RESOLUCAO-CFM-2314-2022-TELEMEDICINA.md` | Resolução CFM 2.314/2022 — Telemedicina | ~306 |
+| `RESOLUCAO-CFM-2418-2024-ALTERA-ART-3-RES-2381-2024.md` | Resolução CFM 2.418/2024 — Nova redação do art. 3º da Res. 2.381/2024 (identificação do examinado; certidão de nascimento para menores de 16 anos no BPC) | ~116 |
 | `RESOLUCAO-CFM-2454-2026-INTELIGENCIA-ARTIFICIAL.md` | Resolução CFM 2.454/2026 — Normatiza IA | ~353 |
 
 ---
