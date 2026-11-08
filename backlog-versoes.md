@@ -13,14 +13,15 @@
 - `02-legislacao-distrital/DECRETO-DISTRITAL-48925-2026-REDE-DISTRITAL-DE-HOSPITAIS-PUBLICOS.md` — Decreto nº 48.925/2026 (RDHP/SES-DF), transcrito do fac-símile do DODF nº 124, de 09/07/2026, p. 3 e 4. O texto compilado no SINJ-DF não foi localizado. O fac-símile foi guardado no Drive como `02-legislacao-distrital/diarios-oficiais/DODF-GDF-124-2026-INTEGRA-2026-07-09.pdf`. Conferência palavra a palavra: 1.428 palavras, nenhuma faltando ou sobrando.
 - `02-legislacao-distrital/PORTARIA-SESDF-434-2024-ACOLHIMENTO-E-CLASSIFICACAO-DE-RISCO.md` — Portaria SES-DF nº 434/2024, transcrita do fac-símile do DODF nº 180, de 19/09/2024, p. 5, e conferida por leitura com a página da norma no SINJ-DF (HTML salvo em 08/11/2026, sem alterações anotadas). O fac-símile foi guardado no Drive como `02-legislacao-distrital/diarios-oficiais/DODF-GDF-180-2024-INTEGRA-2024-09-19.pdf`. Conferência palavra a palavra com o DODF: 878 palavras, nenhuma faltando ou sobrando. A ementa diz "Altera a Portaria nº 55/2024", mas o art. 9º a revoga.
 - `02-legislacao-distrital/PORTARIA-SESDF-55-2024-ACOLHIMENTO-E-CLASSIFICACAO-DE-RISCO.md` — Portaria SES-DF nº 55/2024, revogada pela 434/2024 e guardada como registro histórico. Fonte: página da norma no SINJ-DF salva em HTML em 08/11/2026, com o texto inteiro tachado (Estratégia D9). Sem contagem automática contra a fonte; os parágrafos foram comparados com os equivalentes da 434/2024 e todas as diferenças estão na página do SINJ-DF. Status: Conversão Revisada. Falta conferir com o DODF nº 31, de 15/02/2024.
+- `02-legislacao-distrital/ORDEM-SERVICO-CONJUNTA-SESDF-1-2021-CADASTRO-SCNES-E-TRAKCARE.md` — Ordem de Serviço Conjunta nº 01/2021 (CETIS, SUGEP e SUPLANS), publicada no DODF nº 120, de 29/06/2021, p. 19. Fonte: página da norma no SINJ-DF salva em PDF pelo Safari do iOS em 08/11/2026, sem alteração anotada. Conferência palavra a palavra: 1.166 palavras, nenhuma faltando ou sobrando. Os anexos I a III (fluxogramas) citados no art. 1º, § 3º, não estão no SINJ-DF; só o DODF nº 120/2021 pode trazê-los.
 - `04-resolucoes-anvisa/RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` — RDC Anvisa nº 1.028/2026 (DOU de 02/06/2026), que altera o art. 5º, I, e o art. 16 da RDC nº 1.000/2025 (SNCR disponível até 30/09/2026). Fonte: página de legislação da Anvisa impressa em PDF em 08/11/2026. Conferência palavra a palavra: 266 palavras, nenhuma faltando ou sobrando. Falta o endereço de origem (`fonte_externa`).
 
 ### Observação de método
 - Extração com `pdftotext` (Poppler 24.02), porque o PyMuPDF não pôde ser instalado na sessão. Para fac-símile do DODF em duas colunas, a ordem de leitura saiu correta.
 
 ### Arquivos atualizados
-- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 24 documentos; 04-resolucoes-anvisa de 1 para 2; total de 64 documentos.
-- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 69.
+- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 25 documentos; 04-resolucoes-anvisa de 1 para 2; total de 65 documentos.
+- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 70.
 
 ---
 
