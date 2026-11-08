@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 67 (62 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 68 (63 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 02-legislacao-distrital/ (23 documentos)
+## 02-legislacao-distrital/ (24 documentos)
 
 Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Resultado" entraram na v1.4 (24/10/2026). Os PDFs ficam na pasta compartilhada de normas do Drive, subpasta de mesmo nome; as edições integrais do DODF usadas como prova de publicação ficam na subpasta `diarios-oficiais` (só no Drive, não transcritas).
 
@@ -57,6 +57,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `PORTARIA-SESDF-473-2023-REGULAMENTA-PDPAS.md` | Portaria SES-DF 473/2023 — Regulamenta o PDPAS (texto compilado) | ~481 |
 | `PORTARIA-SESDF-510-2025-EGRESSOS-DE-UTI.md` | Portaria SES-DF 510/2025 — Fluxo de pacientes egressos de UTI | ~204 |
 | `PORTARIA-SESDF-536-2018-URGENCIAS-EM-SAUDE-MENTAL.md` | Portaria SES-DF 536/2018 — Urgências e emergências em saúde mental (anexos em imagem lidos visualmente) | ~472 |
+| `PORTARIA-SESDF-55-2024-ACOLHIMENTO-E-CLASSIFICACAO-DE-RISCO.md` | Portaria SES-DF 55/2024 — Protocolos de Acolhimento e Classificação de Risco (revogada pela Portaria 434/2024; registro histórico, texto do SINJ-DF em HTML) | ~127 |
 | `PORTARIA-SESDF-570-2020-TRANSFERENCIAS-INTER-HOSPITALARES.md` | Portaria SES-DF 570/2020 — Transferências inter-hospitalares pelo CRDF (revogada pela Portaria 839/2020) | ~104 |
 | `PORTARIA-SESDF-839-2020-REVOGA-PORTARIA-570-2020.md` | Portaria SES-DF 839/2020 — Revoga a Portaria 570/2020 | ~75 |
 
@@ -145,6 +146,6 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-> **Nota:** 62 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
+> **Nota:** 63 documentos transcritos e publicados, organizados por categoria. Os PDFs originais ficam na pasta compartilhada de normas do Google Drive, com o mesmo nome-base de cada Markdown.
 
 *Mantido por victorarimatea — DTD/SETIS/SES-DF*
