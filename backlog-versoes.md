@@ -21,6 +21,9 @@
 - `04-resolucoes-anvisa/RDC-ANVISA-36-2013-SEGURANCA-DO-PACIENTE.md` — RDC Anvisa nº 36/2013 (segurança do paciente). Fonte: página do Saúde Legis salva em PDF pelo Safari do iOS em 08/11/2026; a página salva como HTML fica ao lado. Conferência palavra a palavra: 1.575 palavras, nenhuma faltando ou sobrando. A página mostra a redação original do art. 12, alterado pela RDC nº 53/2013, que ainda falta obter.
 - `04-resolucoes-anvisa/RDC-ANVISA-53-2013-ALTERA-RDC-36-2013-PRAZOS-NSP.md` — RDC Anvisa nº 53/2013, nova redação do art. 12 da RDC nº 36/2013. Fonte: página do Saúde Legis salva em PDF pelo Safari do iOS em 08/11/2026. Conferência palavra a palavra: 284 palavras, nenhuma faltando ou sobrando. A transcrição da RDC nº 36/2013 passou à versão 1.1 (só metadados e observações) para remeter a ela.
 - `03-resolucoes-cfm/RESOLUCAO-CFM-1638-2002-PRONTUARIO-MEDICO.md` — Resolução CFM nº 1.638/2002 (prontuário médico e Comissão de Revisão de Prontuários). Fonte: PDF do sistema de normas do CFM. Conferência palavra a palavra: 794 palavras, nenhuma faltando ou sobrando. Numerais das listas repostos nos itens; o segundo item do art. 5º aparece numerado "I." no original e foi mantido.
+- `03-resolucoes-cfm/RESOLUCAO-CFM-1779-2005-DECLARACAO-DE-OBITO.md` — Resolução CFM nº 1.779/2005 (declaração de óbito). Fonte: PDF do sistema de normas do CFM. Conferência palavra a palavra: 700 palavras, nenhuma faltando ou sobrando.
+- `03-resolucoes-cfm/RESOLUCAO-CFM-1821-2007-PRONTUARIO-ELETRONICO.md` — Resolução CFM nº 1.821/2007 (prontuário eletrônico), com a exposição de motivos. Fonte: PDF compilado do CFM, com o art. 10 tachado e anotado como revogado. Conferência palavra a palavra: 2.866 palavras, nenhuma faltando ou sobrando (com "certificação" reunida).
+- `03-resolucoes-cfm/RESOLUCAO-CFM-2218-2018-REVOGA-ART-10-RES-1821-2007.md` — Resolução CFM nº 2.218/2018, que revoga o art. 10 da Resolução nº 1.821/2007, com a exposição de motivos. Fonte: PDF do CFM. Conferência palavra a palavra: 419 palavras, nenhuma faltando ou sobrando.
 - `04-resolucoes-anvisa/RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.md` — versão da transcrição 1.0 → 1.1: texto conferido com o fac-símile da página 244 do DOU nº 206, de 03/11/2026 (versão certificada), sem nenhuma diferença nas 314 palavras; o fac-símile foi guardado no Drive como `04-resolucoes-anvisa/RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR-DOU-PAGINA-244.pdf`.
 - `04-resolucoes-anvisa/RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` — versão da transcrição 1.0 → 1.1: só o `status_documental`, atualizado depois da leitura das RDC nº 1.000/2025 e nº 1.046/2026.
 
@@ -28,8 +31,8 @@
 - Extração com `pdftotext` (Poppler 24.02), porque o PyMuPDF não pôde ser instalado na sessão. Para fac-símile do DODF em duas colunas, a ordem de leitura saiu correta.
 
 ### Arquivos atualizados
-- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 26 documentos; 03-resolucoes-cfm de 3 para 4; 04-resolucoes-anvisa de 1 para 6; total de 71 documentos.
-- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 76.
+- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 26 documentos; 03-resolucoes-cfm de 3 para 7; 04-resolucoes-anvisa de 1 para 6; total de 74 documentos.
+- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 79.
 
 ---
 
