@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-08
-**Total de arquivos:** 71 (66 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Total de arquivos:** 73 (68 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
 
 ---
 
@@ -97,11 +97,13 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 04-resolucoes-anvisa/ (2 documentos)
+## 04-resolucoes-anvisa/ (4 documentos)
 
 | Arquivo | Documento | Linhas |
 |---|---|---|
+| `RDC-ANVISA-1000-2025-RECEITUARIOS-ELETRONICOS-CONTROLE-ESPECIAL.md` | RDC ANVISA 1.000/2025 — Notificações de Receita, Receitas de Controle Especial e Receitas sujeitas à retenção em meio eletrônico (SNCR); altera as Portarias SVS/MS 344/1998 e 6/1999 e as RDC 58/2007 e 11/2011; texto compilado com as alterações das RDC 1.028/2026 e 1.046/2026 | ~474 |
 | `RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` | RDC ANVISA 1.028/2026 — altera os arts. 5º e 16 da RDC 1.000/2025 (SNCR disponível até 30/09/2026) | ~92 |
+| `RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.md` | RDC ANVISA 1.046/2026 — nova redação do art. 18 da RDC 1.000/2025 (receitas de controle especial e sujeitas à retenção sem numeração do SNCR até 03/03/2027; numeração obrigatória a partir de 04/03/2027) | ~86 |
 | `RDC-ANVISA-657-2022-SAMD.md` | RDC ANVISA 657/2022 — SaMD | ~315 |
 
 ---

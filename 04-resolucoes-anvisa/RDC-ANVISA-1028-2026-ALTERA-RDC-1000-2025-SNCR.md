@@ -7,11 +7,11 @@ autor: "Diretoria Colegiada da ANVISA (Diretor-Presidente Leandro Pinheiro Safat
 data_criacao: "2026-06-01"
 data_publicacao: "2026-06-02"
 idioma: "Português (Brasil)"
-status_documental: "Texto da página impressa em 08/11/2026, 08:49; o art. 2º fixa a vigência na data da publicação; a nova redação do art. 16 da RDC nº 1.000/2025 (prazo até 30/09/2026) pode ter sido alterada depois — a RDC nº 1.046/2026 (DOU de 03/11/2026) ainda não foi conferida"
+status_documental: "Texto da página impressa em 08/11/2026, 08:49; o art. 2º fixa a vigência na data da publicação; as redações dadas aos arts. 5º, I, e 16 da RDC nº 1.000/2025 constam do texto compilado dessa RDC impresso em 08/11/2026; a RDC nº 1.046/2026 (DOU de 03/11/2026) não alterou o art. 16, mas deu nova redação ao art. 18 (emissão sem numeração do SNCR até 03/03/2027)"
 arquivo_original: "RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.pdf"
 fonte_externa: "Campo não encontrado no documento"
 data_transcricao: "2026-11-08"
-versao_transcricao: "1.0"
+versao_transcricao: "1.1"
 ---
 # Ficha Técnica Documental
 
@@ -28,7 +28,7 @@ versao_transcricao: "1.0"
 | Número de Páginas | 1 |
 | Nome do Arquivo Original | RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.pdf |
 | Link Externo de Acesso | Campo não encontrado no documento |
-| Versão da Transcrição | 1.0 |
+| Versão da Transcrição | 1.1 |
 
 ---
 
@@ -38,6 +38,7 @@ versao_transcricao: "1.0"
 - **Publicação:** "PUB D.O.U., 02/06/2026 - Seção 1", no rodapé da página; a página do DOU não foi informada. O rodapé e a frase "Este texto não substitui a Publicação Oficial." saíram do corpo e estão registrados aqui.
 - **Método (§WEB):** extração com `pdftotext` (Poppler 24.02); parágrafos reconstruídos pela estrutura do ato; linhas do mesmo parágrafo unidas com espaço. O traço no início da linha "- RDC nº 585" é o travessão do texto ("Resolução da Diretoria Colegiada - RDC nº 585"), não hifenização.
 - **Cabeçalho de impressão removido:** "08/11/2026 08:49:12".
+- **Versão 1.1 (08/11/2026):** só o campo `status_documental` mudou, depois da leitura do texto compilado da RDC nº 1.000/2025 e da RDC nº 1.046/2026 (mesma pasta). O corpo não mudou.
 - **Grafia do original preservada:** espaço antes da vírgula depois das datas com link ("2025 ,", "1999 ,", "2021 ,") e em "III e IV ,"; "1°" com sinal de grau na epígrafe; "Art. 2 º" com espaço; as linhas pontilhadas e as aspas da alteração do art. 5º; a marca "(NR)" no art. 16.
 
 ---

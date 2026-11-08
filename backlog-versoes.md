@@ -16,13 +16,16 @@
 - `02-legislacao-distrital/ORDEM-SERVICO-CONJUNTA-SESDF-1-2021-CADASTRO-SCNES-E-TRAKCARE.md` — Ordem de Serviço Conjunta nº 01/2021 (CETIS, SUGEP e SUPLANS), publicada no DODF nº 120, de 29/06/2021, p. 19. Fonte: página da norma no SINJ-DF salva em PDF pelo Safari do iOS em 08/11/2026, sem alteração anotada. Conferência palavra a palavra: 1.166 palavras, nenhuma faltando ou sobrando. Os anexos I a III (fluxogramas) citados no art. 1º, § 3º, não estão no SINJ-DF; só o DODF nº 120/2021 pode trazê-los.
 - `02-legislacao-distrital/PORTARIA-SESDF-117-2026-PRESCRICAO-E-DISPENSACAO-FARMACIAS-AMBULATORIAIS.md` — Portaria SES-DF nº 117/2026 (farmácias ambulatoriais: prescrição, fornecimento e dispensação), publicada no DODF nº 61, de 01/04/2026, e republicada no DODF nº 177, de 23/09/2026, por incorreção no original. Fonte: página da norma no SINJ-DF (texto republicado) salva em PDF pelo Safari do iOS em 08/11/2026, com os Anexos I e II. Conferência palavra a palavra: 7.683 palavras, nenhuma faltando ou sobrando. Erros de numeração e remissão da fonte foram mantidos e listados nas Observações.
 - `04-resolucoes-anvisa/RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` — RDC Anvisa nº 1.028/2026 (DOU de 02/06/2026), que altera o art. 5º, I, e o art. 16 da RDC nº 1.000/2025 (SNCR disponível até 30/09/2026). Fonte: página de legislação da Anvisa impressa em PDF em 08/11/2026. Conferência palavra a palavra: 266 palavras, nenhuma faltando ou sobrando. Falta o endereço de origem (`fonte_externa`).
+- `04-resolucoes-anvisa/RDC-ANVISA-1000-2025-RECEITUARIOS-ELETRONICOS-CONTROLE-ESPECIAL.md` — RDC Anvisa nº 1.000/2025 (DOU nº 238, de 15/12/2025), texto compilado da página de legislação da Anvisa impresso em PDF em 08/11/2026, com as notas de alteração das RDC nº 1.028/2026 e nº 1.046/2026. Conferência palavra a palavra: 4.338 palavras, nenhuma faltando ou sobrando. Falta o endereço de origem (`fonte_externa`).
+- `04-resolucoes-anvisa/RDC-ANVISA-1046-2026-ALTERA-RDC-1000-2025-PRAZO-SNCR.md` — RDC Anvisa nº 1.046/2026 (DOU nº 206, de 03/11/2026, p. 244), que dá nova redação ao art. 18 da RDC nº 1.000/2025: receitas de controle especial e sujeitas à retenção podem ser emitidas eletronicamente sem numeração do SNCR até 03/03/2027. Fonte: página do DOU no portal da Imprensa Nacional salva em PDF pelo Safari do iOS em 08/11/2026. Conferência palavra a palavra: 314 palavras, nenhuma faltando ou sobrando.
+- `04-resolucoes-anvisa/RDC-ANVISA-1028-2026-ALTERA-RDC-1000-2025-SNCR.md` — versão da transcrição 1.0 → 1.1: só o `status_documental`, atualizado depois da leitura das RDC nº 1.000/2025 e nº 1.046/2026.
 
 ### Observação de método
 - Extração com `pdftotext` (Poppler 24.02), porque o PyMuPDF não pôde ser instalado na sessão. Para fac-símile do DODF em duas colunas, a ordem de leitura saiu correta.
 
 ### Arquivos atualizados
-- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 26 documentos; 04-resolucoes-anvisa de 1 para 2; total de 66 documentos.
-- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 71.
+- `README.md`: v1.10.2 → v1.11.0; 02-legislacao-distrital de 21 para 26 documentos; 04-resolucoes-anvisa de 1 para 4; total de 68 documentos.
+- `INDICE.md`: novas linhas em 02-legislacao-distrital e 04-resolucoes-anvisa; total de arquivos 73.
 
 ---
 
