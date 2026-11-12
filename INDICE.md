@@ -1,8 +1,8 @@
 # Índice — governanca-ses-df
 
 **Tipo:** Documento (D01)
-**Última atualização:** 2026-11-08
-**Total de arquivos:** 85 (80 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog)
+**Última atualização:** 2026-11-12
+**Total de arquivos:** 87 (80 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog + 2 README de pasta em 09-artigos)
 
 ---
 
@@ -160,6 +160,16 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 | Arquivo | Documento | Linhas |
 |---|---|---|
 | `INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md` | Informe RENASES (pauta da CIT, fev/2012) — recomendações da oficina tripartite para a 1ª versão | ~90 |
+
+---
+
+## 09-artigos/ (0 documentos)
+
+Artigos e literatura técnica, por tema. Formato conforme a licença: transcrição integral (`-EN.md` e `-PT.md`) ou ficha de leitura (`-FICHA.md`). Regras em [`09-artigos/README.md`](./09-artigos/README.md).
+
+| Subpasta | Tema | Documentos |
+|---|---|---|
+| `metodologias-de-gestao/` | Huddles escalonados, centros de comando e coordenação de capacidade, fluxo de pacientes | 0 |
 
 ---
 

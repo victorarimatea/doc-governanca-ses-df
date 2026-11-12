@@ -2,6 +2,29 @@
 
 ---
 
+## v1.12.0 — 2026-11-12
+
+**Tipo de alteração:** Nova categoria documental (estrutura, sem documentos)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** o projeto Huddle em Rede (RDHP/SES-DF, sessão S003) vai registrar aqui as referências do seu Caderno de Estudo, um documento por sessão. Parte delas são artigos com direitos reservados, que não podem ser reproduzidos nem traduzidos num repositório público. O Victor aprovou a divisão por licença e pediu uma pasta própria para artigos, separada por tema, em vez de misturá-los com as referências internacionais.
+
+### Estrutura criada
+- `09-artigos/README.md` — finalidade da categoria, regra de formato por licença (transcrição integral EN+PT para licença aberta ou domínio público; ficha de leitura `-FICHA.md` para obras com direitos reservados, sem reproduzir o texto) e convenção de nomes `ARTIGO-[SOBRENOME]-[ANO]-[DESCRICAO]-[EN|PT|FICHA].md`.
+- `09-artigos/metodologias-de-gestao/README.md` — primeira subpasta temática (huddles escalonados, centros de comando e coordenação de capacidade), com o índice vazio.
+
+### Arquivos atualizados
+- `README.md`: v1.11.0 → v1.12.0; árvore com `09-artigos/`. Total de documentos inalterado (80).
+- `INDICE.md`: seção `09-artigos/`; total de arquivos de 85 para 87 (os dois README de pasta).
+
+### Observação de numeração
+- O número `09` segue `08-documentos-tecnicos`; o `06` continua reservado para a correção SEV4 das pastas `03`.
+
+### Pendências
+- O `WORKFLOW-ESPECIFICACAO.md` ainda não descreve a ficha de leitura; registrar quando a primeira ficha for feita.
+
+---
+
 ## v1.11.0 — 2026-11-08
 
 **Tipo de alteração:** Inclusão de documentos (lote em andamento)

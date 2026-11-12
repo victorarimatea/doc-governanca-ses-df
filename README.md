@@ -2,7 +2,7 @@
 
 **Tipo:** D — Documento
 **ID:** D01
-**Versão:** v1.11.0 — 2026-11-08
+**Versão:** v1.12.0 — 2026-11-12
 **Visibilidade:** Público
 **Mantenedor:** victorarimatea
 
@@ -33,7 +33,9 @@ governanca-ses-df/
 ├── 04-resolucoes-anvisa/              Resoluções ANVISA/RDC (6 documentos)
 ├── 05-referencias-internacionais/     Referências internacionais bilíngues EN+PT (10 documentos)
 ├── 07-instrumentos-planejamento/      Instrumentos de planejamento estratégico-orçamentário (3 documentos + 1 nota comparativa)
-└── 08-documentos-tecnicos/            Documentos técnicos e de pauta, não normativos (1 documento)
+├── 08-documentos-tecnicos/            Documentos técnicos e de pauta, não normativos (1 documento)
+└── 09-artigos/                        Artigos e literatura técnica por tema; transcrição integral EN+PT ou ficha de leitura, conforme a licença
+    └── metodologias-de-gestao/        Huddles escalonados, centros de comando e coordenação de capacidade (0 documentos)
 ```
 
 > **Nota sobre a numeração de pastas:** há uma inconsistência histórica — duas
