@@ -26,3 +26,7 @@ Em todos os casos, o PDF original fica na pasta compartilhada do Google Drive, c
 Exemplos: `ARTIGO-RICHERT-2025-COORDENACAO-ESTADUAL-DE-TRANSFERENCIAS-EN.md`; `ARTIGO-MIHALJEVIC-2020-TIERED-DAILY-HUDDLES-FICHA.md`.
 
 Quando a obra não tem autor pessoal, usa-se a sigla da instituição no lugar do sobrenome.
+
+## Obras sem licença confirmada para repositório público
+
+Quando a licença da obra não está esclarecida de forma inequívoca, a transcrição integral (original e tradução) é feita do mesmo modo, mas fica só na pasta do projeto de origem no Google Drive, para uso interno da unidade, e não entra neste repositório. A obra migra para cá, como transcrição ou ficha de leitura, depois que a licença for confirmada. Critério adotado no projeto Huddle em Rede em 12/11/2026 (sessão S005).

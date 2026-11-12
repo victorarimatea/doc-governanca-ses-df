@@ -2,6 +2,33 @@
 
 ---
 
+## v1.14.0 — 2026-11-12
+
+**Tipo de alteração:** Inclusão de documentos (pares bilíngues)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** sessão S005 do projeto Huddle em Rede (RDHP/SES-DF). O Victor pediu a transcrição de todos os documentos já recebidos. Entram aqui os quatro artigos com licença aberta declarada no próprio PDF. As obras sem licença confirmada para repositório público foram transcritas do mesmo modo, mas ficam só na pasta do projeto no Drive, para uso interno (critério acrescentado em `09-artigos/README.md`).
+
+### Documentos incluídos (`09-artigos/metodologias-de-gestao/`)
+- `ARTIGO-MITCHELL-2022-COORDENACAO-REGIONAL-DE-TRANSFERENCIAS-EN.md` e `-PT.md` — JAMA Health Forum 2022;3(2):e215048, CC-BY. PDF no Drive, SHA-256 `0f483540…20449d`.
+- `ARTIGO-MITCHELL-2023-CENTRAL-ESTADUAL-DE-WASHINGTON-WMCC-EN.md` e `-PT.md` — Disaster Med Public Health Prep 2023;17:e556, CC BY 4.0. PDF no Drive, SHA-256 `f1fccdb2…820eb6`.
+- `ARTIGO-SARZYNSKI-2024-TENDENCIAS-DE-TRANSFERENCIAS-NA-PANDEMIA-EN.md` e `-PT.md` — JAMA Netw Open 2024;7(2):e2356174, CC-BY. PDF no Drive, SHA-256 `f711c743…289f45`.
+- `ARTIGO-RICHERT-2025-COORDENACAO-ESTADUAL-DE-TRANSFERENCIAS-EN.md` e `-PT.md` — JAMA Netw Open 2025;8(12):e2546002, CC-BY. PDF no Drive, SHA-256 `0981ab58…dcb125`.
+
+### Arquivos atualizados
+- `README.md`: v1.13.0 → v1.14.0; total de 82 para 90 documentos.
+- `INDICE.md`: seção `09-artigos/metodologias-de-gestao/`; total de arquivos de 89 para 97.
+- `09-artigos/README.md`: regra para obras sem licença confirmada (transcrição interna no Drive, migração depois da confirmação).
+- `09-artigos/metodologias-de-gestao/README.md`: tabela de documentos.
+- `WORKFLOW-ESPECIFICACAO.md` §9, Fase 8: linhas 64 a 71.
+
+### Aprendizados de extração (periódicos JAMA e Cambridge)
+- JAMA Network Open: parágrafo pelo recuo da primeira linha (o espaçamento entre linhas é irregular por causa dos sobrescritos); legendas de figura que continuam dentro da área da figura; linhas mescladas de tabela separadas pelo alinhamento vertical.
+- Cambridge (Disaster Med Public Health Prep): figura com texto desenhado como contorno vetorial, sem texto extraível; transcrição por leitura visual da página renderizada.
+- Springer (J Gen Intern Med), obra interna: justificação sem caractere de espaço e com espaçamento entre letras; extração caractere a caractere e conferência por sequência de letras, em vez de palavras.
+
+---
+
 ## v1.13.0 — 2026-11-12
 
 **Tipo de alteração:** Inclusão de documentos (par bilíngue)

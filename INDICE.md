@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-12
-**Total de arquivos:** 89 (82 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog + 2 README de pasta em 09-artigos)
+**Total de arquivos:** 97 (90 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog + 2 README de pasta em 09-artigos)
 
 ---
 
@@ -165,13 +165,26 @@ Documentos técnicos e de pauta, sem força normativa, guardados pelo valor hist
 
 ---
 
-## 09-artigos/ (0 documentos)
+## 09-artigos/ (8 documentos)
 
 Artigos e literatura técnica, por tema. Formato conforme a licença: transcrição integral (`-EN.md` e `-PT.md`) ou ficha de leitura (`-FICHA.md`). Regras em [`09-artigos/README.md`](./09-artigos/README.md).
 
 | Subpasta | Tema | Documentos |
 |---|---|---|
-| `metodologias-de-gestao/` | Huddles escalonados, centros de comando e coordenação de capacidade, fluxo de pacientes | 0 |
+| `metodologias-de-gestao/` | Huddles escalonados, centros de comando e coordenação de capacidade, fluxo de pacientes | 8 |
+
+### 09-artigos/metodologias-de-gestao/
+
+| Arquivo | Documento | Linhas |
+|---|---|---|
+| `ARTIGO-MITCHELL-2022-COORDENACAO-REGIONAL-DE-TRANSFERENCIAS-EN.md` | Mitchell et al., JAMA Health Forum 2022 — coordenação regional de transferências (original) | ~137 |
+| `ARTIGO-MITCHELL-2022-COORDENACAO-REGIONAL-DE-TRANSFERENCIAS-PT.md` | Idem, tradução integral PT-BR | ~137 |
+| `ARTIGO-MITCHELL-2023-CENTRAL-ESTADUAL-DE-WASHINGTON-WMCC-EN.md` | Mitchell et al., Disaster Med Public Health Prep 2023 — WMCC (original) | ~237 |
+| `ARTIGO-MITCHELL-2023-CENTRAL-ESTADUAL-DE-WASHINGTON-WMCC-PT.md` | Idem, tradução integral PT-BR | ~237 |
+| `ARTIGO-SARZYNSKI-2024-TENDENCIAS-DE-TRANSFERENCIAS-NA-PANDEMIA-EN.md` | Sarzynski et al., JAMA Netw Open 2024 — transferências na pandemia (original) | ~395 |
+| `ARTIGO-SARZYNSKI-2024-TENDENCIAS-DE-TRANSFERENCIAS-NA-PANDEMIA-PT.md` | Idem, tradução integral PT-BR | ~395 |
+| `ARTIGO-RICHERT-2025-COORDENACAO-ESTADUAL-DE-TRANSFERENCIAS-EN.md` | Richert et al., JAMA Netw Open 2025 — coordenação estadual de transferências (original) | ~466 |
+| `ARTIGO-RICHERT-2025-COORDENACAO-ESTADUAL-DE-TRANSFERENCIAS-PT.md` | Idem, tradução integral PT-BR | ~466 |
 
 ---
 

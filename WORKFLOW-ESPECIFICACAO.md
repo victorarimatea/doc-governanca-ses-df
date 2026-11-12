@@ -377,6 +377,12 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | # | Documento | Arquivo | Status |
 |---|---|---|---|
 | 62-63 | NHS England — Integrated OPEL framework 2026 to 2028 (página long read impressa pelo Chrome em 12/11/2026; apêndices A a L à parte, não incluídos) | `05-referencias-internacionais/NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028-EN.md` e `-PT.md` | ✅ v1.0 (Conversão Completa; EN conferido palavra a palavra) |
+| 64-65 | Mitchell et al. 2022 — Regional Transfer Coordination and Hospital Load Balancing During COVID-19 Surges (JAMA Health Forum, CC-BY) | `09-artigos/metodologias-de-gestao/ARTIGO-MITCHELL-2022-COORDENACAO-REGIONAL-DE-TRANSFERENCIAS-EN.md` e `-PT.md` | ✅ v1.0 (EN conferido palavra a palavra) |
+| 66-67 | Mitchell et al. 2023 — Washington State Medical Operations Coordination Center (Disaster Med Public Health Prep, CC BY 4.0) | `09-artigos/metodologias-de-gestao/ARTIGO-MITCHELL-2023-CENTRAL-ESTADUAL-DE-WASHINGTON-WMCC-EN.md` e `-PT.md` | ✅ v1.0 (EN conferido palavra a palavra; Figura 1 por leitura visual) |
+| 68-69 | Sarzynski et al. 2024 — Trends in Patient Transfers During the COVID-19 Pandemic (JAMA Netw Open, CC-BY) | `09-artigos/metodologias-de-gestao/ARTIGO-SARZYNSKI-2024-TENDENCIAS-DE-TRANSFERENCIAS-NA-PANDEMIA-EN.md` e `-PT.md` | ✅ v1.0 (EN conferido palavra a palavra) |
+| 70-71 | Richert et al. 2025 — Statewide Transfer Coordination and Patient Transfer Rates (JAMA Netw Open, CC-BY) | `09-artigos/metodologias-de-gestao/ARTIGO-RICHERT-2025-COORDENACAO-ESTADUAL-DE-TRANSFERENCIAS-EN.md` e `-PT.md` | ✅ v1.0 (EN conferido palavra a palavra) |
+
+Obras do mesmo lote sem licença confirmada para repositório público (NHS England, ASPR TRACIE, Springer) foram transcritas e ficam só na pasta do projeto no Drive, para uso interno, até a confirmação (critério em `09-artigos/README.md`).
 
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
