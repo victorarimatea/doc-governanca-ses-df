@@ -2,7 +2,7 @@
 
 **Tipo:** Documento (D01)
 **Última atualização:** 2026-11-12
-**Total de arquivos:** 87 (80 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog + 2 README de pasta em 09-artigos)
+**Total de arquivos:** 89 (82 documentos + 1 nota comparativa + README + INDICE + WORKFLOW + backlog + 2 README de pasta em 09-artigos)
 
 ---
 
@@ -120,7 +120,7 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 
 ---
 
-## 05-referencias-internacionais/ (10 documentos bilíngues EN+PT)
+## 05-referencias-internacionais/ (12 documentos bilíngues EN+PT)
 
 | Arquivo | Documento |
 |---|---|
@@ -134,6 +134,8 @@ Normas do Distrito Federal e da SES-DF. As 18 normas do guia "Rotina que Gera Re
 | `OECD-RECOMMENDATION-HEALTH-DATA-GOVERNANCE-2025-PT.md` | OECD Recommendation on Health Data Governance 2025 — Tradução PT-BR |
 | `PAHO-8-PRINCIPLES-DIGITAL-TRANSFORMATION-2021-EN.md` | PAHO 8 Principles Digital Transformation 2021 — Original EN |
 | `PAHO-8-PRINCIPLES-DIGITAL-TRANSFORMATION-2021-PT.md` | PAHO 8 Principles Digital Transformation 2021 — Tradução PT-BR |
+| `NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028-EN.md` | NHS England — Integrated OPEL framework 2026 to 2028 — Original EN |
+| `NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028-PT.md` | NHS England — Marco OPEL integrado 2026 a 2028 — Tradução PT-BR |
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Tipo:** D — Documento
 **ID:** D01
-**Versão:** v1.12.0 — 2026-11-12
+**Versão:** v1.13.0 — 2026-11-12
 **Visibilidade:** Público
 **Mantenedor:** victorarimatea
 
@@ -31,7 +31,7 @@ governanca-ses-df/
 ├── 03-portarias-ministeriais/         Portarias GM/MS e SAES/MS, portarias de consolidação e resoluções da CIT (16 documentos)
 ├── 03-resolucoes-cfm/                 Resoluções CFM (12 documentos)
 ├── 04-resolucoes-anvisa/              Resoluções ANVISA/RDC (6 documentos)
-├── 05-referencias-internacionais/     Referências internacionais bilíngues EN+PT (10 documentos)
+├── 05-referencias-internacionais/     Referências internacionais bilíngues EN+PT (12 documentos)
 ├── 07-instrumentos-planejamento/      Instrumentos de planejamento estratégico-orçamentário (3 documentos + 1 nota comparativa)
 ├── 08-documentos-tecnicos/            Documentos técnicos e de pauta, não normativos (1 documento)
 └── 09-artigos/                        Artigos e literatura técnica por tema; transcrição integral EN+PT ou ficha de leitura, conforme a licença
@@ -46,7 +46,7 @@ governanca-ses-df/
 > está registrada como pendência SEV4 no `backlog-versoes.md`, para sessão
 > dedicada.
 
-**Total:** 80 documentos transcritos + 1 nota comparativa | Fase 1 (17 nacionais) + Fase 2 Tier 1 (10 internacionais) + Instrumentos de planejamento (3: PAS 2026; PDS 2024-2027 Revisão 2/2025, vigente; PDS 2024-2027 rascunho de mar/2025, substituído) + Base normativa da RENASES (5, com a Resolução de Consolidação CIT 1/2021) + Portaria de Consolidação nº 1/2017 (1) + Normas distritais do guia "Rotina que Gera Resultado" (18) + Normas do guia "Cuidar, Decidir, Conduzir" (20, em andamento) + Base normativa do CNES (6: Portaria SAS/MS 118/2014, redações original e republicada; Portaria de Consolidação SAES/MS 1/2022; Portarias de origem GM/MS 1.646/2015, GM/MS 2.022/2017 e SAS/MS 511/2000)
+**Total:** 82 documentos transcritos + 1 nota comparativa | Fase 1 (17 nacionais) + Fase 2 Tier 1 (10 internacionais) + Referências do projeto Huddle em Rede (2: marco OPEL 2026-2028 do NHS England, EN+PT) + Instrumentos de planejamento (3: PAS 2026; PDS 2024-2027 Revisão 2/2025, vigente; PDS 2024-2027 rascunho de mar/2025, substituído) + Base normativa da RENASES (5, com a Resolução de Consolidação CIT 1/2021) + Portaria de Consolidação nº 1/2017 (1) + Normas distritais do guia "Rotina que Gera Resultado" (18) + Normas do guia "Cuidar, Decidir, Conduzir" (20, em andamento) + Base normativa do CNES (6: Portaria SAS/MS 118/2014, redações original e republicada; Portaria de Consolidação SAES/MS 1/2022; Portarias de origem GM/MS 1.646/2015, GM/MS 2.022/2017 e SAS/MS 511/2000)
 
 **PDFs originais:** ficam na pasta compartilhada de normas do Google Drive (preservação para auditoria), com o mesmo nome-base de cada Markdown deste repositório.
 

@@ -372,6 +372,12 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 | 60 | Plano Distrital de Saúde 2024-2027, rascunho de março de 2025 da versão 2.0 (230 páginas) — substituído | `07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISADO-2025.md` | ✅ v1.1 (Conversão Revisada; marcada como substituída) |
 | 61 | Plano Distrital de Saúde 2024-2027 — Revisão 2/2025 (versão vigente publicada, 231 páginas) | `07-instrumentos-planejamento/PDS-SESDF-2024-2027-REVISAO-2-2025.md` | ✅ v1.0 (Conversão Revisada — títulos por gabarito de texto, parágrafos e rodapé ajustados à regravação; P16, P17) |
 
+### Fase 8 — Referências do projeto Huddle em Rede (RDHP/SES-DF), um documento por sessão
+
+| # | Documento | Arquivo | Status |
+|---|---|---|---|
+| 62-63 | NHS England — Integrated OPEL framework 2026 to 2028 (página long read impressa pelo Chrome em 12/11/2026; apêndices A a L à parte, não incluídos) | `05-referencias-internacionais/NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028-EN.md` e `-PT.md` | ✅ v1.0 (Conversão Completa; EN conferido palavra a palavra) |
+
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
 🔄 Upload dos 28 arquivos .md — pendente

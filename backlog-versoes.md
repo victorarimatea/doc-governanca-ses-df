@@ -2,6 +2,34 @@
 
 ---
 
+## v1.13.0 — 2026-11-12
+
+**Tipo de alteração:** Inclusão de documentos (par bilíngue)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** primeira referência do Caderno de Estudo do projeto Huddle em Rede (RDHP/SES-DF, sessão S004), na fila "um documento por sessão". O Victor baixou a página do NHS England e a pôs no Projeto do Claude do caderno. A página já traz o marco 2026 a 2028, que substituiu o 2024 a 2026 citado na versão 0.2 do caderno.
+
+### Documentos incluídos
+- `05-referencias-internacionais/NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028-EN.md` — Integrated OPEL framework 2026 to 2028 (NHS England, PRN01379), página long read impressa pelo Chrome em 12/11/2026, 17 páginas. Conferência palavra a palavra: 4.833 palavras, nenhuma faltando ou sobrando.
+- `05-referencias-internacionais/NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028-PT.md` — tradução integral PT-BR, com a mesma estrutura.
+- PDF preservado no Drive: pasta compartilhada de normas, `05-referencias-internacionais/NHSE-INTEGRATED-OPEL-FRAMEWORK-2026-2028.pdf` (SHA-256 `9104f1f6…a8dd5a`).
+
+### Arquivos atualizados
+- `README.md`: v1.12.0 → v1.13.0; total de 80 para 82 documentos.
+- `INDICE.md`: duas linhas em `05-referencias-internacionais/`; total de arquivos de 87 para 89.
+- `WORKFLOW-ESPECIFICACAO.md` §9: nova Fase 8 (referências do projeto Huddle em Rede).
+
+### Aprendizados de extração (página da internet com caixas de destaque)
+- Itens de lista: o marcador é desenhado (quadrado de 4 × 4 pt), não é caractere; usar `get_drawings()` e a altura da linha para saber onde começa cada item.
+- Caixas de destaque do NHS England: recuo próprio (83 pt) e transcrição como citação (`>`).
+- Negrito no início de itens de lista: montar a linha por trecho (`spans`) para manter o `**`.
+
+### Pendências
+- Licença do conteúdo de www.england.nhs.uk (provável Open Government Licence v3.0) a conferir na página de termos do site, que as ferramentas não conseguiram ler.
+- Apêndices A a L do marco OPEL (publicação separada) não transcritos.
+
+---
+
 ## v1.12.0 — 2026-11-12
 
 **Tipo de alteração:** Nova categoria documental (estrutura, sem documentos)
