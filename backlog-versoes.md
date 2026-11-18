@@ -2,6 +2,29 @@
 
 ---
 
+## v1.14.1 — 2026-11-18
+
+**Tipo de alteração:** Planejamento de lote (sem documentos novos)
+**Autorizado por:** victorarimatea
+**Status:** ativo
+**Exposição de motivos:** a sessão S008 do guia "Cuidar, Decidir, Conduzir" consolidou numa só lista (pendência B046) os documentos que faltam transcrever, substituindo, para o que falta, a lista da S007 e a parte documental da B030. O Victor pediu a conferência da lista com o repositório e os links do bloco de Prioridade 1 para baixar os PDFs.
+
+### Conferência com o repositório (18/11/2026)
+- Nenhum dos 17 itens da Prioridade 1 estava transcrito. A Portaria SES-DF nº 386/2017 está no repositório, mas sem o Anexo III.A legível (item E2-02, completar a transcrição existente).
+- No Drive havia, fora da pasta de normas, uma cópia da Portaria GM/MS nº 10/2017 com o nome trocado ("Portaria SES-DF nº 10 2017 - Redefine modelo assistencial e financiamento de UPA 24h…"). O item E2-09 pede o texto consolidado no Anexo III da Portaria de Consolidação nº 3/2017, não essa cópia.
+- O ato de transferência do Hospital Cidade do Sol ao IGES-DF, marcado como "localizar" na lista, foi localizado: Lei distrital nº 7.417/2024 (gestão em caráter de emergência) e Lei distrital nº 7.552/2024, publicada no DODF nº 173, de 10/09/2024 (gestão permanente).
+- Não localizados em fonte pública: ato que institui o "AVC no Quadrado" (só notícias do lançamento, 29/05/2025), ato do HSVP sobre o paciente psiquiátrico trazido pelo SAMU, Nota Técnica nº 07/2019 SES/SAIS, Portaria SES-DF nº 37/2014 e o protocolo de cirurgia vascular de urgência na TRS.
+
+### Arquivos atualizados
+- `WORKFLOW-ESPECIFICACAO.md`: §9, nova Fase 9 com a fila E2-01 a E2-17 e o nome de arquivo previsto para cada item.
+- `README.md`: nota sobre a subpasta `00-entrada` do Drive, que recebe os PDFs antes da transcrição.
+
+### Pendências
+- Transcrever os itens E2-01 a E2-17 conforme os PDFs chegarem à `00-entrada`; a cada transcrição, atualizar `INDICE.md`, a Fase 9 do `WORKFLOW-ESPECIFICACAO.md`, a aba REFERÊNCIAS do PAINEL DE CONTROLE do guia e a aba RASTREIO F023.
+- Prioridade 2 (itens 18 a 26) e Prioridade 3 (itens 27 a 32) da lista consolidada: ainda não conferidas em detalhe.
+
+---
+
 ## v1.14.0 — 2026-11-12
 
 **Tipo de alteração:** Inclusão de documentos (pares bilíngues)

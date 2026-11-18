@@ -384,6 +384,30 @@ Exemplos: `LEI-FEDERAL-12965-2014-MARCO-CIVIL-DA-INTERNET.md`, `RESOLUCAO-CFM-23
 
 Obras do mesmo lote sem licença confirmada para repositório público (NHS England, ASPR TRACIE, Springer) foram transcritas e ficam só na pasta do projeto no Drive, para uso interno, até a confirmação (critério em `09-artigos/README.md`).
 
+### Fase 9 — Guia "Cuidar, Decidir, Conduzir", lista consolidada E2 (S008, pendência B046), bloco de Prioridade 1
+
+Fila aberta em 18/11/2026. Fonte da lista: documento "CUIDAR, DECIDIR, CONDUZIR - E2 - NORMAS A TRANSCREVER - LISTA CONSOLIDADA - 2026 11 NOV", no Drive do projeto do guia. Conferido com este repositório na mesma data: nenhum item do bloco estava transcrito. Os PDFs baixados entram na pasta `00-entrada` da pasta compartilhada de normas no Drive; ao transcrever, cada PDF recebe o nome-base do Markdown e vai para a subpasta da categoria.
+
+| # | Documento | Arquivo previsto | Status |
+|---|---|---|---|
+| E2-01 | Deliberação do Colegiado de Gestão SES-DF nº 33/2014 e referendo (Linha de Cuidado do Trauma na RUE) | `02-legislacao-distrital/DELIBERACAO-CGSESDF-33-2014-LINHA-DE-CUIDADO-DO-TRAUMA.md` | 🔄 Aguardando PDF |
+| E2-02 | Portaria SES-DF nº 386/2017, Anexo III.A (fluxo do trauma), do fac-símile do DODF nº 148, de 03/08/2017, p. 185 | `02-legislacao-distrital/PORTARIA-SESDF-386-2017-COMPONENTE-HOSPITALAR-RUE.md` (v1.0 → v1.1) e `diarios-oficiais/DODF-GDF-148-2017-INTEGRA-2017-08-03.pdf` | 🔄 Aguardando PDF |
+| E2-03 | Ato que institui o "AVC no Quadrado" (lançado em 29/05/2025) | a definir | 🔍 Ato não localizado em fonte pública; pedir à SAIS |
+| E2-04 | Ato sobre paciente psiquiátrico trazido pelo SAMU (passagem prévia por pronto-socorro clínico) | a definir | 🔍 Número a pedir ao HSVP |
+| E2-05 | Portaria SES-DF nº 632/2025 (Política Distrital de Atenção Ambulatorial Especializada) | `02-legislacao-distrital/PORTARIA-SESDF-632-2025-ATENCAO-AMBULATORIAL-ESPECIALIZADA.md` | 🔄 Aguardando PDF |
+| E2-06 | Portaria SES-DF nº 188/2026 (Grupos Condutores das Redes de Atenção) | `02-legislacao-distrital/PORTARIA-SESDF-188-2026-GRUPOS-CONDUTORES-DAS-REDES.md` | 🔄 Aguardando PDF |
+| E2-07 | Portaria SES-DF nº 1.321/2018 (vinculação do componente Parto e Nascimento) | `02-legislacao-distrital/PORTARIA-SESDF-1321-2018-VINCULACAO-PARTO-E-NASCIMENTO.md` | 🔄 Aguardando PDF |
+| E2-08 | Resolução CFM nº 2.079/2014 (UPAs) | `03-resolucoes-cfm/RESOLUCAO-CFM-2079-2014-UNIDADES-DE-PRONTO-ATENDIMENTO.md` | 🔄 Aguardando PDF |
+| E2-09 | Portaria de Consolidação GM/MS nº 3/2017, Anexo III (RUE, com a Portaria GM/MS nº 10/2017 incorporada) — recorte | `03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-3-2017-ANEXO-III-RUE.md` | 🔄 Aguardando PDF |
+| E2-10 | Lei distrital nº 7.923/2026 e Decreto distrital nº 49.089/2026 (população em situação de rua) | `02-legislacao-distrital/LEI-DISTRITAL-7923-2026-POPULACAO-EM-SITUACAO-DE-RUA.md` e `DECRETO-DISTRITAL-49089-2026-REGULAMENTA-LEI-7923-2026.md` | 🔄 Aguardando PDF |
+| E2-11 | Plano de Ação Regional da RUE do DF (2018-2023) | `08-documentos-tecnicos/PLANO-ACAO-REGIONAL-RUE-SESDF-2018.md` | 🔄 Aguardando PDF; verificar versão posterior |
+| E2-12 | Leis distritais nº 5.899/2017 e nº 6.270/2019 (IGES-DF) e contrato de gestão do IGES-DF (51º termo aditivo, Anexo IV) | `02-legislacao-distrital/LEI-DISTRITAL-5899-2017-INSTITUTO-HOSPITAL-DE-BASE.md`, `LEI-DISTRITAL-6270-2019-IGESDF.md` e `08-documentos-tecnicos/CONTRATO-GESTAO-SESDF-IGESDF-51-TERMO-ADITIVO.md` | 🔄 Aguardando PDF (contrato: obter pelo SEI ou transparência) |
+| E2-13 | Decreto distrital nº 37.515/2016 (Programa de Gestão Regional da Saúde; regiões de saúde) | `02-legislacao-distrital/DECRETO-DISTRITAL-37515-2016-GESTAO-REGIONAL-DA-SAUDE.md` | 🔄 Aguardando PDF |
+| E2-14 | Constituição Federal, art. 32, e Lei nº 8.080/1990, art. 19 — recorte | `01-legislacao-federal/CONSTITUICAO-FEDERAL-1988-ART-32-DISTRITO-FEDERAL.md` e `LEI-FEDERAL-8080-1990-LEI-ORGANICA-DA-SAUDE.md` | 🔄 Aguardando PDF |
+| E2-15 | Transferência do Hospital Cidade do Sol ao IGES-DF: Lei distrital nº 7.417/2024 (gestão em caráter de emergência) e Lei distrital nº 7.552/2024 (gestão permanente) | `02-legislacao-distrital/LEI-DISTRITAL-7417-2024-IGESDF-UNIDADE-CIDADE-DO-SOL.md` e `LEI-DISTRITAL-7552-2024-ALTERA-LEI-7417-2024.md` | 🔄 Aguardando PDF (atos localizados em 18/11/2026) |
+| E2-16 | Nota Técnica nº 07/2019 SES/SAIS e Portaria SES-DF nº 37/2014 (litíase renal) | a definir | 🔍 Não localizadas em fonte pública; pedir à SAIS |
+| E2-17 | Protocolo de Regulação de Cirurgia Vascular em Urgência na Terapia Renal Substitutiva (2025) | `08-documentos-tecnicos/` (nome a definir) | 🔍 Procurar na página de protocolos da CPPAS |
+
 ### Fase 3 — Migração GitHub (este repositório)
 ✅ Repositório `governanca-ses-df` criado em 2026-06-02
 🔄 Upload dos 28 arquivos .md — pendente
